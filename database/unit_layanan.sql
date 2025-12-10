@@ -1,0 +1,1 @@
+INSERT INTO `unit_layanan` (`id`, `nama_unit`, `deskripsi`, `email_kontak`, `telepon_kontak`, `alamat`, `created_at`, `updated_at`) VALUES (1, 'Unit Layanan Terpadu', 'Unit Layanan Terpadu Universitas Sumatera Utara', NULL, NULL, NULL, '2025-12-09 23:15:11', '2025-12-09 23:15:11');
