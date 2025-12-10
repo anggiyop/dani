@@ -1,0 +1,123 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+SWQI: Indeks Kualitas Air Khusus Untuk Danau Pasang Surut Tropis
+SWQI: Indeks Kualitas Air Khusus untuk Danau Pasang Surut Tropis
+Diterbitkan Pada
+17 Oktober 2024
+Diterbitkan Oleh
+Dr. Ahmad Muhtadi S.Pi., M.Si
+SWQI: Indeks Kualitas Air Khusus untuk Danau Pasang Surut Tropis
+ 
+
+Diterbitkan oleh
+
+Dr. Ahmad Muhtadi S.Pi., M.Si
+
+Diterbitkan pada
+
+Kamis, 17 Oktober 2024
+
+Temukan bagaimana Siombak Water Quality Index (SWQI) memberikan solusi untuk mengukur kualitas air di danau pasang surut tropis, seperti Danau Siombak, dengan parameter inovatif yang mengatasi keterbatasan Water Quality Index tradisional.
+
+Di tengah meningkatnya permasalahan kelangkaan air dan polusi, kualitas air yang mengalir melalui sungai, danau, dan wilayah pesisir menjadi semakin penting. Water Quality Index (WQI) telah lama digunakan untuk mengukur kondisi air, memberikan representasi numerik yang jelas tentang seberapa bersih atau tercemarnya sumber air tertentu. Namun, tidak semua air memiliki karakteristik yang sama. Terutama untuk danau pasang surut atau estuari yang mengalami interaksi kompleks antara air tawar dan air asin, pendekatan khusus diperlukan. Di sinilah Siombak Water Quality Index (SWQI) hadir sebagai alat yang dirancang untuk menangani karakteristik unik dari danau pasang surut tropis, seperti Danau Siombak di Indonesia.
+
+SWQI dirancang oleh tim peneliti dari berbagai perguruan tinggi, yakni Ahmad Muhtadi dan Rusdi Leidonald (Universitas Sumatera Utara, Indonesia), Fredinan Yulianda, Mennofatria Boer, Majariana Krisanti, dan Etty Riani (Institut Pertanian Bogor, Indonesia), serta Qadar Hasani (Universitas Lampung, Indonesia) dan Muhammad R. Cordova (Badan Riset dan Inovasi Nasional, Indonesia).
+
+Danau Siombak bukanlah air biasa. Danau ini merupakan saksi keseimbangan dinamis antara pengaruh air tawar dan pasang surut air laut. Terletak di bagian utara Kota Medan, ibu kota Provinsi Sumatera Utara, danau pasang surut tropis ini dipengaruhi oleh aliran air laut dari selat yang berdekatan. Interaksi ini menciptakan kondisi air yang tidak dapat sepenuhnya dievaluasi dengan WQI tradisional, yang pada dasarnya dirancang untuk sistem air tawar di wilayah subtropis. Untuk Danau Siombak, kebutuhan akan indeks kualitas air yang khusus sangat jelas, terutama ketika danau ini menghadapi tantangan lingkungan yang semakin meningkat akibat polusi.
+
+“WQI tradisional, meskipun efektif dalam banyak kasus, memiliki keterbatasan tertentu. Ketika diterapkan di tempat seperti Danau Siombak, WQI konvensional tidak mampu memberikan gambaran akurat tentang kualitas air. Keterbatasan ini mendorong pengembangan indeks modifikasi yang dapat memperhitungkan kondisi unik lingkungan estuari dan pesisir, sehingga lahirlah SWQI,” jelas Ahmad Muhtadi.
+
+SWQI dibuat secara khusus untuk Danau Siombak. Meskipun merupakan modifikasi dari WQI yang sudah ada, alat tersebut merupakan perombakan total tentang bagaimana kualitas air dinilai di danau pasang surut. Parameter-parameter ini mencakup 14 komponen fisika dan kimia yang diukur sepanjang tahun, seperti materi organik, zat terlarut dan tersuspensi, fosfat, dan debit air. Pengukuran ini memberikan pemahaman yang lebih jelas tentang kondisi kesehatan air, dengan memperhitungkan pengaruh pasang surut serta perubahan musiman.
+
+Ahmad Muhtadi menjelaskan, salah satu aspek paling inovatif dari SWQI adalah penggunaan Principal Component Analysis (PCA) untuk memilih parameter yang paling relevan. PCA adalah metode statistik yang membantu mengidentifikasi pola dan mengurangi kompleksitas data, memungkinkan tim peneliti untuk fokus pada parameter yang paling berpengaruh terhadap kualitas air. Dengan menerapkan PCA, ditemukan bahwa variabel-variabel tertentu, seperti materi organik dan zat tersuspensi, memiliki peran lebih penting dalam menentukan tingkat polusi di Danau Siombak dibandingkan variabel lainnya.
+
+Menariknya, analisis PCA mengungkapkan asosiasi yang berbeda antara variabel kualitas air tergantung pada apakah pengukuran dilakukan selama pasang tinggi atau pasang rendah. Misalnya, tingkat pH, yang merupakan indikator utama di sistem air tawar, ditemukan kurang relevan selama pasang tinggi di Danau Siombak. Hal ini menunjukkan bahwa faktor lain, seperti salinitas dan konsentrasi nutrisi, lebih signifikan.
+
+Kualitas air di Danau Siombak dinilai berdasarkan berbagai parameter, mulai dari suhu, salinitas, dan oksigen terlarut hingga metrik yang lebih kompleks, seperti Total Dissolved Solids (TDS), Total Suspended Solids (TSS), Biological Oxygen Demand (BOD), dan Chemical Oxygen Demand (COD). Dengan mengevaluasi parameter-parameter ini, para peneliti bisa mendapatkan pandangan yang komprehensif tentang tingkat polusi di danau. Mereka menemukan bahwa materi organik, zat tersuspensi, dan nutrisi seperti fosfat dan nitrat merupakan polutan utama, sebagian besar disebabkan oleh limpasan dari pertanian dan limbah perkotaan. “Temuan ini menyoroti perlunya tindakan pengendalian polusi yang lebih terarah yang menangani sumber kontaminasi spesifik di danau pasang surut tropis,” tegas Ahmad Muhtadi.
+
+Variasi musiman juga memainkan peran signifikan dalam menentukan kualitas air Danau Siombak. Studi ini mengungkapkan bahwa kualitas air danau secara umum lebih baik selama pasang tinggi, ketika aliran air laut membantu mengencerkan polutan, dibandingkan dengan pasang rendah, ketika polutan lebih terkonsentrasi. Selain itu, kualitas air ditemukan lebih buruk selama musim kemarau, yang berlangsung dari Februari hingga Agustus, dibandingkan dengan musim hujan, yang berlangsung dari September hingga Januari. Selama bulan-bulan kering, aliran air yang berkurang menyebabkan penumpukan polutan, memperburuk tingkat polusi di danau.
+
+Pengumpulan data untuk penelitian ini bukanlah tugas sederhana. Para peneliti dengan teliti mengumpulkan sampel dari delapan titik yang berbeda di dalam danau, melakukan pengujian bulanan dari September 2018 hingga Agustus 2019. Mereka mengambil sampel selama pasang tinggi dan rendah, memastikan bahwa mereka menangkap seluruh rentang fluktuasi kualitas air sepanjang tahun. Menggunakan sampler air Kemmerer 5 liter, mereka mengukur segala sesuatu dari tingkat nutrisi hingga kandungan oksigen, memberikan gambaran yang rinci tentang kesehatan danau. Data yang dikumpulkan selama periode ini menjadi dasar pengembangan SWQI, memberikan para peneliti wawasan yang mereka butuhkan untuk menciptakan indeks yang disesuaikan dengan kondisi unik Danau Siombak.
+
+Hasil dari penelitian ini membawa implikasi penting bagi pengelolaan sumber daya air, tidak hanya untuk Danau Siombak, tetapi juga untuk danau pasang surut tropis lainnya. Dengan adanya SWQI, pihak berwenang setempat bisa lebih memahami tingkat polusi di Danau Siombak dan mengambil tindakan untuk melindungi ekosistemnya. Baik itu dengan menerapkan peraturan yang lebih ketat terhadap pembuangan limbah industri atau menciptakan program untuk mengurangi limpasan dari pertanian, SWQI menyediakan dasar ilmiah untuk merancang kebijakan yang dapat memperbaiki kesehatan danau pasang surut tropis.
+
+Namun, pengembangan SWQI hanyalah awal dari sebuah langkah yang lebih besar. Para peneliti di balik studi ini menyadari bahwa masih banyak yang harus dilakukan. SWQI merupakan alat yang berharga untuk menilai kualitas air di danau pasang surut tropis, tetapi ini bukan solusi yang berlaku untuk semua. Estuari dan perairan pesisir lainnya memiliki tantangan unik tersendiri, dan penelitian lebih lanjut diperlukan untuk mengembangkan indeks yang dapat disesuaikan dengan lingkungan ini. SWQI dapat menjadi model untuk upaya-upaya masa depan, memberikan kerangka kerja tentang bagaimana pendekatan penilaian kualitas air di sistem perairan yang kompleks.
+
+SWQI menandai kemajuan penting dalam bidang penilaian kualitas air. Dengan mengatasi keterbatasan WQI tradisional dan menyesuaikan parameternya dengan kebutuhan khusus Danau Siombak, SWQI memberikan gambaran yang lebih akurat tentang kualitas air di danau pasang surut tropis. “Temuan penelitian ini menegaskan perlunya penelitian berkelanjutan dan pengembangan kebijakan untuk memastikan keberlanjutan lingkungan ini. Di saat danau pasang surut tropis menghadapi ancaman yang meningkat dari polusi dan perubahan iklim, alat seperti SWQI akan menjadi kunci dalam mengarahkan upaya untuk melindungi dan melestarikan mereka untuk generasi mendatang,” tutup Ahmad Muhtadi.
+
+SDGs
+SDGs 6
+SDGs 14
+Detail Paper
+Jurnal
+Aquaculture, Aquarium, Conservation & Legislation - International Journal of the Bioflux Society
+Judul
+Assessment of pollution status of tropical coastal lakes using modified Water Quality Index (WQI) based on physio-chemical parameters
+Penulis
+Ahmad Muhtadi (1), Fredinan Yulianda (2), Mennofatria Boer (2) , Majariana Krisanti (2), Etty Riani (2), Rusdi Leidonald (1), Qadar Hasani (3), Muhammad R. Cordova (4)
+Afiliasi Penulis
+Departemen Manajemen Sumber Daya Perairan, Fakultas Pertanian, Universitas Sumatera Utara, Indonesia
+Departemen Manajemen Sumberdaya Perairan, Fakultas Perikanan dan Ilmu Kelautan, Institut Pertanian Bogor, Indonesia
+Departemen Sumberdaya Akuatik, Fakultas Pertanian, Universitas Lampung, Indonesia
+Pusat Riset Oseanografi, Organisasi Riset Kebumian dan Maritim, Badan Riset dan Inovasi Nasional, Jakarta, Indonesia
+DOI
+-
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

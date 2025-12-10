@@ -1,0 +1,121 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Natural Language Generation (NLG): A New Chapter For Young Doctors
+Natural Language Generation (NLG): A New Chapter for Young Doctors
+Published At
+29 August 2024
+Published By
+Prof. Dr. Drs. Opim Salim Sitompul M.Sc
+Natural Language Generation (NLG): A New Chapter for Young Doctors
+ 
+
+Published by
+
+Prof. Dr. Drs. Opim Salim Sitompul M.Sc
+
+Published at
+
+Thursday, 29 August 2024
+
+A Natural Language Generation (NLG) system helps young doctors interpret blood test results quickly and accurately. This research from the Universitas Sumatera Utara improves medical efficiency and reduces the risk of diagnostic errors.
+
+In the fast-paced world of medicine, the ability to quickly and accurately interpret laboratory results is crucial. For experienced doctors, reviewing blood test results and determining whether the values are within normal or abnormal ranges becomes almost second nature. However, for young doctors just starting their medical careers, this process can be quite daunting. Often, they must rely on reference tables, comparing each blood component with its normal range—a task that is time-consuming and prone to human error. The need for a more efficient system has become increasingly apparent.
+
+This is where the Natural Language Generation (NLG) system comes into play—a revolutionary tool designed to assist young doctors in this critical aspect of medical practice. Experts from Universitas Sumatera Utara, including Prof. Opim Salim Sitompul, Erna Budhiarti Nababan, Dedy Arisandi, Indra Aulia, and Hengky Wijaya, conducted research to create such a system. The idea to develop an NLG system capable of interpreting laboratory blood test results stemmed from the challenges faced by young doctors.
+
+When dealing with a Complete Blood Count (CBC) test, these young practitioners often feel overwhelmed by the sheer amount of data they need to analyze. The CBC test, after all, encompasses various measurements—red blood cells, white blood cells, hemoglobin levels, and others—all of which must be carefully analyzed to provide an accurate diagnosis. “The manual process of comparing each component with its normal range can be extremely exhausting, and the risk of missing an abnormal value is very high. For a young doctor, this could mean the difference between making a timely diagnosis or overlooking a critical health issue,” said Prof. Opim Salim.
+
+Recognizing this problem, Prof. Opim Salim and his team set out to create an NLG system specifically designed to help young doctors navigate the complexities of laboratory results. The main goal of this research was to develop a system that could automatically generate summary text reports based on hematology test results. These reports would not only identify whether each blood component value was normal, abnormal, or critical but also provide a clear and easily understandable interpretation for young doctors.
+
+Prof. Opim Salim explained that the proposed system is built on two main components: the Complete Blood Count Information (CBCI) system, which serves as the front-end interface, and the Template Generation System (TGen-System), a template generator behind the scenes. The CBCI system is responsible for extracting and processing data from Microsoft Word document templates containing the patient's personal data and laboratory test results. Once the data is processed, the TGen-System goes to work, generating candidate templates based on sentence content. These templates are then used to produce a textual representation of the laboratory results.
+
+The data used in this research consisted of complete blood count (CBC) results obtained from clinical laboratories. The researchers designed Microsoft Word document templates that included three tables: one for the patient’s personal data, one for the laboratory test results, and one for signatures. This standardized format ensures that the data is consistently organized, allowing the NLG system to process and interpret the information efficiently.
+
+A key aspect of this NLG system is its template-based approach to generating summary text reports. The templates used in this system are essentially pre-written sentences with slots that need to be filled with relevant data. For example, a template might read, "The patient's hemoglobin level is x, which is normal, abnormal, or critical." As the system processes the blood test results, it automatically fills in these slots with the appropriate values, generating structured and coherent text that can be quickly reviewed by the doctor,” explained Prof. Opim Salim.
+
+This template-based approach offers several advantages. First, it ensures that the generated reports are consistent in structure and language, which is crucial for maintaining clarity. Second, the presence of templates allows for rapid text generation, as the system only needs to fill in the blanks rather than constructing sentences from scratch. Finally, this approach can be easily adapted to various types of laboratory tests, making it a versatile tool for different medical applications.
+
+The development of this NLG system was not without its challenges. The researchers drew on previous studies in the field of Natural Language Processing (NLP) and NLG, many of which focused on generating medical information reports, text summarization, and patient record summaries. Building on this work, the researchers were able to design a system that not only meets the specific needs of young doctors but also pushes the boundaries of NLG technology in the medical field.
+
+Once the NLG system was developed, it underwent a rigorous evaluation process to assess its effectiveness. The researchers evaluated the system based on several criteria, including readability, clarity, and overall suitability of the text interpretation.
+
+“The results were promising, with the system achieving an average naturalness score of 90% or higher. This high level of naturalness indicates that the generated text closely resembles human-written reports, making it easier for young doctors to understand and use the information in a clinical setting,” said Prof. Opim Salim.
+
+The implications of this research are profound. With the NLG system, young doctors can now quickly and accurately interpret laboratory blood test results, reducing the likelihood of errors and improving the quality of patient care. The system also serves as a valuable educational tool, helping new practitioners better understand the intricacies of blood tests and how to interpret them. Over time, this could enhance the proficiency levels among young doctors, ultimately benefiting the healthcare system as a whole.
+
+Looking to the future, the researchers have identified several areas where this NLG system could be expanded and improved. One potential direction for development is enhancing the system's capacity to handle more complex medical data. While the current version focuses on CBC results, there is no reason why the system could not be adapted to other types of laboratory tests or even more comprehensive medical records. Additionally, integrating the NLG system with other healthcare systems, such as Electronic Health Records (EHR), could further streamline the diagnostic process and provide doctors with a more holistic view of a patient's health.
+
+The development of an NLG system for interpreting laboratory blood test results marks a significant advancement in medical technology. By addressing the specific needs of young doctors, this system has the potential to improve the efficiency and accuracy of medical practice. The promising initial evaluation results suggest that this NLG system is not only effective but also user-friendly, making it an ideal tool for new practitioners. As the system continues to evolve and expand, it is likely to play an increasingly important role in the future of healthcare, helping doctors provide better care for their patients and ultimately saving lives.
+
+SDGs
+SDGs 3
+Paper Details
+Journal
+IAENG International Journal of Computer Science
+Title
+Template-Based Natural Language Generation in Interpreting Laboratory Blood Test
+Authors
+Opim Salim Sitompul, Erna Budhiarti Nababan, Dedy Arisandi, Indra Aulia, Hengky Wijaya
+Author Affiliations
+Department of Information Technology, Universitas Sumatera Utara, Medan 20155, Indonesia
+DOI
+https:// https://www.iaeng.org/IJCS/issues_v48/issue_1/IJCS_48_1_07.pdf
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

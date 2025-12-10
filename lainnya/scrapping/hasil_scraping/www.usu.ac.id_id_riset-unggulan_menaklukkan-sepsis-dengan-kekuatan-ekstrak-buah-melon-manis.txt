@@ -1,0 +1,119 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Menaklukkan Sepsis Dengan Kekuatan Ekstrak Buah Melon Manis
+Menaklukkan Sepsis dengan Kekuatan Ekstrak Buah Melon Manis
+Diterbitkan Pada
+06 September 2024
+Diterbitkan Oleh
+Dr. dr. Cut Meliza Zainumi M.Ked(An)., Sp.An
+Menaklukkan Sepsis dengan Kekuatan Ekstrak Buah Melon Manis
+ 
+
+Diterbitkan oleh
+
+Dr. dr. Cut Meliza Zainumi M.Ked(An)., Sp.An
+
+Diterbitkan pada
+
+Jumat, 06 September 2024
+
+Penelitian dari Universitas Sumatera Utara menunjukkan potensi ekstrak Cucumis melo L.C. (melon) yang dikombinasikan dengan gliadin sebagai terapi tambahan untuk sepsis. Studi ini mengungkap peningkatan kadar SOD dan penurunan stres oksidatif pada model tikus yang diinduksi sepsis.
+
+Sepsis adalah kondisi medis yang penuh tantangan dan sering kali menimbulkan ancaman serius di ruang perawatan intensif. Di balik deretan alat medis canggih dan prosedur yang rumit, sepsis merupakan salah satu penyebab utama tingginya angka kematian di banyak unit perawatan intensif di seluruh dunia. Sepsis bukanlah penyakit tunggal, melainkan sindrom kompleks yang dipicu oleh respons berlebihan tubuh terhadap infeksi, terutama yang disebabkan oleh bakteri Gram-negatif melalui molekul lipopolisakarida (LPS). Respons yang terlalu intens ini menyebabkan ketidakseimbangan antara stres oksidatif dan pertahanan antioksidan tubuh, memperburuk kondisi pasien yang sudah kritis.
+
+Di dalam tubuh manusia, terdapat mekanisme perlindungan penting yang melibatkan enzim Superoxide Dismutase (SOD). Enzim ini adalah salah satu antioksidan endogen utama yang melawan spesies oksigen reaktif (ROS), molekul yang sangat reaktif dan dapat merusak sel serta jaringan. SOD bekerja dengan mengubah radikal superoksida, salah satu bentuk ROS yang paling berbahaya, menjadi molekul yang lebih aman, seperti air. Dengan demikian, SOD berfungsi sebagai pelindung penting dalam menjaga keseimbangan oksidatif tubuh. Sayangnya, pada pasien dengan sepsis, kadar SOD cenderung menurun, yang meningkatkan stres oksidatif dan memperburuk keadaan pasien.
+
+Menyadari pentingnya peran SOD dalam mengurangi kerusakan oksidatif, para peneliti dari Universitas Sumatera Utara, Indonesia, yaitu Cut Meliza Zainumi, Gontar Alamsyah Siregar, Dadik Wahyu Wijaya, dan Muhammad Ichwan, mencari cara untuk meningkatkan kadar SOD dalam tubuh, terutama pada kondisi sepsis. Salah satu sumber potensial yang menarik perhatian adalah Cucumis melo L.C. atau lebih dikenal dengan nama melon. Buah ini kaya akan SOD dan telah lama dikenal memiliki sifat antioksidan yang kuat.
+
+Namun, tantangan terbesar dalam penggunaan SOD sebagai terapi adalah memastikan bahwa SOD dapat diserap dengan baik oleh tubuh, khususnya di saluran pencernaan. Di sinilah peran gliadin, sebuah protein dari gandum, menjadi penting. Gliadin dapat meningkatkan penyerapan SOD di saluran pencernaan ketika digunakan dalam kombinasi dengan ekstrak Cucumis melo L.C., menghasilkan produk bernama Glisodin.
+
+Untuk menguji efektivitas Glisodin sebagai agen antioksidan dalam kondisi sepsis, Cut Meliza Zainumi dan tim melakukan studi eksperimental pada tikus Wistar jantan. Tikus-tikus ini dibagi menjadi empat kelompok: kontrol negatif, kontrol positif, serta dua kelompok yang diberi suplemen SOD dari ekstrak Cucumis melo L.C. yang dikombinasikan dengan gliadin (CME-gliadin) dengan dosis 1 IU/hari dan 5 IU/hari. Selama 28 hari, tikus diberi Glisodin, sebelum sepsis diinduksi melalui injeksi intraperitoneal LPS dengan dosis 10 mg/kg.
+
+“Hasil penelitian ini menunjukkan potensi CME-gliadin sebagai terapi tambahan pada kondisi sepsis. Peningkatan signifikan dalam kadar SOD diamati pada kedua kelompok yang diberi suplemen CME-gliadin dibandingkan dengan kelompok kontrol. Hal ini menunjukkan bahwa suplemen ini berhasil meningkatkan pertahanan antioksidan tubuh pada tikus yang diinduksi sepsis. Lebih lanjut, penurunan kadar MDA (malondialdehida), penanda kerusakan lipid akibat peroksidasi, juga menunjukkan pengurangan stres oksidatif secara signifikan setelah pemberian CME-gliadin,” jelas Cut Meliza Zainumi.
+
+Menariknya, meskipun ada perbedaan dosis SOD yang diberikan (1 IU/hari dan 5 IU/hari), tidak ditemukan perbedaan signifikan dalam efektivitas kedua dosis dalam mengurangi stres oksidatif dan inflamasi. Namun, terdapat perbedaan signifikan dalam hasil MDA dan TNF-α (tumor necrosis factor-alpha), di mana dosis lebih tinggi (5 IU/hari) menunjukkan hasil sedikit lebih baik, meskipun tidak signifikan secara statistik. Ini menunjukkan bahwa dosis lebih tinggi mungkin memberikan sedikit keuntungan tambahan, meskipun diperlukan penelitian lebih lanjut untuk mengonfirmasi temuan ini.
+
+Selain itu, meskipun suplemen CME-gliadin berhasil menurunkan kadar TNF-α, sebuah penanda inflamasi yang signifikan dalam sepsis, terdapat temuan menarik terkait kadar laktat pada tikus-tikus tersebut. Laktat, yang sering digunakan sebagai indikator prognosis dalam sepsis, meningkat secara signifikan pada semua kelompok setelah injeksi LPS.
+
+“Yang menarik, kelompok yang diberi suplemen CME-gliadin justru menunjukkan peningkatan laktat yang lebih tinggi dibandingkan kelompok kontrol. Meskipun ini tampak kontraintuitif, ada kemungkinan peningkatan laktat ini merupakan respons metabolik kompleks terhadap suplemen SOD, yang memerlukan investigasi lebih lanjut,” ujar Cut Meliza Zainumi.
+
+Cut Meliza Zainumi menegaskan bahwa hasil penelitian ini menunjukkan Glisodin, dengan kandungan SOD dari Cucumis melo L.C. yang dikombinasikan dengan gliadin, memiliki potensi sebagai agen antioksidan dan antiinflamasi dalam model sepsis yang diinduksi LPS. Meskipun kedua dosis SOD (1 IU/hari dan 5 IU/hari) menunjukkan efektivitas serupa dalam mengurangi stres oksidatif dan inflamasi, dosis yang lebih tinggi memberikan sedikit keuntungan tambahan. Temuan terkait kadar laktat menggarisbawahi kompleksitas respons tubuh terhadap suplemen antioksidan ini, yang memerlukan penelitian lebih lanjut untuk memahami mekanisme mendasarinya.
+
+Dalam konteks klinis, Cut Meliza Zainumi menyebutkan bahwa hasil ini memberikan harapan bahwa suplemen SOD, khususnya dari sumber alami seperti Cucumis melo L.C., dapat menjadi terapi tambahan yang bermanfaat dalam pengelolaan sepsis. Namun, diperlukan lebih banyak studi, terutama pada manusia, untuk memastikan efektivitas dan keamanan penggunaan Glisodin dalam kondisi sepsis. “Jika penelitian lebih lanjut mendukung temuan ini, kita mungkin berada di ambang revolusi dalam pendekatan terhadap sepsis, dengan memanfaatkan sumber daya alam untuk melawan salah satu tantangan medis terbesar di dunia,” tutup Cut Meliza Zainumi.
+
+Sepsis, dengan segala kerumitannya, adalah medan pertempuran di mana setiap keuntungan kecil bisa menjadi perbedaan antara hidup dan mati. Dalam upaya memahami dan mengendalikan kondisi ini, kita tidak hanya mengandalkan teknologi canggih dan obat-obatan modern, tetapi juga mencari inspirasi dari alam, dari buah melon yang sederhana namun penuh kekuatan. Ini mengingatkan kita bahwa dalam perjuangan melawan penyakit, terkadang solusi terbaik datang dari tempat yang paling tak terduga.
+
+SDGs
+SDGs 3
+Detail Paper
+Jurnal
+Heliyon
+Judul
+Comparison enteral superoxide dismutase 1 IU and 5 IU from Cucumis melo L.C extract combined with gliadin as an antioxidant and anti-inflammatory in LPS-Induced sepsis model rats
+Penulis
+Cut Meliza Zainumi (1), Gontar Alamsyah Siregar (2), Dadik Wahyu Wijaya (1), Muhammad Ichwan (3)
+Afiliasi Penulis
+Departemen Anestesiologi dan Perawatan Intensif, Fakultas Kedokteran, Universitas Sumatera Utara, Medan, Indonesia
+Departemen Penyakit Dalam, Fakultas Kedokteran, Universitas Sumatera Utara, Medan, Indonesia
+Departemen Farmakologi dan Terapi, Fakultas Kedokteran, Universitas Sumatera Utara, Medan, Indonesia
+DOI
+https://doi.org/10.1016/j.heliyon.2022.e10236
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

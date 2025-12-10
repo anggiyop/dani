@@ -1,0 +1,126 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Efektivitas Cangkang Kerang Darah Menanggulangi Pencemaran Air
+Efektivitas Cangkang Kerang Darah Menanggulangi Pencemaran Air
+Diterbitkan Pada
+14 Februari 2025
+Diterbitkan Oleh
+Ir. Erni Misran ST., MT., Ph.D
+Efektivitas Cangkang Kerang Darah Menanggulangi Pencemaran Air
+ 
+
+Diterbitkan oleh
+
+Ir. Erni Misran ST., MT., Ph.D
+
+Diterbitkan pada
+
+Jumat, 14 Februari 2025
+
+Penelitian terbaru dari Universitas Sumatera Utara mengungkap bahwa cangkang kerang darah dapat digunakan sebagai adsorben efektif dalam menghilangkan methylene blue dari limbah cair dengan bantuan gelombang ultrasonik. Teknik ini meningkatkan efisiensi penghilangan hingga 98.614%, menawarkan solusi ramah lingkungan untuk pencemaran air.
+
+Methylene blue, sebuah pewarna sintetis yang banyak digunakan dalam berbagai industri, telah menjadi salah satu penyebab utama pencemaran air. Dengan konsentrasi yang sering kali berkisar antara 10-200 mg/L, limbah yang mengandung methylene blue berpotensi besar mencemari sumber air dan mengancam kesehatan manusia serta ekosistem. Ketika dibuang ke lingkungan, pewarna ini tidak hanya menciptakan masalah estetika, tetapi juga dapat menghasilkan senyawa beracun melalui reaksi kimia yang berbahaya. Oleh karena itu, penanganan yang efektif terhadap pencemaran ini sangat diperlukan.
+
+ 
+
+Dalam upaya mengatasi masalah ini, berbagai metode telah diterapkan untuk menghilangkan methylene blue dari limbah. Di antara metode-metode tersebut, adsorpsi menjadi salah satu pilihan yang paling efisien dan ekonomis. Erni Misran, Aqnes Faulina Sihombing, Dina Valianty Sitorus, Viqry Pramananda (Universitas Sumatera Utara), Muhammad Dani Supardan (Universitas Syah Kuala), dan Dewi Agustina Iryani (Universitas Lampung) melakukan penelitian pada fenomena tersebut. Penelitian tersebut menemukan bahwa metode adsorbsi ultrasonik tidak hanya mudah diterapkan, tetapi juga memungkinkan penggunaan bahan-bahan lokal yang dapat diolah menjadi adsorben. Salah satu inovasi menarik dalam penelitian ini adalah pemanfaatan cangkang kerang darah (Anadara granosa) sebagai adsorben murah untuk menghilangkan methylene blue dengan bantuan gelombang ultrasonik.
+
+ 
+
+Cangkang kerang darah memiliki kandungan kalsium karbonat (CaCO3) yang tinggi mencapai 98.7%. Bahan tersebut sangat potensial untuk digunakan dalam proses adsorbsi. Dengan menggunakan teknik ini, diharapkan dapat diperoleh hasil yang lebih optimal dibandingkan dengan metode konvensional. “Proses persiapan adsorben melibatkan pengolahan cangkang kerang darah menjadi tiga jenis adsorben dengan metode yang berbeda, yaitu A1, A2, dan A3. Setiap metode pengolahan mempengaruhi morfologi dan komposisi elemen dari adsorben yang dihasilkan. Karakterisasi dilakukan menggunakan berbagai teknik seperti SEM-EDX dan FTIR untuk memastikan kualitas dan efektivitas adsorben tersebut,” jelas Erni Misran
+
+ 
+
+Selanjutnya, penelitian ini juga mengeksplorasi berbagai parameter yang mempengaruhi efisiensi adsorbsi, seperti pH larutan, massa adsorben, waktu kontak, dan konsentrasi awal methylene blue. Hasil penelitian menunjukkan bahwa kondisi optimal untuk penghilangan methylene blue terjadi pada pH 12, dengan massa adsorben 0.5 g dan waktu kontak selama 60 menit. Dalam kondisi tersebut, persentase penghilangan mencapai angka yang mengesankan yaitu 98.614%.
+
+ 
+
+Menariknya, penggunaan gelombang ultrasonik dalam proses ini terbukti meningkatkan efisiensi penghilangan hingga 63.119% dibandingkan dengan proses tanpa ultrasonik yang hanya mencapai 35.495%. Hal ini menunjukkan bahwa teknologi ultrasonik dapat mempercepat proses transfer massa antara cairan dan padatan, sehingga meningkatkan efektivitas adsorpsi.
+
+ 
+
+“Analisis lebih lanjut mengenai mekanisme adsorpsi, kami menemukan bahwa proses tersebut mengikuti model isotherm Sips dan kinetika pseudo-order kedua,” papar Erni. Artinya hal menunjukkan bahwa interaksi elektrostatik antara permukaan adsorben dan kation dalam methylene blue serta pembentukan monolayer pada permukaan heterogen dari adsorben A3 memainkan peran penting dalam proses adsorpsi. Keunggulan lain dari penelitian ini adalah kemampuan reusabilitas dari adsorben A3. Dengan performa luar biasa, adsorben ini dapat digunakan kembali hingga enam siklus tanpa kehilangan efektivitasnya.
+
+ 
+
+Cangkang kerang darah merupakan alternatif efektif sebagai adsorben untuk menghilangkan methylene blue dari limbah dengan bantuan ultrasonik. Dengan memanfaatkan sumber daya lokal dan teknologi sederhana, kita dapat menemukan solusi inovatif untuk masalah pencemaran air yang semakin mendesak di era modern ini. Penelitian lebih lanjut diharapkan dapat memperluas aplikasi cangkang kerang darah dalam pengolahan limbah lainnya serta meningkatkan pemahaman kita tentang mekanisme dasar dari proses adsorpsi ini.
+
+ 
+
+Dengan demikian, langkah-langkah konkret menuju pengelolaan limbah yang lebih baik dapat diambil melalui pendekatan berbasis sains dan teknologi yang ramah lingkungan. “Upaya semacam ini tidak hanya akan membantu menjaga kebersihan sumber air kita tetapi juga melindungi kesehatan masyarakat dan keberlanjutan ekosistem secara keseluruhan,” tutup Erni
+
+SDGs
+SDGs 12
+SDGs 14
+Detail Paper
+Jurnal
+Results in Engineering
+Judul
+Ultrasonic Assisted Adsorption of Methylene Blue Using Blood Clam Shell as Alow-Cost Adsorbent
+Penulis
+Erni Misran (1), Muhammad Dani Supardan (2), Dewi Agustina Iryani (3), Viqry Pramananda (1), Aqnes Faulina Sihombing (1), Dina Valianty Sitorus (1)
+Afiliasi Penulis
+Program Studi Teknik Kimia, Universitas Sumatera Utara, Jl. Almamater Kampus USU, Padang Bulan, Medan, 20155, Indonesia
+Program Studi Teknik Kimia, Universitas Syiah Kuala, Darussalam, Banda Aceh, 23111, Indonesia
+Program Studi Teknik Kimia, Universitas Lampung, Indonesia
+DOI
+https://doi.org/10.1016/j.rineng.2024.102715
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

@@ -1,0 +1,401 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+Program Sarjana Ilmu Komputer
+Sarjana Ilmu Komputer | Akademik
+Informasi Umum
+Tentang Prodi
+Akademik
+Penelitian & Pengabdian
+Alumni
+Kegiatan
+SDGs
+
+Untuk mengetahui lebih lanjut tentang berbagai opsi Peminatan Program Studi, mengeksplorasi Kurikulum yang tersedia, memahami Peraturan Akademik yang berlaku, mempelajari Prosedur Skripsi, menyesuaikan Jadwal Kuliah dengan kebutuhan Anda, dan memperhitungkan Biaya Studi yang dibutuhkan, memahami Standar Pencapaian yang Diharapkan, Mengevaluasi Capaian Pembelajar. Semua informasi yang Anda butuhkan untuk memulai perjalanan akademik Anda ada di sini.
+
+Kurikulum
+
+Berikut ini adalah daftar lengkap mata kuliah yang akan diambil pada setiap semester.
+
+SK Dekan & SK Rektor
+Kode Mata Kuliah :
+Semua
+expand_more
+Cari Mata Kuliah
+search
+Semester 1
+add
+USU1106
+Pendidikan Pancasila
+2 SKS
+
+USU1108
+Bahasa Indonesia
+2 SKS
+
+MAT1101
+Matematika Dasar
+2 SKS
+
+ILK1102
+Sistem Digital
+3 SKS
+
+ILK1103
+Pengantar Ilmu Komputer
+2 SKS
+
+ILK1105
+Dasar Pemrograman
+3 SKS
+
+ILK1106
+Prak. Dasar Pemrograman
+1 SKS
+
+ILK1107
+Teori Bahasa Otomata
+3 SKS
+
+ILK1108
+Organisasi Arsitektur Komputer
+2 SKS
+
+Semester 2
+add
+USU1101–USU1107
+Pendidikan Agama Islam/Katolik/Kristen Protestan/Hindu/Buddha/Konghucu/Pendidikan Kepercayaan terhadap Tuhan YME
+2 SKS
+
+USU1109
+Pendidikan Kewarganegaraan
+2 SKS
+
+ILK1201
+Matematika Diskrit
+3 SKS
+
+ILK1202
+Aljabar Linear
+3 SKS
+
+ILK1203
+Algoritma dan Pemrograman
+3 SKS
+
+ILK1204
+Prak. Algoritma dan Pemrograman
+1 SKS
+
+ILK1205
+Probabilitas dan Statisika
+3 SKS
+
+ILK1206
+Prak. Probabilitas dan Statistika
+1 SKS
+
+ILK1207
+Sistem Operasi
+2 SKS
+
+Semester 3
+add
+.
+Internasionalisasi 1
+2 SKS
+
+.
+Kearifan Lokal
+2 SKS
+
+ILK2101
+Desain dan Analisis Algoritma
+3 SKS
+
+ILK2102
+Prak. Desain dan Analisis Algoritma
+1 SKS
+
+ILK2103
+Komputasi Numerik
+2 SKS
+
+ILK2104
+Basis Data
+3 SKS
+
+ILK2105
+Prak. Basis Data
+1 SKS
+
+ILK2106
+Pemrograman Web
+3 SKS
+
+ILK2107
+Prak. Pemrograman Web
+1 SKS
+
+ILK2108
+Wirausaha Digital
+2 SKS
+
+Semester 4
+add
+.
+Seni dan Kebugaran
+2 SKS
+
+ILK2201
+Kecerdasan Buatan
+3 SKS
+
+ILK2202
+Prak. Kecerdasan Buatan
+1 SKS
+
+ILK2203
+Pemrograman Berorientasi Objek
+3 SKS
+
+ILK2204
+Prak. Pemrograman Berorientasi Objek
+1 SKS
+
+ILK2205
+Grafika Komputer
+3 SKS
+
+ILK2206
+Prak. Grafika Komputer
+1 SKS
+
+ILK2207
+Sistem Informasi Manajemen
+2 SKS
+
+ILK2208
+Prak. Sistem Informasi Manajemen
+1 SKS
+
+ILK2209
+Kriptografi
+3 SKS
+
+Semester 5
+add
+ILK3101
+Metodologi Penelitian
+2 SKS
+
+ILK3102
+Pembelajaran Mesin
+2 SKS
+
+ILK3103
+Prak. Pembelajaran Mesin
+1 SKS
+
+ILK3104
+Rekayasa Perangkat Lunak
+3 SKS
+
+ILK3105
+Pemrograman Mobile
+3 SKS
+
+ILK3106
+Praktikum Pemrograman Mobile
+1 SKS
+
+ILK3107
+Mikroprosesor dan Sistem Tertanam
+2 SKS
+
+ILK3108
+Prak. Mikroprosesor dan Sistem Tertanam
+1 SKS
+
+ILK3110
+Forensik Digital (MP 1)
+3 SKS
+
+ILK3111
+Pengembangan Game (MP 1)
+3 SKS
+
+ILK3112
+Robotika (MP 1)
+3 SKS
+
+Semester 6
+add
+ILK3201
+Jaringan Komputer
+3 SKS
+
+ILK3202
+Prak. Jaringan Komputer
+1 SKS
+
+ILK3203
+Kecapakan Antar Personal
+3 SKS
+
+ILK3104
+Pengolahan Citra Digital
+2 SKS
+
+ILK3105
+Prak. Pengolahan Citra Digital
+1 SKS
+
+ILK3206
+Etika Profesi
+3 SKS
+
+ILK3207
+Teknik Kompilasi
+3 SKS
+
+ILK3208
+Prak. Teknik Kompilasi
+1 SKS
+
+ILK3209
+Pemrosesan Bahasa Alami (MP 2)
+3 SKS
+
+ILK3210
+Internet of Thing (MP 3)
+3 SKS
+
+ILK3211
+Ethical Hacker (MP 2)
+3 SKS
+
+Semester 7
+add
+ILK4101
+Penambangan Data
+3 SKS
+
+ILK4102
+Sistem Informasi Geografis
+3 SKS
+
+ILK4103
+Prak. Sistem Informasi Geografis
+1 SKS
+
+ILK4104
+Teknik Pemodelan dan Simulasi
+3 SKS
+
+ILK4105
+Interaksi Manusia dengan Komputer
+2 SKS
+
+ILK4106
+Komputer dan Masyarakat
+3 SKS
+
+ILK4108
+Jaringan Syaraf Tiruan (MP 3)
+3 SKS
+
+ILK4109
+Heuristik (MP 3)
+3 SKS
+
+ILK4110
+Keamanan Sistem Jaringan (MP 3)
+3 SKS
+
+Semester 8
+add
+ILK4299
+Skripsi
+6 SKS
+
+Jadwal Kuliah
+
+Alternative text - include a link to the PDF!
+
+Biaya Studi
+
+Berikut adalah biaya studi Sarjana Ilmu Komputer | Akademik
+Sarjana Ilmu
+Jalur SNBP & SNBT
+UKT Kelompok I
+Rp500.000
+UKT Kelompok II
+Rp1.000.000
+UKT Kelompok III
+Rp2.400.000
+UKT Kelompok IV
+Rp3.100.000
+UKT Kelompok V
+Rp4.700.000
+UKT Kelompok VI
+Rp5.400.000
+UKT Kelompok VII
+Rp7.700.000
+UKT Kelompok VIII
+Rp10.000.000
+Sarjana Ilmu
+Iuran Pengembangan Institusi (IPI)
+(Khusus Jalur Mandiri)
+Rp15.000.000
+Sekali Bayar
+
+Capaian Pembelajaran
+
+Lulusan Program Studi Ilmu Komputer mampu menyusun deskripsi saintifik dan memiliki ilmu pengetahuan untuk membuat model penyelesaian masalah dengan mengimplementasikan algoritma ilmu komputer untuk keperluan perorangan maupun organisasi, selain itu lulusan mampu merancang dan mengimplementasikan solusi berbasis komputasi yang mengikuti metodologi pengembangan terkini serta mengevaluasi efektivitas dan efisiensi solusi tersebut dalam menyelesaikan permasalahan dari berbagai sudut pandang.
+
+Capaian Pembelajaran
+1	Mampu mengidentifikasi, menganalisa dan mengaplikasikan keahliannya untuk memecahkan permasalahan yang berkaitan dengan bidang Ilkom
+2	Menguasai konsep teoritis bidang Ilkom dan konsep teoritis dalam bidang khusus seperti konsep-konsep : Information Retrieval Systems (IRS), Jaringan Komputer (JarKom), Robotik dan Kecerdasan Buatan (RKB)
+3	Mampu untuk mengambil keputusan yang tepat berdasarkan analisis informasi dan data yang terkait dengan bidang ilmu komputer dan mampu memberikan petunjuk dalam memilih berbagai alternatif solusi baik secara mandiri maupun kelompok
+4	Mampu memikul tanggung jawab pada pekerjaan sendiri dan dapat diberi tanggung jawab atas pencapaian hasil kerja organisasi
+5	Mampu mengembangkan dan menerapkan model-model kewirausahaan yang berbasis ilmu komputer dan teknologi informasi untuk menciptakan peluang kerja baru
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara

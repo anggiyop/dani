@@ -1,0 +1,505 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+Membangun Fondasi untuk Masa Depan yang Digital
+Sarjana Teknologi Informasi | Akademik
+Informasi Umum
+Tentang Prodi
+Akademik
+Penelitian & Pengabdian
+Alumni
+Kegiatan
+SDGs
+
+Untuk mengetahui lebih lanjut tentang berbagai opsi Peminatan Program Studi, mengeksplorasi Kurikulum yang tersedia, memahami Peraturan Akademik yang berlaku, mempelajari Prosedur Skripsi, menyesuaikan Jadwal Kuliah dengan kebutuhan Anda, dan memperhitungkan Biaya Studi yang dibutuhkan, memahami Standar Pencapaian yang Diharapkan, Mengevaluasi Capaian Pembelajar. Semua informasi yang Anda butuhkan untuk memulai perjalanan akademik Anda ada di sini.
+
+Kurikulum
+
+Berikut ini adalah daftar lengkap mata kuliah yang akan diambil pada setiap semester.
+
+SK Dekan & SK Rektor
+Kode Mata Kuliah :
+Semua
+expand_more
+Cari Mata Kuliah
+search
+Semester 1
+add
+USU1108
+Pendidikan Pancasila
+2 SKS
+
+USU1110
+Bahasa Indonesia
+2 SKS
+
+MAT1101
+Matematika Dasar
+3 SKS
+
+TIF1101
+Pengantar Teknologi Informasi
+3 SKS
+
+TIF1102
+Organisasi dan Arsitektur Komputer
+2 SKS
+
+TIF1103
+Dasar Pemrograman
+3 SKS
+
+TIF1104
+Praktikum Dasar Pemrograman
+1 SKS
+
+TIF1105
+Pemrograman Web
+3 SKS
+
+TIF1106
+Praktikum Pemrograman Web
+1 SKS
+
+Semester 2
+add
+USU1109
+Pendidikan Kewarganegaraan
+2 SKS
+
+USU1101
+Pendidikan Agama Islam
+2 SKS
+
+USU1102
+Pendidikan Agama Kristen Protestan
+2 SKS
+
+USU1103
+Pendidikan Agama Katolik
+2 SKS
+
+USU1104
+Pendidikan Agama Hindu
+2 SKS
+
+USU1105
+Pendidikan Agama Buddha
+2 SKS
+
+USU1106
+Pendidikan Agama Konghucu
+2 SKS
+
+USU1107
+Pendidikan Kepercayaan terhadap Tuhan Yang Maha Esa
+2 SKS
+
+TIF1201
+Pemrograman Berorientasi Objek
+3 SKS
+
+TIF1202
+Praktikum Pemrograman Berorientasi Objek
+1 SKS
+
+TIF1203
+Pemrograman Web Lanjutan
+3 SKS
+
+TIF1204
+Praktikum Pemrograman Web Lanjutan
+1 SKS
+
+TIF1205
+Sistem Basis Data
+3 SKS
+
+TIF1206
+Praktikum Sistem Basis Data
+1 SKS
+
+TIF1207
+Struktur Data dan Algoritma
+3 SKS
+
+TIF1208
+Praktikum Struktur Data dan Algoritma
+1 SKS
+
+Semester 3
+add
+.
+Internasionalisasi 1
+2 SKS
+
+TIF2101
+Matematika Diskrit
+3 SKS
+
+TIF2102
+Komunikasi Data dan Jaringan Komputer
+2 SKS
+
+TIF2103
+Praktikum Komunikasi Data dan Jaringan Komputer
+1 SKS
+
+TIF2104
+Manajemen Sistem Basis Data
+3 SKS
+
+TIF2105
+Praktikum Manajemen Sistem Basis Data
+1 SKS
+
+TIF2106
+Pemrograman Berorientasi Objek Lanjutan
+3 SKS
+
+TIF2107
+Praktikum Pemrograman Berorientasi Objek Lanjutan
+1 SKS
+
+TIF2108
+Web Semantik
+3 SKS
+
+TIF2109
+Praktikum Web Semantik
+1 SKS
+
+Semester 4
+add
+.
+Internasionalisasi 2
+2 SKS
+
+TIF2201
+Analisis dan Design Sistem
+3 SKS
+
+TIF2202
+Jaminan dan Keamanan Informasi
+2 SKS
+
+TIF2203
+Sistem Operasi
+2 SKS
+
+TIF2204
+Interaksi Manusia dan Komputer
+3 SKS
+
+TIF2205
+Praktikum Interaksi Manusia dan Komputer
+1 SKS
+
+TIF2206
+Kecerdasan Buatan
+2 SKS
+
+TIF2207
+Praktikum Kecerdasan Buatan
+1 SKS
+
+TIF2208
+Keamanan Server dan Jaringan
+3 SKS
+
+TIF2209
+Praktikum Keamanan Server dan Jaringan
+1 SKS
+
+Semester 5
+add
+.
+Seni dan Kebugaran
+2 SKS
+
+.
+Kearifan Lokal
+2 SKS
+
+TIF3101
+Administrasi dan Desain Jaringan
+2 SKS
+
+TIF3102
+Praktikum Administrasi dan Desain Jaringan
+1 SKS
+
+TIF3103
+Desain Interaksi
+2 SKS
+
+TIF3104
+Praktikum Desain Interaksi
+1 SKS
+
+TIF3105
+Fundamental Big Data
+3 SKS
+
+TIF3106
+Pemrograman Mobile
+3 SKS
+
+TIF3107
+Praktikum Pemrograman Mobile
+1 SKS
+
+.
+Mata Kuliah Pilihan I
+2 SKS
+
+TIF3108
+Efek Visual dan Animasi
+2 SKS
+
+TIF3110
+Pembelajaran Mesin
+2 SKS
+
+TIF3112
+Internet of Things
+2 SKS
+
+.
+Mata Kuliah Praktikum Pilihan I
+1 SKS
+
+TIF3109
+Praktikum Efek Visual dan Animasi
+1 SKS
+
+TIF3111
+Praktikum Pembelajaran Mesin
+1 SKS
+
+TIF3113
+Praktikum Internet of Things
+1 SKS
+
+Semester 6
+add
+TIF3201
+Metodologi Penelitian
+3 SKS
+
+TIF3202
+Etika Profesi
+2 SKS
+
+TIF3203
+Probabilistik dan Statistik
+2 SKS
+
+TIF3204
+Data Warehouse dan Bisnis Intelligence
+3 SKS
+
+TIF3205
+Pemrograman Integrative
+3 SKS
+
+TIF3206
+Praktikum Pemrograman Integrative
+1 SKS
+
+TIF3207
+Routing Jaringan
+2 SKS
+
+TIF3208
+Praktikum Routing Jaringan
+1 SKS
+
+.
+Mata Kuliah Pilihan II
+2 SKS
+
+TIF3209
+Sistem Interaktif
+2 SKS
+
+TIF3211
+Pemrograman Data Science
+2 SKS
+
+TIF3213
+Cloud Computing
+2 SKS
+
+.
+Mata Kuliah Praktikum Pilihan II
+1 SKS
+
+TIF3210
+Praktikum Sistem Interaktif
+1 SKS
+
+TIF3212
+Praktikum Pemrograman Data Science
+1 SKS
+
+TIF3214
+Praktikum Cloud Computing
+1 SKS
+
+Semester 7
+add
+TIF4101
+Manajemen Keamanan Siber
+3 SKS
+
+TIF4102
+Enterprise Software Development
+2 SKS
+
+TIF4103
+Kerja Praktek/Magang
+2 SKS
+
+TIF4104
+IT-Preneurship
+3 SKS
+
+TIF4105
+Keahlian Presentasi dan Komunikasi
+2 SKS
+
+TIF4106
+Manajemen Proyek Teknologi Informasi
+3 SKS
+
+TIF4107
+Perilaku Organisasi
+2 SKS
+
+.
+Mata Kuliah Pilihan III
+2 SKS
+
+TIF4108
+Virtual dan Augmented Reality
+2 SKS
+
+TIF4110
+Pemrosesan dan Analisis Citra Digital
+2 SKS
+
+TIF4112
+Sistem Sensor dan Aplikasi
+2 SKS
+
+.
+Mata Kuliah Praktikum Pilihan III
+1 SKS
+
+TIF4109
+Praktikum Virtual dan Augmented Reality
+1 SKS
+
+TIF4111
+Praktikum Pemrosesan dan Analisis Citra Digital
+1 SKS
+
+TIF4113
+Praktikum Sistem Sensor dan Aplikasi
+1 SKS
+
+Semester 8
+add
+TIF4299
+Tugas Akhir
+6 SKS
+
+Jadwal Kuliah
+
+Alternative text - include a link to the PDF!
+
+Biaya Studi
+
+Berikut adalah biaya studi Sarjana Teknologi Informasi | Akademik
+Sarjana Teknologi
+Jalur SNBP & SNBT
+UKT Kelompok I
+Rp500.000
+UKT Kelompok II
+Rp1.000.000
+UKT Kelompok III
+Rp2.400.000
+UKT Kelompok IV
+Rp3.100.000
+UKT Kelompok V
+Rp4.700.000
+UKT Kelompok VI
+Rp5.400.000
+UKT Kelompok VII
+Rp7.700.000
+UKT Kelompok VIII
+Rp10.000.000
+Sarjana Teknologi
+Iuran Pengembangan Institusi (IPI)
+(Khusus Jalur Mandiri)
+Rp15.000.000
+Sekali Bayar
+Sarjana Teknologi
+Jalur Mandiri Internasional
+Rp37.500.000
+Per Mahasiswa / 1 Semester
+
+Capaian Pembelajaran
+
+Lulusan Teknologi Informasi mampu beradaptasi dengan perkembangan Teknologi Informasi yang inovatif serta mengambil keputusan dalam permasalahan di bidang Teknologi Informasi dengan mengidentifikasi dan menganalisis keperluan-keperluan komputasi berdasarkan hasil analisis informasi dan data secara komprehensif lalu menerapkan metodologi, teknik, keahlian dan alat bantu terkini untuk mengidentifikasi, menganalisa, merancang, mengimplementasikan dan mengelola dalam penerapan Teknologi Informasi menyelesaikan permasalahan dengan mengintegrasikan pengetahuan yang mumpuni terkait dengan prinsip kerja Teknologi Informasi dan komputer dengan menggunakan algoritma atau metode yang efektif dan efisien dengan tetap menerapkan sikap menjunjung tinggi nilai dan tata nilai BINTANG serta norma dalam menjalankan tugas untuk peningkatan mutu kehidupan berbangsa dan bernegara.
+
+Capaian Pembelajaran
+1	Mampu menerapkan sikap menjunjung tinggi nilai, dan norma dalam menjalankan tugas untuk peningkatan mutu kehidupan berbangsa dan bernegara
+2	Mampu menerapkan tata nilai BINTANG, (Bertakwa kepada Tuhan Yang Maha Esa dalam bingkai kebhinekaan, Inovatif yang berintegritas, Tangguh dan arif)
+3	Mampu menerapkan pemikiran logis, kritis, sistematis serta beradaptasi dengan perkembangan Teknologi Informasi yang inovatif dan bergerak cepat untuk memenuhi kebutuhan perorangan ataupun organisasi
+4	Mampu berkomunikasi secara efektif dan bertanggung jawab baik lisan maupun tulisan dalam menyampaikan atau menyajikan buah pemikiran dan hasil penelitian yang terorganisasi dengan baik kepada professional dan masyarakat umum
+5	Mampu menerapkan jiwa kepemimpinan bertanggung jawab, bekerja sama, kewirahusahaan dan semangat kemandirian, serta berkolaborasi dalam kelompok kerja multi-disiplin dan multi-kultural
+6	Mampu mengambil keputusan secara tepat dalam konteks penyelesaian masalah di bidang keahliannya, berdasarkan hasil analisis informasi dan data serta proses komunikasi yang baik
+7	Mampu menerapkan metodologi, teknik, keahlian dan alat bantu terkini untuk mengidentifikasi, menganalisa, merancang, mengimplementasikan dan mengelola dalam penerapan Teknologi Informasi
+8	Mampu mengimplementasikan sistem cerdas dan data science pada suatu lingkungan platform tertentu untuk menyelesaikan masalah-masalah aktual dengan menerapkan aspek-aspek Teknologi Informasi
+9	Mampu menyelesaikan permasalahan dengan mengintegrasikan pengetahuan yang mumpuni terkait dengan prinsip kerja Teknologi Informasi dan komputer dengan menggunakan algoritma atau metode yang efektif dan efisien
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara

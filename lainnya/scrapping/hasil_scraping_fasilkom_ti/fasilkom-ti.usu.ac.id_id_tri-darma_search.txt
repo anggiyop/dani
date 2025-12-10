@@ -1,0 +1,113 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+Menuju Kemuliaan Dengan Ilmu
+1.174 Penelitian
+626 Publikasi
+4.625 Abdimas
+4.625 HaKI
+
+Pengabdian Masyarakat
+
+Pengabdian Masyarakat Lainnya 
+Sistem Pengawasan Cluster Masker SNI Berbasis Deep Learning
+PENERAPAN MIXED REALITY UNTUK SIMULASI PEMBELAJARAN ANATOMI OTOT MANUSIA
+PENGEMBANGAN SISTEM KONTROL OTOMATIS UNTUK MENGONTROL NUTRISI BERBASIS IoT (Internet Of Things)
+Moda (Multi-Objective Decision Analytics): Meningkatkan Efisiensi Pemantauan Menggunakan Metode Multi-Atribut
+PENDEKATAN DEEP LEARNING DI DALAM PREDIKSI PENYEBARAN MALARIA
+SISTEM KEAMANAN GEDUNG DENGAN METODE RASPBERRY PI PADA MIKROKOMPUTER DENGAN MENGGUNAKAN KAMERA SENSOR PIR DAN SENSOR GETAR
+Penerapan Artificial Neural Network Model Perceptron Dalam Klasifikasi Serta Prediksi Baby Blues Syndrome Dan Postpartum Depression Ibu Pada Masa Nifas (Kasus: Wilayah Dataran Tinggi)
+OPTIMALISASI MODEL PROTIS NEURAL NETWORK UNTUK KLASIFIKASI PENYAKIT YANG DOMINAN DIDERITA MASYARAKAT DALAM UPAYA PENINGKATAN KUALITAS KESEHATAN DI WILAYAH PESISIR SUMATERA UTARA
+Prediksi Pertumbuhan Dan Identifikasi Penyakit Hortikultura Pada Sistem Robotika Pengendali Budidaya Tanaman
+Identifikasi Lokasi Fraktur Pada Citra Digital Tulang Tibia Menggunakan Metode Algoritma Scanline
+Implementasi Penggambaran Deformasi Objek 3 Dimensi Menggunakan Koneksi Graf
+Model Pengoptimalan Keuntungan Dalam Prediksi Profil Pelanggan Terhadap Bisnis Metrik Dengan Robust Nonparametric Regresi
+Interpretasi Tekstual Twitter Otomatis Berdasarkan Data Sensor Pemantauan Kualitas Udara
+PENGELOMPOKAN PRODUK E-COMMERCE BERBASIS WEB
+IDENTIFIKASI TANAMAN OBAT BERAKAR RIMPANG DENGAN MEMANFAATKAN CITRA DIGITAL MENGGUNAKAN METODE SUPORT VECTOR MACHINE (SVM)
+Analisis Faktor Risiko Karies Secara Virtual: Strategi Pencegahan Karies Masa Pandemi COVID-19 Pada Siswa Sekolah Menengah Atas Di Kota Medan
+Sistem Pemantauan Limpahan Dan Kualitas Air Pada Objek Wisata Aliran Sungai Pegunungan Dengan Teknologi Lora
+EFISIENSI PENJADWALAN KULIAH DAN PEMESANAN RUANGAN KELAS MENGGUNAKAN IMPROVED GENETIC ALGORITHM (IGA)
+Produksi Antibodi Coturnix Anti-Chicken Berlabel Enzim Horseradish Peroxidase (H
+PENERAPAN FUZZY SUGENO PADA PENILAIAN KINERJA PEGAWAI (Studi Kasus STMIK Kaputama)
+Software Requirements Elicitation To Support Internal Monitoring Of Quality Assurance System For Hig
+DANI GUNAWAN, DIAN RACHMAWATI, SRI MELVANI HARDI, AMALIA,
+Hybrid Cryptosystem Implementation Using IDEA And Knapsack Algorithm For Message Security
+DIAN RACHMAWATI, MAYA SILVI LYDIA,
+Hierarchical Of Grid Partition (HGP) For Measuring The Similarity Of Data In Optimizing Data Accuracy
+VERDI YASIN, MUHAMMAD ZARLIS, OPIM SALIM SITOMPUL, POLTAK SIHOMBING,
+Image Classification Of Diseases In Rice Using Deep Neural Neural Network And Incevtion V3
+MAYA SILVI LYDIA, SYAHRIL EFENDI, T.HENNY FEBRIANA HARUMY,
+Rancangan Miniatur Otomatisasi Bel Listrik Pada Gerbang Pintu Menggunakan Microkontroler Atmega8535
+POLTAK SIHOMBING,
+Expert System For Detection Glaucoma Disease Using Certainty Factor Method
+ELVIWANI, SRI MELVANI HARDI,
+Velocity Prediction Of Cu/Water Nanofluid Convective Flow In A Circular Tube: Learning CFD Data By Differential Evolution Algorithm Based Fuzzy Inference System (DEFIS)
+MARISCHA ELVENY,
+Haversine And Tabu Search In Determining The Nearest Bus Stop Based On GIS
+ADE CANDRA, DIAN RACHMAWATI,
+Implementation Of Text Data Security Using Modular Multiplication Based Block Cipher Modification
+MARISCHA ELVENY,
+Facial Recognition For Car Security System Using Fisherface Method
+DEDY ARISANDI, ROMI FADILLAH RAHMAT,
+Node-Based Versus Server-Based Data Validations In Internet Of Things
+POLTAK SIHOMBING,
+Damerau-Levenshtein Distance And Cosine Similarity To Select The Optimal Word In Word Typing Game
+JOS TIMANTA TARIGAN, AMER SHARIF,
+Kinerja Potokol Routing AODV Dan DSDV Pada Topologi Grid Di Wireless Sensor Network (WSN)
+DESILIA SELVIDA, ADE SARAH HUZAIFAH, R. A. FATTAH ADRIANSYAH,
+Keyword Based System To Enhance The Efficiency Of Student S Performance Report In Computer Science E
+IVAN JAYA, JOS TIMANTA TARIGAN, SRI MELVANI HARDI, ELVIAWATY MUISA ZAMZAMI,
+Embedding The Operating System : A Case Study LMDE 3 On A USB Flash Drive
+POLTAK SIHOMBING,
+Organization Readiness And ERP Implementation In Albaha University
+ROMI FADILLAH RAHMAT,
+Hybrid Cryptosystem For Image File Using Elgamal And Double Playfair Cipher Algorithm
+JOS TIMANTA TARIGAN, SRI MELVANI HARDI,
+Bahasa Indonesia Text Corpus Generation Using Web Corpora Approaches
+MAYA SILVI LYDIA, AMALIA, OPIM SALIM SITOMPUL, ERNA BUDHIARTI NABABAN,
+Educative Trading Card Game CultureQuest: A Post Mortem Analysis
+VENERIO UVANDY, PETRUS MARCELINO H. TAMPUBOLON, BRIAN WIJAYA, MUHAMMAD RIDHO BAIHAKI, JOS TIMANTA TARIGAN, NISKARTO ZENDRATO,
+Simulation Of Data Packets Transmission On A Mesh Topology Computer Network Using The OpenFlow Protocol And The Bellman-Ford Algorithm
+AINUL HIZRIADI, BAIHAQI SIREGAR,
+Fakultas Ilmu Komputer dan Teknologi Informasi sebagai bagian dari Universitas Sumatera Utara, telah menunjukkan komitmen yang kuat terhadap kontribusi bangsa melalui penerbitan jurnal ilmiah, pengabdian masyarakat, dan hak kekayaan intelektual.
+Civitas akademika aktif terlibat dalam riset dan penelitian yang diwujudkan melalui publikasi jurnal-jurnal berkualitas tinggi. mengedepankan kontribusi positif terhadap masyarakat melalui kegiatan pengabdian masyarakat, dan memberikan perhatian serius terhadap perlindungan dan manajemen hak kekayaan intelektual yang dihasilkan dari kegiatan riset dan pengembangan. Dengan kombinasi ketiga elemen ini, Fasilkom-TI USU berperan aktif dalam mengembangkan pengetahuan, memberikan dampak positif pada masyarakat, dan mendukung ekosistem inovasi melalui pengelolaan hak kekayaan intelektual.
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara

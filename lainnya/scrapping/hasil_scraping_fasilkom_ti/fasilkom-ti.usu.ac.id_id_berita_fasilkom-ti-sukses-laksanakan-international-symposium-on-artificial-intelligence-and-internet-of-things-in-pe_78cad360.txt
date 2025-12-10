@@ -1,0 +1,98 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+
+> Berita > Fasilkom-TI Sukses Laksanakan International Symposium on Artificial Intelligence and Internet of Things in Perspective dari Indonesia dan Malaysia
+
+Fasilkom-TI Sukses Laksanakan International Symposium on Artificial Intelligence and Internet of Things in Perspective dari Indonesia dan Malaysia
+Dipublikasi Pada
+
+07 Mei 2024
+
+Dipublikasi Oleh
+
+Anonymous Writer
+
+Thumbnail Fasilkom-TI Sukses Laksanakan International Symposium on Artificial Intelligence and Internet of Things in Perspective dari Indonesia dan Malaysia
+
+Fakultas Ilmu Komputer dan Teknologi Informasi (Fasilkom-TI) Universitas Sumatera Utara (USU) telah sukses melaksanakan kegiatan International Symposium on Artificial Intelligence and Internet of Things in Perspective dari Indonesia dan Malaysia pada Selasa, 7 Mei 2023 di Gedung Digital Learning Centre Lantai 8 Universitas Sumatera Utara. 
+
+ 
+
+Kegiatan ini dibuka dengan kata sambutan Wakil Rektor IV USU Prof. Dr. Opim Salim Sitompul, M.Sc., kata sambutan Dekan Fasilkom-TI USU Dr. Maya Silvi Lydia B.Sc., M.Sc., dan kata sambutan Dekan Fasilkom-TI Universiti Putra Malaysia (UPM) Dato' Prof. Dr. Shamala K. Subramaniam.
+
+ 
+
+ 
+
+Kegiatan dilanjutkan dengan penandatanganan perjanjian dan pemberian cinderamata, foto bersama dan coffee break. Selanjutnya memasuki sesi keynote speech pertama yang dibawakan oleh Assoc. Prof Dr Fatimah Khalid (UPM) yang dimoderatori oleh Amer Sharif, S.Si, M.Kom. Dalam pemaparannya, ia menjelaskan tentang penelitiannya yang berjudul “Revolusi Manajemen Peternakan untuk Ketahanan Pangan”. Ia menjelaskan terkait pentingnya pengurusan ternakan dalam konteks keselamatan makanan global dan bagaimana perkembangan teknologi revolusioner telah menyebabkan perubahan mendasar dalam praktik pengurusan ternakan. Selain itu, penjelasan terkait risiko-risiko yang berkaitan dengan pengurusan ternakan tradisional dan bagaimana ia mempengaruhi keselamatan makanan. Diperlukan penyelesaian canggih untuk menangani cabaran dalam pengurusan ternakan tradisional salah satunya adalah Artificial Intelligence (AI) dan Peternakan Ternak Presisi. Dengan AI, kita dapat merevolusi peternakan dengan memungkinkan pemodelan prediktif, deteksi penyakit, dan pemberian pakan yang presisi. Penelitian ini, menggunakan pengaplikasian AI dan Smart Herd Management. Terdapat tiga projek dalam penelitian ini yaitu, identifikasi kerbau melalui citra moncong, estimasi berat badan kambing surti dan pengenalan wajah kambing. 
+
+ 
+
+ 
+
+Keynote speech kedua dibawakan oleh Prof Dr. Imas Sukaesih Sitanggang S.Si, M.Kom., dari Ilmu Komputer Institut Pertanian Bogor (IPB) dan dimoderatori oleh Dr. Mohammad Andri Budiman, S.T., M.Comp.Sc., M.E.M. Ia menjelaskan tentang penelitiannya yang berjudul “Sistem Patroli Pencegahan Kebakaran Hutan dan Lahan di Indonesia”. Dalam penelitiannya, ia membuat Sistem Informasi Patroli Pencegahan Kebakaran Hutan dan Lahan (SIPP Karhutla) - Sistem Informasi Patroli SMART. Sistem ini dibuat dengan berbasis website dan mobile. Pengguna untuk aplikasi mobile adalah tim patroli pencegahan kebakaran dan lahan. Aplikasi mobile dibuat mudah untuk digunakan, mengelola 88 parameter patroli yang dikumpulkan dari lapangan, mengambil data lokasi dan cuaca secara otomatis, bekerja dengan atau tanpa koneksi internet, data hotspot waktu nyata dari Sipongi+ dan kamus istilah patroli. Sistem berbasis website digunakan oleh administrator dan kepala operasional daerah, administrator dan kepala pengendalian perubahan iklim dan kebakaran hutan dan lahan KLHK, koordinator wilayah, dan administrator direktorat pengendalian kebakaran hutan dan lahan.
+
+ 
+
+ 
+
+Keynote speech ketiga dibawakan oleh Assoc. Prof Dr. Amalia S.T., M.T., dan dimoderatori oleh Dr. T Henny Harumi. Pada keynote speech ini, ia memaparkan penelitiannya yang berjudul “Mengurangi Bias dan Ketidakkonsistenan Penilaian dengan Penilaian Jawaban Singkat Otomatis Berbasis BERT untuk Bahasa Indonesia”. Dalam pemaparannya, ia menjelaskan tentang penilaian esai yang mendorong pembelajaran lebih mendalam, pemikiran kritis, dan pengembangan keterampilan penting yang berharga di luar ruang kelas. Namun, penilaian esai secara manual menimbulkan tantangan karena respons siswa yang beragam, kelemahan subjektivitas, ketidakkonsistenan, efisiensi, dan skalabilitas. Selain itu, penilaian manual juga memakan waktu dan rentan terhadap kesalahan manusia, terutama ketika melibatkan banyak penilai. Oleh karena itu, dibuatlah penilaian jawaban singkat dengan menggunakan BERT dan dataset SQuAD. BERT adalah model bahasa dengan arsitektur Transformer, yang berfokus pada Mekanisme Perhatian. Hasil dari penelitian ini adalah model mencapai akurasi penilaian sebesar 91%. Penelitian ini menyoroti keampuhan sistem berbasis BERT dalam meningkatkan kesetaraan dan presisi. 
+
+ 
+
+ 
+
+Berita
+Temukan Berita Lainnya
+Berita
+
+Fasilkom-TITerima Fasilitas CSR Wifi Corner dari PT Pertamina Gas Negara
+
+Berita
+
+Kunjungan Class Visit SMAS Sukma Bangsa Lhokseumawe ke Fasilkom-TI USU
+
+Berita
+
+Menuju Kampus Bersih dan Berintegritas: Fasilkom-TI USU Gaungkan Semangat Zona Integritas
+
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara

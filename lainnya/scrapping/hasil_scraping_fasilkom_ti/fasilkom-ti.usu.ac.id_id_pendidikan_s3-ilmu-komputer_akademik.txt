@@ -1,0 +1,250 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+Membangun Fondasi untuk Masa Depan yang Digital
+Doktoral Ilmu Komputer | Akademik
+Informasi Umum
+Tentang Prodi
+Akademik
+Penelitian & Pengabdian
+Alumni
+Kegiatan
+SDGs
+
+Untuk mengetahui lebih lanjut tentang berbagai opsi Peminatan Program Studi, mengeksplorasi Kurikulum yang tersedia, memahami Peraturan Akademik yang berlaku, mempelajari Prosedur Skripsi, menyesuaikan Jadwal Kuliah dengan kebutuhan Anda, dan memperhitungkan Biaya Studi yang dibutuhkan, memahami Standar Pencapaian yang Diharapkan, Mengevaluasi Capaian Pembelajar. Semua informasi yang Anda butuhkan untuk memulai perjalanan akademik Anda ada di sini.
+
+Kurikulum
+
+Berikut ini adalah daftar lengkap mata kuliah yang akan diambil pada setiap semester.
+
+SK Dekan & SK Rektor
+Kode Mata Kuliah :
+Semua
+expand_more
+Cari Mata Kuliah
+search
+Semester 1
+add
+CSW7101
+Filsafat Ilmu
+3 SKS
+
+CSW7102
+Makalah Seminar/Konferensi Nasional
+0 SKS
+
+CSP7103
+Information Security *)
+3 SKS
+
+CSP7104
+Fuzzy Logic *)
+3 SKS
+
+CSP7105
+Multimedia System *)
+3 SKS
+
+*)
+=
+Mata Kuliah Pilihan SKS
+
+Semester 2
+add
+CSW7206
+Metodologi Penelitian
+3 SKS
+
+CSW7207
+Makalah Seminar/Konferensi Internasional (boleh di Indonesia)
+0 SKS
+
+CSP7208
+Neural Network *)
+3 SKS
+
+CSP7209
+Data Mining *)
+3 SKS
+
+CSP7210
+Optimization *)
+3 SKS
+
+*)
+=
+Mata Kuliah Pilihan SKS
+
+Semester 3
+add
+CSW7311
+Makalah Seminar/Konferensi Internasional (di Luar Negeri)
+0 SKS
+
+CSW7312
+Pra Kualifikasi
+2 SKS
+
+CSP7313
+Mobile Computing *)
+3 SKS
+
+CSP7314
+Datawarehousing *)
+3 SKS
+
+CSP7315
+Natural Language Processing (NLP) *)
+3 SKS
+
+CSP7316
+Social Network System *)
+3 SKS
+
+CSP7317
+Advanced Information Security **)
+3 SKS
+
+CSP7318
+Advanced Fuzzy Logic **)
+3 SKS
+
+CSP7319
+Advanced Multimedia System **)
+3 SKS
+
+*)
+=
+Mata Kuliah Pilihan SKS
+
+**)
+=
+Mata Kuliah Pilihan Lanjut SKS
+
+Semester 4
+add
+CSW7420
+Makalah Jurnal Nasional
+0 SKS
+
+CSW7421
+Kolokium Proposal
+2 SKS
+
+CSP7422
+Embeded System *)
+3 SKS
+
+CSP7423
+Information Taxonomy/Ontology *)
+3 SKS
+
+CSP7424
+Artificial Intelligence *)
+3 SKS
+
+CSP7425
+Information Technology Resources *)
+3 SKS
+
+CSP7426
+Advanced Neural Network **)
+3 SKS
+
+CSP7427
+Advanced Data Mining **)
+3 SKS
+
+CSP7428
+Advanced Optimization **)
+3 SKS
+
+*)
+=
+Mata Kuliah Pilihan SKS
+
+**)
+=
+Mata Kuliah Pilihan Lanjut SKS
+
+Semester 5
+add
+CSW7529
+Makalah Jurnal Internasional
+0 SKS
+
+CSW7530
+Seminar Hasil
+2 SKS
+
+Semester 6
+add
+CSW7631
+Disertasi
+20 SKS
+
+Biaya Studi
+
+Berikut adalah biaya studi Doktoral Ilmu Komputer | Akademik
+Doktoral Ilmu
+Iuran Pengembangan Institusi (IPI)
+(Khusus Jalur Mandiri)
+Rp11.500.000
+Rp25.000.000
+Sekali Bayar
+Doktoral Ilmu
+Sumbangan Pengembangan Pendidikan
+Rp15.000.000
+Per Mahasiswa / 1 Semester
+
+Capaian Pembelajaran
+
+Mahasiswa S3 Ilmu Komputer memperoleh pembelajaran ilmu komputer sehingga mahasiswa mampu menciptakan pembaharuan dari perkembangan mutakhir di bidang ilmu komputer, menyusun karya ilmiah dan dipublikasikan dalam jurnal bereputasi internasional, menyelesaikan permasalahan kompleks di bidang ilmu komputer melalui pendekatan inter, multi, dan transdisipliner, mampu mengikuti dan tanggap terhadap perkembangan di bidang ilmu komputer, serta mampu memimpin, mengelola dan mengembangkan riset pada bidang ilmu komputer dan informatika.
+
+Capaian Pembelajaran
+1	Bertakwa kepada Tuhan Yang Maha Esa dan menjunjung tinggi nilai-nilai agama, moral, etika profesi, taat hukum, berjiwa nasionalisme serta tanggung jawab untuk berkontribusi pada bangsa dan Negara
+2	Jujur, mandiri, profesional, terbuka dan memiliki kepekaan sosial
+3	Memiliki sikap kepemimpinan, dan mampu mengembangkan riset transdisiplin dengan bidang ilmu komputer yang bermanfaat bagi masyarakat
+4	Mampu menyusun argumen ilmiah berdasarkan kaidah keilmuan. Mampu mengembangkan teori, metode, dan alat bantu dalam bidang ilmu komputer untuk menunjang penemuan baru dalam ilmu dan teknologi komputer, khususnya untuk mengembangkan kecerdasan buatan, Internet of things, jaringan komputer dan komunikasi data serta pembelajaran mesin
+5	Mampu merencanakan peta jalan riset di bidang ilmu komputer berdasarkan perkembangan teknologi dan riset terkini
+6	Mampu mentransfer pengetahuan bidang ilmu komputer untuk dimanfaatkan masyarakat
+7	Mampu memberikan penyelesaian permasalahan melalui penerapan inter, multi atau transdisipliner
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara

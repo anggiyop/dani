@@ -1,0 +1,119 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Ampas Kopi: Peluang Energi Biodisel
+Ampas Kopi: Peluang Energi Biodisel
+Diterbitkan Pada
+29 Mei 2024
+Diterbitkan Oleh
+Prof. Dr. Juliati Br. Tarigan S.Si., M.Si.
+Ampas Kopi: Peluang Energi Biodisel
+ 
+
+Diterbitkan oleh
+
+Prof. Dr. Juliati Br. Tarigan S.Si., M.Si.
+
+Diterbitkan pada
+
+Rabu, 29 Mei 2024
+
+Kopi sejak lama telah menjadi komoditas penting dalam sejarah peradaban manusia. Ia telah menjelma dari minuman kalangan bangsawan hingga dapat dikonsumsi oleh semua lapisan masyarakat. Kopi juga sering menjadi media untuk memulai negosiasi, penawar untuk kantuk, bahkan menjadi kebanggaan dari beberapa daerah penghasil kopi. Tidak mengherankan jika konsumsi kopi di seluruh dunia sangat tinggi. Namun, fakta ini tidak diikuti dengan pemanfaatan ampas dan limbah kopi yang memadai.
+
+Di balik setiap cangkir kopi, terdapat sisa ampas yang sering kali hanya berakhir di tempat sampah. Namun, tahukah kamu bahwa ampas kopi atau yang dikenal sebagai spent coffee grounds (SCG) ternyata dapat dijadikan sumber energi terbarukan? Sebuah penelitian terbaru mengungkapkan metode inovatif yang mampu mengubah SCG menjadi biodiesel, menawarkan solusi ramah lingkungan sekaligus mengurangi limbah dan menciptakan energi terbarukan.
+
+Berawal dari semakin tingginya permintaan akan energi terbarukan, muncul ide kreatif dari Ahli Kimia Universitas Sumatera Utara Indonesia, Prof. Juliati Br. Taringan. Keadaan cadangan bahan bakar fosil tak terbarukan semakin menipis, serta kepedulian terhadap lingkungan juga semakin meningkat. Sementara itu, konsumsi kopi terus meningkat yang turut meningkatkan jumlah ampas kopi yang dihasilkan. Menurutnya, ampas ini bisa diolah menjadi sumber energi yang berharga daripada dibuang begitu saja.
+
+“SCG memerlukan pengolahan limbah sebelum dibuang karena mengandung asam yang dapat mencemari lingkungan. Selain itu, jumlah SCG terus meningkat setiap tahunnya karena kopi merupakan minuman favorit di dunia dengan konsumsi 9,5 juta ton pada tahun 2016, di antaranya adalah kopi instan di mana setiap gram kopi dapat menghasilkan 0,65–0,91 gram SCG,” jelas Prof. Juliati Br. Taringan.
+
+Bersama dengan Mimpin Ginting, Firman Sebayang, Eko K. Sitepu, Junedi Ginting (Universitas Sumatera Utara Indonesia), Siti Nurul Mubarokah (Universitas Islam Malang), Justaman Karo-Karo (Kementerian Perindustrian Republik Indonesia), serta Trung T. Nguyen (Giang University, Vietnam), penelitian ini mengajukan biodiesel sebagai salah satu solusi yang dapat digunakan langsung pada mesin diesel tanpa perlu modifikasi. Namun, tantangan utama dalam produksi biodiesel adalah biaya pengolahan yang tinggi.
+
+Dalam penelitiannya, mereka membuktikan bahwa ampas kopi yang basah bisa diubah langsung menjadi biodiesel melalui proses yang efisien dan ramah lingkungan dengan metode transesterifikasi in situ. Proses ini melibatkan reaksi kimia asam lemak yang diubah menjadi ester metil asam lemak (fatty acid methyl esters atau FAME). FAME merupakan komponen utama biodiesel. Proses ini dipantau dengan teliti menggunakan teknik spektroskopi seperti FT-IR dan 1H-NMR, memastikan konversi yang efisien dan kualitas produk yang tinggi.
+
+Ekstraksi lipid dalam Reactive Extraction Soxhlet (RES) digunakan untuk menghasilkan biodiesel dari biomassa SCG yang basah. RES memungkinkan ekstraksi minyak secara efisien dari ampas kopi, bahkan dalam kondisi basah, yang biasanya menjadi tantangan dalam proses ekstraksi tradisional. Penggunaan waktu dan energi dalam metode RES pun diketahui lebih rendah dibandingkan dengan metode dua tahap (ekstraksi dan transesterifikasi terpisah). Hasilnya diperoleh SCG yang mengandung sekitar 12% minyak dalam bentuk materi keringnya.
+
+“Metode RES tidak hanya lebih hemat energi, tetapi juga hemat waktu, karena tidak memerlukan proses pengeringan konvensional yang memerlukan waktu tiga hari di bawah sinar matahari dan satu malam menggunakan oven udara panas pada suhu 105°C,” kata Prof. Juliati Br. Taringan.
+
+Dalam waktu reaksi minimum 30 menit, mereka menemukan proses transesterifikasi ini berhasil mengonversi asam lemak dalam SCG menjadi biodiesel dengan efisiensi yang tinggi. Dominasi asam palmitat dan asam linoleat dalam profil asam lemak SCG membuatnya sangat cocok untuk produksi biodiesel, karena kedua asam lemak ini menghasilkan FAME yang stabil dan efisien sebagai bahan bakar.
+
+Menurut Prof. Juliati Br. Taringan, mengubah ampas kopi menjadi biodiesel tidak hanya menawarkan solusi bagi limbah kopi yang melimpah, tetapi juga berkontribusi pada pengurangan emisi karbon dan ketergantungan pada bahan bakar fosil. “Ini adalah langkah penting menuju ekonomi sirkular, di mana limbah diubah menjadi produk yang berguna, mengurangi dampak lingkungan secara signifikan,” lanjutnya.
+
+Inovasi ini membawa harapan besar. Perjalanan ampas kopi menjadi biodiesel adalah bukti bahwa dari secangkir kopi dapat dimanfaatkan sebagai bahan bakar alternatif yang bersih. Seiring dengan meningkatnya kesadaran akan isu lingkungan dan keberlanjutan, inovasi seperti ini akan semakin penting dalam menciptakan masa depan yang lebih hijau.
+
+SDGs
+SDGs 7
+SDGs 12
+Detail Paper
+Jurnal
+RSC Advances
+Judul
+Direct biodiesel production from wet spent coffee grounds
+Penulis
+Juliati Br. Tarigan, Mimpin Ginting, Siti Nurul Mubarokah, Firman Sebayang, Justaman Karo-karo, Trung T. Nguyen, Junedi Ginting, Eko K. Sitepu
+Afiliasi Penulis
+Department of Chemistry, Faculty of Mathematics and Natural Sciences, Universitas Sumatera Utara, Medan 20155, Indonesia. E-mail: juliati@usu.ac.id
+Medical Faculty, University of Islam Malang, Malang 65144, Indonesia
+Balai Riset dan Standarisasi Industri, Kementerian Perindustrian, Medan 20214, Indonesia
+Department of Food Technology, An Giang University, Long Xuyen City, Vietnam
+Department of Medical Biotechnology, Flinders University, Bedford Park 5043, Adelaid, South Australia
+Department of Physics, Faculty of Mathematics and Natural Sciences, Universitas Sumatera Utara, Medan 20155, Indonesia
+DOI
+https://doi.org/10.1039/C9RA08038D
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

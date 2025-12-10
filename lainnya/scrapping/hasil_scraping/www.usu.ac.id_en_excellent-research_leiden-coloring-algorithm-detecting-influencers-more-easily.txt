@@ -1,0 +1,122 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Leiden Coloring Algorithm: Detecting Influencers More Easily
+Leiden Coloring Algorithm: Detecting Influencers More Easily
+Published At
+05 March 2025
+Published By
+Handrizal S.Si., M.Comp.Sc
+Leiden Coloring Algorithm: Detecting Influencers More Easily
+ 
+
+Published by
+
+Handrizal S.Si., M.Comp.Sc
+
+Published at
+
+Wednesday, 05 March 2025
+
+This study introduces a more accurate influencer detection method by integrating the Leiden Coloring Algorithm and Degree Centrality. The results demonstrate improved effectiveness in community mapping and identifying influential individuals on social media compared to conventional methods.
+
+In the ever-evolving digital era, the role of influencers in shaping public opinion and influencing consumer behavior has become increasingly dominant. Social media has become a fertile ground for individuals who can build extensive networks and create engaging content, making them influential figures within specific communities. However, as digital platforms continue to evolve rapidly, the challenge of identifying influencers with truly significant impact has also intensified. Conventional methods that rely solely on follower grouping often fail to identify individuals with real influence, as they focus only on reciprocal relationships without considering the more complex dynamics of social networks.
+
+To address this challenge, an innovative approach has been introduced by integrating the Leiden Coloring Algorithm and Degree Centrality. This approach was developed by researchers from Universitas Sumatera Utara, namely Handrizal, Poltak Sihombing, Erna Budhiarti Nababan, and Mohammad Andri Budiman. Their study not only enables more accurate community mapping but also provides deeper insights into individuals with broad connections who play a crucial role in disseminating information. By leveraging social network analysis, this method explores large-scale interaction patterns to identify key actors who can be considered influencers within a digital ecosystem.
+
+“The implementation of this method involves a structured series of processes. Data was collected from the social media platform Twitter (X) using the keyword GarudaIndonesia, through the Tweet-Harvest tool, which gathered information from January 1, 2020, to October 16, 2024. The resulting dataset consists of 22,623 data entries, which were then processed in two experimental scenarios: one with 1,000 data entries and another with 5,000 data entries,” explained Handrizal.
+
+By utilizing the Leiden algorithm, the formed social network is divided into communities that function as centers of influence. Subsequently, Degree Centrality is applied to identify nodes with the highest connectivity, reflecting individuals or accounts with the most extensive reach and engagement.
+
+The results show that this approach significantly improves influencer detection effectiveness compared to the more conventional Louvain method. The Leiden Coloring Algorithm proved to yield better modularity with an increase of 0.0306, indicating more cohesive community mapping. Additionally, this method accelerates the analysis process by reducing processing time by 14.4848 seconds and decreasing the number of formed communities by 1,290, making influencer detection more focused and less fragmented.
+
+“From the experiment results, it was found that the IndonesiaGaruda account emerged as the primary influencer in both dataset scenarios. Meanwhile, in the dataset with 1,000 entries, other detected influencers included GarudaCares, Wandiseptian11, PinterPoin, and idbcpr. In the dataset with 5,000 entries, the list of influencers included disemuacom, GarudaCares, astuceclover, and TiketPesawatPro,” said Andri Budiman.
+
+Compared to the Louvain method, the Leiden Coloring Algorithm not only reduces the number of fragmented communities but also improves detection quality by more accurately capturing individuals with significant influence in the network. Furthermore, the advantage of this approach lies not only in its increased efficiency but also in its flexibility for application in various social media analysis scenarios.
+
+For example, in digital marketing, this method can help companies identify individuals who are most effective in spreading product information or campaigns. By understanding how information spreads within a particular community, marketing strategies can be adjusted to maximize impact and reach a broader audience with a more targeted approach.
+
+Beyond marketing applications, this method also holds great potential in other fields such as political analysis, crisis management, and academic studies on social networks. In the political context, accurate influencer detection can be used to understand how public opinion is formed and disseminated, providing insights for policymakers to develop more effective communication strategies. Meanwhile, in crisis situations such as pandemics or natural disasters, identifying key influencers in spreading accurate information can help direct crucial messages to a wider audience quickly and efficiently.
+
+However, like any technological innovation, this approach—published in the International Journal of Advanced Computer Science and Applications—also presents challenges that need to be addressed. One of them is the need for higher computational resources to process large-scale datasets. Although the Leiden Coloring Algorithm has proven to be faster than the Louvain method, analyzing massive amounts of data still requires further optimization to be implemented in real time. Additionally, interpreting detection results remains a challenge, as factors such as user sentiment and interaction context also play an essential role in social networks.
+
+“In the future, further development of this algorithm could include integration with artificial intelligence to enhance detection accuracy and speed up the analysis process. By leveraging machine learning, for instance, models can be trained to recognize more complex interaction patterns and automatically adapt detection criteria based on evolving social media trends,” concluded Andri Budiman.
+
+Moreover, this approach could be expanded by integrating text and sentiment analysis to gain a more comprehensive understanding of how an influencer shapes public opinion.
+
+Overall, this research opens new opportunities in utilizing Social Network Analysis (SNA) to detect influencers more effectively and efficiently. By leveraging the Leiden Coloring Algorithm, influencer detection is no longer just about counting followers but about understanding how influence spreads within a broader social network. This approach marks a significant step forward in the digital landscape, enabling the identification of key actors who play crucial roles in various communication and marketing scenarios.
+
+The future of influencer detection no longer depends solely on superficial statistics but on a deep understanding of network dynamics and social interactions. With increasingly sophisticated tools and a more holistic approach, the digital world will become more transparent in uncovering who truly holds influence and voice in the global information flow.
+
+SDGs 11
+SDGs
+Paper Details
+Journal
+International Journal of Advanced Computer Science and Applications
+Title
+Leiden Coloring Algorithm for Influencer Detection
+Authors
+Handrizal (1), Poltak Sihombing (2), Erna Budhiarti Nababan (3), Mohammad Andri Budiman (4)
+Author Affiliations
+Doctoral Program in Computer Science, Department of Computer Science-Faculty of Computer Science and Information Technology, Universitas Sumatera Utara, Medan, Indonesia
+Department of Information Technology-Faculty of Computer Science and Information Technology, Universitas Sumatera Utara, Medan, Indonesia
+DOI
+https://dx.doi.org/10.14569/IJACSA.2024.0151233
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

@@ -1,0 +1,126 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Penetrating Boundaries, Building Rural Economic Independence Through An Accounting System
+Penetrating Boundaries, Building Rural Economic Independence through an Accounting System
+Published At
+18 October 2024
+Published By
+Prof. Dr. Iskandar Muda SE, Ak, M.Si, CA, CSRS, CSRA
+Penetrating Boundaries, Building Rural Economic Independence through an Accounting System
+ 
+
+Published by
+
+Prof. Dr. Iskandar Muda SE, Ak, M.Si, CA, CSRS, CSRA
+
+Published at
+
+Friday, 18 October 2024
+
+Learn how the implementation of an offline accounting system can empower the rural economy in Indonesia. Prof. Iskandar Muda's research uncovers challenges and solutions for BUMDes to achieve financial transparency and improve community welfare.
+
+The rapid growth of digitization in Indonesia has not been fully felt by remote villages that still struggle with limited internet access, which hampers various aspects of community life, including the village economy. As a country with more than 74,000 villages, Indonesia bears a significant responsibility to ensure that technological advancements are not only happening in urban areas but also reach the lifeblood of rural communities. This is where the greatest challenge arises: how to empower the village economy with a digital-based accounting system when most villages are not even connected to the internet?
+
+A study initiated by experts from Universitas Sumatera Utara, Indonesia, namely Prof. Iskandar Muda and Erlina, started from this harsh reality. The government and various stakeholders have made several efforts to address this limitation, one of which is focusing on the implementation of offline accounting systems for Village-Owned Enterprises (BUMDes). However, despite the promising nature of this solution, the implementation process is far from easy. Many factors need to be considered to ensure the successful implementation of offline accounting applications in villages that are isolated from modern technological advancements.
+
+Prof. Iskandar Muda explained that an accounting system, especially for rural businesses, is not merely about recording transactions. More than that, it is about transparency, accountability, and, ultimately, improving the community’s well-being. BUMDes, as the center of the village economy, plays a vital role in this effort. However, without a clear and well-organized financial system, it is difficult for BUMDes to achieve its goals. This is where the importance of implementing the right accounting system, even if offline, becomes evident.
+
+“This study attempts to unravel the complexities that hinder the successful implementation of accounting systems in Indonesia’s villages. Based on a survey involving 336 respondents, this study used the Structural Equation Modeling (SEM) method through Smart PLS 3.0 to analyze the data collected. From this analysis, several key findings were identified, all of which provide in-depth insights into the real conditions on the ground,” explained Prof. Iskandar Muda.
+
+One of the main findings indicates that understanding basic accounting concepts, such as Single-Entry and Double-Entry, greatly influences the success of accounting application implementation. For rural communities, who may not be familiar with these concepts, the biggest challenge is how to make them understand and apply this knowledge in their day-to-day business context. This becomes crucial in ensuring that BUMDes can operate better and more transparently.
+
+“However, the biggest hurdle comes from human resources themselves. Limited technological knowledge and low accounting literacy levels make it difficult for many villages to adopt systems that, even if offline, still require a fundamental understanding of accounting,” said Prof. Iskandar Muda. This confirms that the issue is not just about technology, but also about the readiness of human resources in rural areas. Without adequate training, the accounting systems implemented will only become tools that are not utilized optimally.
+
+Hope arises in the form of accounting application training. This training has proven to be a moderating variable that increases the success of accounting system implementation. This means that by providing proper training to BUMDes managers, the chances of successful implementation of both offline and online accounting systems will significantly increase. This training not only focuses on using the application but also on the fundamental understanding of the importance of accurate and transparent financial record-keeping.
+
+Practically, this research delivers a strong message to stakeholders. They must prioritize the development of offline financial reporting systems that are easily accessible to rural communities. This will not only empower human resources in rural economic institutions but also create the much-needed transparency and accountability. By developing systems tailored to rural conditions, better financial management will be established at the village level, ultimately improving the overall well-being of the community.
+
+“This study also offers a sustainability model that integrates several key dimensions, including the understanding of accounting concepts, human resources, technical skills, and training. This model serves as a roadmap that policymakers and other stakeholders can follow to ensure that the implementation of offline accounting systems runs smoothly and produces positive impacts for villages across Indonesia,” said Prof. Iskandar Muda.
+
+However, this issue is not solely about technology and accounting. There is a larger challenge in rural development itself. One issue raised by this study is how government interventions often hinder local creativity and innovation. Instead of encouraging communities to create and innovate, many aid programs ultimately create dependency. “Villagers become accustomed to assistance without ever truly learning to be independent. This is a major challenge for efforts to empower rural communities, as the primary goal of empowerment is to create independence, not dependence,” lamented Prof. Iskandar Muda.
+
+BUMDes is one of the most important instruments in improving the welfare of rural communities. By managing various businesses, ranging from trade to services, BUMDes is expected to be the driving force of the village economy. However, to achieve these goals, BUMDes must have a transparent and accountable financial reporting system. Without a sound accounting system, it will be difficult for BUMDes to gain trust from the community and external parties, such as investors or the government.
+
+The benefits of implementing offline accounting systems are clear, especially in areas not yet reached by the internet. With this system, remote villages can still keep financial records without worrying about internet connectivity. However, there are, of course, limitations to be faced. Offline accounting systems, for instance, do not allow remote access, meaning every transaction must be manually recorded on-site. Although this is a challenge, for now, the offline solution is the most realistic for remote areas.
+
+Additionally, according to Prof. Iskandar Muda, implementing a well-functioning Accounting Information System (AIS) is crucial for collecting and processing financial data that supports decision-making within organizations. AIS is not just a tool, but a system that assists management in effectively and efficiently performing financial management functions.
+
+In the context of Sustainable Development Goals (SDGs), the implementation of a good accounting system in rural areas is critical. This system not only supports the improvement of rural economic welfare but also ensures that the resulting economic development does not harm social and environmental quality. Economic sustainability must go hand in hand with efforts to preserve the environment and the quality of life of the people.
+
+To achieve effective community empowerment, this study proposes three main approaches: a targeted approach, a group approach, and mentoring. These approaches emphasize the importance of organized efforts to ensure that rural communities can achieve independence, both economically and in managing their own resources.
+
+By strengthening accounting capabilities at the village level, not only will BUMDes thrive, but the entire community surrounding it will also benefit. “Financial transparency and accountability will bring about significant changes, shifting from reliance on external assistance to independence in managing and developing their own economic potential. Ultimately, this is about creating strong, independent, and prosperous villages. And it all begins with a simple yet effective accounting system,” concluded Prof. Iskandar Muda.
+
+SDGs
+SDGs 1
+SDGs 8
+Paper Details
+Journal
+Journal of International Studies
+Title
+Sustainable HR development to support successful implementation of offline accounting apps by rural enterprises in Indonesia
+Authors
+Iskandar Muda, Erlina
+Author Affiliations
+Department of Accounting, Universitas Sumatera Utara, Medan, Indonesia
+DOI
+https://doi.org/10.14254/2071-8330.2020/13-4/5
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

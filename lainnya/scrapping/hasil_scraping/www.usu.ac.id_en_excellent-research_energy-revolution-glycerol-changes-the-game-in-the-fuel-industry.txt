@@ -1,0 +1,118 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Energy Revolution: Glycerol Changes The Game In The Fuel Industry
+Energy Revolution: Glycerol Changes the Game in the Fuel Industry
+Published At
+30 August 2024
+Published By
+Bambang Riyanto
+Energy Revolution: Glycerol Changes the Game in the Fuel Industry
+ 
+
+Published by
+
+Bambang Riyanto
+
+Published at
+
+Friday, 30 August 2024
+
+This research reveals the potential of glycerol as an efficient and environmentally friendly fuel additive through the esterification process to triacetin using PSSA catalyst. The results showed improved fuel performance and a more sustainable production method.
+
+Glycerol, a compound often overlooked in the world of fuel components, actually holds unique potential waiting to be uncovered. With its high oxygen content, glycerol may seem like an unusual candidate for fuel, especially given its limited solubility in hydrocarbons. However, this very characteristic—its richness in oxygen—makes it a valuable fuel additive. As research continues to explore alternative energy sources and improve fuel efficiency, glycerol’s potential is now being re-evaluated. But how can a compound so different from traditional fuels be transformed into something more compatible, more effective, and ultimately more beneficial?
+
+Several experts from Universitas Sumatera Utara, Indonesia, namely R. Manurung, A. Saputra, H. Inarto, and A.G.A. Siregar, have sought to answer this question. In their research, they discovered the role of triacetin, a chemical derivative of glycerol that may be less well-known but highly impactful. Through a process known as esterification, glycerol can be combined with acetic acid to produce triacetin.
+
+This transformation is not just a simple chemical reaction; it is a gateway to enhancing fuel performance. Triacetin serves as a fuel enhancer, an anti-coking agent, and an octane booster for gasoline, making it an invaluable component in the quest for more efficient and environmentally friendly fuels. The creation of triacetin is not just an academic exercise; it is a practical solution to real-world problems.
+
+The journey from glycerol to triacetin is aided by catalysts—substances that accelerate chemical reactions without being consumed in the process. Historically, triacetin production has relied on homogeneous catalysts, such as phosphoric acid (H3PO4), hydrochloric acid (HCl), and sulfuric acid (H2SO4). These catalysts, while effective, present their own challenges, particularly related to corrosion and the production of undesirable by-products. As the demand for greener and more sustainable processes grows, the focus is now shifting to heterogeneous catalysts that offer cleaner and more efficient alternatives.
+
+“Polystyrene Sulfonic Acid (PSSA) emerges as a promising heterogeneous catalyst. Unlike homogeneous catalysts, PSSA reduces the risk of corrosion and minimizes the formation of by-products. Its role in the esterification process is crucial, providing a more sustainable pathway for triacetin production. This research leverages the unique properties of PSSA to explore the optimal conditions for producing triacetin from purified glycerol and acetic acid,” explained Manurung.
+
+Furthermore, Manurung described the experimental process as highly meticulous and methodical, beginning with the careful preparation of the reactants. Purified glycerol and acetic acid were introduced into a three-neck flask, where the esterification process took place. The reaction conditions were carefully adjusted, with the temperature maintained at 100°C and the reactants stirred at a speed of 650 revolutions per minute (rpm). These conditions were not arbitrary; they were the result of careful planning and previous experiments designed to maximize triacetin yield.
+
+So, what about the molar ratio? In chemical reactions, the ratio of reactants can significantly influence the outcome. In this study, variations in the molar ratio of glycerol to acetic acid—from 1:6 to 1:10—were tested, along with different catalyst concentrations ranging from 1% to 5%. The reaction was allowed to proceed for 150 minutes, long enough to ensure that the process reached its full potential. The results of these variations were highly intriguing, providing insights into the most effective conditions for triacetin production.
+
+The findings of this study are both compelling and informative. With a catalyst concentration of 2% and a molar ratio of 1:10 between glycerol and acetic acid, the reaction produced the highest amount of triacetin—44.42%. This is not just a number; it is evidence of the process's efficiency and the effectiveness of PSSA as a catalyst. The selectivity of triacetin, a measure of how well the process isolates the desired product from other by-products, was also impressive, reaching 44.98%.
+
+But why is catalyst concentration so important? It relates to the balance between the reactants and the catalyst's ability to facilitate their interaction. Increasing the catalyst load from 1% to 2% had a significant impact on the triacetin yield, substantially enhancing it. This increase is linked to the greater availability of active sites on the catalyst, allowing for more effective interactions between glycerol and acetic acid. At higher concentrations, the reaction rate increases, resulting in a higher triacetin yield.
+
+Triacetin, with its ability to improve fuel performance, represents a step forward in the quest for more sustainable energy solutions. “By refining the production process using PSSA as a catalyst, this research has paved the way for a more efficient and environmentally friendly method of producing fuel additives. The results not only contribute to the scientific understanding of esterification but also offer practical insights that could influence future industrial applications,” said Manurung.
+
+The conclusion of this research is clear: using a 2% PSSA catalyst with a molar ratio of 1:10 between glycerol and acetic acid produces the highest amount of triacetin, with excellent selectivity. This method is not only effective but also efficient, offering an innovation for large-scale triacetin production. As the world continues to search for new ways to improve fuel efficiency and reduce emissions, the role of additives like triacetin will become increasingly important.
+
+“Our research shows that even the most unassuming compounds can have profound impacts when applied in the right context. Through careful experimentation and the application of advanced catalytic techniques, this study has unlocked new potential for glycerol, transforming it from a fuel component with limited solubility into a powerful fuel performance enhancer,” concluded Manurung.
+
+SDGs
+SDGs 7
+Paper Details
+Journal
+Rasayan J. Chem
+Title
+Esterification Of Refined Glycerol Biodiesel Byproduct Using Heterogeneous Catalyst Polystyrene Sulfonic Acid Waste-Based Eps Foam
+Authors
+R. Manurung (1,2), A. Saputra (1), H. Inarto (1), A.G.A. Siregar (1)
+Author Affiliations
+Department of Chemical Engineering, Universitas Sumatera Utara, Medan, 20155, Indonesia
+Centre of Excellence for Chitosan and Advanced Materials, Universitas Sumatera Utara, 20155, Indonesia
+DOI
+http://doi.org/10.31788/RJC.2022.1536933
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

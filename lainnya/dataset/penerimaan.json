@@ -1,0 +1,273 @@
+[
+  {
+    "id": "pmb_smi_2025",
+    "jalur": "SMI",
+    "nama_jalur": "Seleksi Mandiri International (SMI)",
+    "deskripsi": "Jalur bagi calon mahasiswa program sarjana (S-1) USU yang berasal dari luar negeri atau WNI lulusan luar negeri. Proses seleksi berbasis komputer/berkas dengan syarat kemampuan bahasa dan kelengkapan dokumen imigrasi.",
+    "persyaratan_umum": [
+      "Usia maksimal 20 tahun pada saat pendaftaran (mengacu regulasi USU).",
+      "Lulusan sekolah menengah atas atau sederajat dari negara asal.",
+      "Paspor yang masih berlaku.",
+      "Mampu berkomunikasi dalam Bahasa Indonesia atau Inggris (sesuai program/kelas)."
+    ],
+    "persyaratan_khusus": [
+      "Transkrip akademik (nilai rata-rata minimal sesuai ketentuan).",
+      "Sertifikat kemampuan bahasa: TOEFL/IELTS untuk kelas berbahasa Inggris; atau Sertifikat BIPA/kemahiran Bahasa Indonesia untuk kelas berbahasa Indonesia.",
+      "Surat keterangan kesehatan dan bebas penyakit menular.",
+      "Pasfoto berlatar polos, CV, dan rekomendasi (bila diminta)."
+    ],
+    "prosedur_pendaftaran": [
+      "Isi formulir online SMI USU.",
+      "Unggah seluruh dokumen yang dipersyaratkan.",
+      "Verifikasi dokumen oleh universitas.",
+      "Ujian berbasis komputer/tes sesuai jadwal.",
+      "Pengumuman hasil dan registrasi mahasiswa baru."
+    ],
+    "jadwal": [],
+    "dokumen_pendukung": [
+      { "nama_dokumen": "Panduan Penerimaan SMI", "tautan": "https://www.usu.ac.id/id/penerimaan/smi" }
+    ],
+    "biaya": { "pendaftaran": "Mengacu ketentuan SMI", "kuliah": "Mengacu UKT/biaya internasional program" },
+    "program_studi": [ "Program Sarjana (kelas internasional / reguler yang menerima SMI)" ],
+    "kontak": {
+      "unit": "Narahubung USU",
+      "email": "info@usu.ac.id",
+      "telepon": "0821-6888-9060",
+      "tautan_resmi": "https://www.usu.ac.id/id/penerimaan/smi"
+    },
+    "sumber": "https://www.usu.ac.id/id/penerimaan/smi"
+  },
+  {
+    "id": "pmb_sbpu_2025",
+    "jalur": "SBPU",
+    "nama_jalur": "Seleksi Berbasis Prestasi Unggul Talenta (SBPU Talenta) USU",
+    "deskripsi": "Jalur seleksi berbasis prestasi akademik/non-akademik dan bakat khusus level nasional/internasional. Kuota paling banyak 0,5% dari total penerimaan mahasiswa baru USU.",
+    "persyaratan_umum": [
+      "WNI dengan NIK.",
+      "Siswa kelas 12 atau lulusan 2023/2024 (tergantung ketentuan tahun berjalan).",
+      "Tidak pernah lulus jalur sebelumnya pada tahun berjalan.",
+      "Mengunggah dokumen kelulusan bila sudah tersedia."
+    ],
+    "persyaratan_khusus": [
+      "Memiliki prestasi unggul yang dibuktikan sertifikat/surat keterangan resmi dari penyelenggara.",
+      "Kategori prestasi: akademik, olahraga, seni, keagamaan/keharmonisan, teknologi inovasi, dsb (sesuai daftar di halaman)."
+    ],
+    "prosedur_pendaftaran": [
+      "Daftar online SBPU USU.",
+      "Unggah berkas prestasi & dokumen identitas.",
+      "Seleksi administrasi dan verifikasi prestasi.",
+      "Wawancara/Uji kemampuan (bila ada).",
+      "Pengumuman hasil dan registrasi."
+    ],
+    "jadwal": [
+      { "tahap": "Pendaftaran & Pengisian Berkas", "tanggal_mulai": "2025-05-01", "tanggal_selesai": "2025-05-31" },
+      { "tahap": "Wawancara & Uji Kemampuan", "tanggal_mulai": "2025-06-25", "tanggal_selesai": "2025-06-28" },
+      { "tahap": "Pengumuman Kelulusan", "tanggal_mulai": "2025-07-06", "tanggal_selesai": "2025-07-06" }
+    ],
+    "dokumen_pendukung": [
+      { "nama_dokumen": "Persyaratan Umum & Khusus SBPU", "tautan": "https://www.usu.ac.id/id/penerimaan/sbpu" }
+    ],
+    "biaya": { "pendaftaran": "Mengacu ketentuan SBPU", "kuliah": "UKT sesuai prodi" },
+    "program_studi": [ "Seluruh prodi yang membuka kuota SBPU" ],
+    "kontak": {
+      "unit": "Narahubung SBPU USU",
+      "tautan_resmi": "https://penerimaan.usu.ac.id/s/sbpu"
+    },
+    "sumber": "https://www.usu.ac.id/id/penerimaan/sbpu"
+  },
+  {
+    "id": "pmb_smmptnbarat_2025",
+    "jalur": "SMMPTN-Barat",
+    "nama_jalur": "Seleksi Mandiri Masuk Perguruan Tinggi Negeri Wilayah Barat",
+    "deskripsi": "Ujian tulis berbasis komputer (UTBK) yang diselenggarakan secara bersama oleh PTN wilayah Barat. Peserta dapat memilih prodi lintas PTN dalam skema SMMPTN-Barat.",
+    "persyaratan_umum": [
+      "Lulusan SMA/MA/SMK/Paket C (batas usia sesuai ketentuan).",
+      "Tidak sedang/belum lulus jalur nasional tertentu pada tahun berjalan (sesuai ketentuan).",
+      "Memenuhi persyaratan portofolio untuk prodi Seni/Olahraga."
+    ],
+    "persyaratan_khusus": [
+      "Setiap PTN/prodi dapat memiliki syarat tambahan (dokumen, batas nilai, portofolio)."
+    ],
+    "prosedur_pendaftaran": [
+      "Registrasi akun di portal SMMPTN-Barat.",
+      "Isi formulir dan pilih prodi/PTN.",
+      "Bayar biaya pendaftaran.",
+      "Cetak kartu peserta dan ikuti UTBK.",
+      "Cek pengumuman hasil."
+    ],
+    "jadwal": [
+      { "tahap": "Pendaftaran Online", "tanggal_mulai": "2025-05-04", "tanggal_selesai": "2025-06-08" },
+      { "tahap": "Pelaksanaan UTBK", "tanggal_mulai": "2025-06-17", "tanggal_selesai": "2025-06-24" },
+      { "tahap": "Pengumuman Hasil", "tanggal_mulai": "2025-06-28", "tanggal_selesai": "2025-06-28" }
+    ],
+    "materi_ujian": [
+      "Tes Potensi Skolastik (TPS)",
+      "Literasi Bahasa Indonesia",
+      "Literasi Bahasa Inggris",
+      "Penalaran Matematika"
+    ],
+    "dokumen_pendukung": [
+      { "nama_dokumen": "Panduan Peserta SMMPTN-Barat", "tautan": "https://smmptnbarat.id" }
+    ],
+    "biaya": { "pendaftaran": "Mengacu panitia SMMPTN-Barat", "kuliah": "UKT di PTN tujuan" },
+    "program_studi": [ "Lintas PTN wilayah Barat (termasuk USU)" ],
+    "kontak": { "unit": "Sekretariat SMMPTN-Barat", "tautan_resmi": "https://smmptnbarat.id" },
+    "sumber": "https://www.usu.ac.id/id/penerimaan/smmptn-barat"
+  },
+  {
+    "id": "pmb_mandiri_2025",
+    "jalur": "SMM",
+    "nama_jalur": "Seleksi Mahasiswa Mandiri (SMM USU)",
+    "deskripsi": "Seleksi mandiri yang diselenggarakan USU untuk program sarjana. Menggunakan UTBK internal/tes tertulis, dengan beberapa tahap untuk menyesuaikan kuota prodi.",
+    "persyaratan_umum": [
+      "Lulusan SMA/MA/SMK/Paket C sesuai ketentuan tahun berjalan.",
+      "Memenuhi syarat administrasi prodi tujuan.",
+      "Portofolio untuk prodi Seni/Olahraga (jika diminta)."
+    ],
+    "persyaratan_khusus": [ "Ketentuan tambahan dapat diberlakukan per prodi." ],
+    "prosedur_pendaftaran": [
+      "Daftar online di portal SMM USU.",
+      "Isi formulir & unggah berkas.",
+      "Bayar biaya pendaftaran.",
+      "Ikuti ujian berbasis komputer.",
+      "Cek pengumuman & lakukan registrasi."
+    ],
+    "jadwal": [
+      { "tahap": "SMM Tahap 1 - Pendaftaran Online", "tanggal_mulai": "2025-05-01", "tanggal_selesai": "2025-06-07" },
+      { "tahap": "SMM Tahap 1 - Ujian", "tanggal_mulai": "2025-06-09", "tanggal_selesai": "2025-06-12" },
+      { "tahap": "SMM Tahap 1 - Pengumuman", "tanggal_mulai": "2025-06-20", "tanggal_selesai": "2025-06-20" },
+      { "tahap": "SMM Tahap 2 - Pendaftaran Online", "tanggal_mulai": "2025-07-15", "tanggal_selesai": "2025-07-25" },
+      { "tahap": "SMM Tahap 2 - Ujian", "tanggal_mulai": "2025-07-18", "tanggal_selesai": "2025-07-19" },
+      { "tahap": "SMM Tahap 2 - Pengumuman", "tanggal_mulai": "2025-07-23", "tanggal_selesai": "2025-07-23" }
+    ],
+    "dokumen_pendukung": [
+      { "nama_dokumen": "Panduan SMM USU", "tautan": "https://penerimaan.usu.ac.id" }
+    ],
+    "biaya": { "pendaftaran": "Mengacu ketentuan SMM USU", "kuliah": "UKT sesuai prodi" },
+    "program_studi": [ "Seluruh prodi sarjana yang membuka kuota SMM" ],
+    "kontak": { "unit": "Narahubung USU", "tautan_resmi": "https://www.usu.ac.id/id/penerimaan/pmm" },
+    "sumber": "https://www.usu.ac.id/id/penerimaan/pmm"
+  },
+  {
+    "id": "pmb_diploma_2025",
+    "jalur": "Diploma",
+    "nama_jalur": "Seleksi Penerimaan Mahasiswa Program Diploma (SPMPD) USU",
+    "deskripsi": "Seleksi penerimaan mahasiswa baru jenjang Diploma (D-3) yang diselenggarakan USU secara mandiri, umumnya melalui ujian tulis berbasis komputer.",
+    "persyaratan_umum": [
+      "Lulusan SMA/MA/SMK atau sederajat.",
+      "Memenuhi syarat administrasi program diploma pilihan."
+    ],
+    "persyaratan_khusus": [],
+    "prosedur_pendaftaran": [
+      "Daftar online melalui laman SPMPD.",
+      "Unggah berkas dan bayar biaya pendaftaran.",
+      "Ikuti ujian/seleksi.",
+      "Pengumuman dan registrasi."
+    ],
+    "jadwal": [],
+    "dokumen_pendukung": [
+      { "nama_dokumen": "Informasi SPMPD USU", "tautan": "https://www.usu.ac.id/id/penerimaan/diploma" }
+    ],
+    "biaya": { "pendaftaran": "Mengacu SPMPD", "kuliah": "UKT program diploma" },
+    "program_studi": [ "Program Diploma D-3 di USU" ],
+    "kontak": { "unit": "Narahubung USU", "tautan_resmi": "https://www.usu.ac.id/id/penerimaan/diploma" },
+    "sumber": "https://www.usu.ac.id/id/penerimaan/diploma"
+  },
+  {
+    "id": "pmb_pascasarjana_2025",
+    "jalur": "SPS",
+    "nama_jalur": "Program Pascasarjana (Magister & Doktor) USU",
+    "deskripsi": "Seleksi penerimaan mahasiswa baru untuk program Magister (S-2) dan Doktor (S-3) yang dikelola Sekolah Pascasarjana (SPS) dan fakultas penyelenggara.",
+    "persyaratan_umum": [
+      "Ijazah & transkrip S-1 (untuk S-2) / S-2 (untuk S-3) yang terakui.",
+      "Rekomendasi akademik (umumnya 2 orang).",
+      "CV, proposal rencana riset (khusus S-3), dan syarat khusus prodi.",
+      "Lulus Tes Potensi Akademik/TPA dan wawancara (sesuai prodi)."
+    ],
+    "persyaratan_khusus": [
+      "Ketentuan tambahan per prodi (IPK minimal, sertifikat bahasa, portofolio, dsb)."
+    ],
+    "prosedur_pendaftaran": [
+      "Buat akun & daftar online di laman penerimaan SPS.",
+      "Bayar biaya pendaftaran via virtual account.",
+      "Unggah berkas & pilih program studi.",
+      "Ikuti seleksi (ujian/wawancara).",
+      "Pengumuman & registrasi."
+    ],
+    "jadwal": [],
+    "dokumen_pendukung": [
+      { "nama_dokumen": "Panduan Penerimaan SPS USU", "tautan": "https://penerimaan.sps.usu.ac.id" }
+    ],
+    "biaya": { "pendaftaran": "Mengacu SPS", "kuliah": "Biaya pendidikan/UKT sesuai program" },
+    "program_studi": [ "Daftar program S-2 & S-3 sesuai tabel di laman SPS" ],
+    "kontak": { "unit": "Sekolah Pascasarjana USU", "tautan_resmi": "https://www.usu.ac.id/id/penerimaan/pascasarjana" },
+    "sumber": "https://www.usu.ac.id/id/penerimaan/pascasarjana"
+  },
+  {
+    "id": "pmb_ppds_2025",
+    "jalur": "PPDS",
+    "nama_jalur": "Program Pendidikan Dokter Spesialis (PPDS) USU",
+    "deskripsi": "Program pendidikan untuk dokter yang menempuh spesialisasi klinik di berbagai departemen kedokteran. Seleksi mencakup tahapan administrasi, tes akademik, psikotes/MMPI, wawancara, dan pemeriksaan kesehatan sesuai prodi.",
+    "persyaratan_umum": [
+      "Lulusan dokter (dr.) dengan STR/serta ketentuan legal lainnya.",
+      "Surat rekomendasi, izin atasan (bagi PNS/TNI/Polri), dan pengalaman kerja (bila disyaratkan).",
+      "Kelengkapan berkas administratif & kesehatan."
+    ],
+    "persyaratan_khusus": [
+      "Syarat tambahan per departemen (IPK, masa kerja, sertifikat, logbook, dsb)."
+    ],
+    "prosedur_pendaftaran": [
+      "Daftar online via laman PPDS/USU.",
+      "Verifikasi berkas & pemanggilan tes.",
+      "Tes akademik/CBT, psikotes/MMPI, OSCE, dan wawancara.",
+      "Pengumuman & registrasi."
+    ],
+    "jadwal": [],
+    "dokumen_pendukung": [
+      { "nama_dokumen": "Panduan/Daftar Persyaratan PPDS", "tautan": "https://www.usu.ac.id/id/penerimaan/ppds" }
+    ],
+    "biaya": { "pendaftaran": "Mengacu PPDS", "kuliah": "Biaya pendidikan spesialis per departemen" },
+    "program_studi": [ "Daftar departemen spesialis sesuai laman PPDS" ],
+    "kontak": { "unit": "Panitia PPDS USU", "tautan_resmi": "https://www.usu.ac.id/id/penerimaan/ppds" },
+    "sumber": "https://www.usu.ac.id/id/penerimaan/ppds"
+  },
+  {
+    "id": "pmb_ppdgs_2024",
+    "jalur": "PPDGS",
+    "nama_jalur": "Program Pendidikan Dokter Gigi Spesialis (PPDGS) USU",
+    "deskripsi": "Program spesialis kedokteran gigi bagi Sarjana Kedokteran Gigi (S.Kg.) untuk mendalami bidang tertentu. Seleksi meliputi administrasi, tes, OSCE, dan wawancara.",
+    "persyaratan_umum": [
+      "Lulusan kedokteran gigi (S.Kg.)/dokter gigi dengan syarat legal sesuai regulasi.",
+      "Surat rekomendasi dan kelengkapan administrasi.",
+      "Kelayakan kesehatan."
+    ],
+    "persyaratan_khusus": [
+      "Ketentuan tambahan per program spesialis kedokteran gigi."
+    ],
+    "prosedur_pendaftaran": [
+      "Daftar online via laman PPDGS USU.",
+      "Seleksi administrasi/berkas.",
+      "Tes akademik/CBT, TOEFL, Psikotes, MMPI, OSCE, Wawancara (Fakultas & Dekanat).",
+      "Pengumuman hasil."
+    ],
+    "jadwal": [
+      { "tahap": "Pendaftaran Online", "tanggal_mulai": "2024-06-05", "tanggal_selesai": "2024-06-26" },
+      { "tahap": "Seleksi Berkas (Pengumuman)", "tanggal_mulai": "2024-06-24", "tanggal_selesai": "2024-06-26" },
+      { "tahap": "Tes Akademik & Wawancara", "tanggal_mulai": "2024-07-01", "tanggal_selesai": "2024-07-14" },
+      { "tahap": "TOEFL", "tanggal_mulai": "2024-07-01", "tanggal_selesai": "2024-07-01" },
+      { "tahap": "Psikotes", "tanggal_mulai": "2024-07-02", "tanggal_selesai": "2024-07-02" },
+      { "tahap": "MMPI", "tanggal_mulai": "2024-07-03", "tanggal_selesai": "2024-07-03" },
+      { "tahap": "Ujian CBT", "tanggal_mulai": "2024-07-03", "tanggal_selesai": "2024-07-09" },
+      { "tahap": "OSCE & Wawancara", "tanggal_mulai": "2024-07-10", "tanggal_selesai": "2024-07-13" },
+      { "tahap": "Wawancara Dekanat", "tanggal_mulai": "2024-07-14", "tanggal_selesai": "2024-07-14" },
+      { "tahap": "Pengumuman Kelulusan", "tanggal_mulai": "2024-07-29", "tanggal_selesai": "2024-07-29" }
+    ],
+    "dokumen_pendukung": [
+      { "nama_dokumen": "Formulir & Persyaratan PPDGS", "tautan": "https://penerimaanppdgs.usu.ac.id" }
+    ],
+    "biaya": { "pendaftaran": "Mengacu PPDGS", "kuliah": "Biaya pendidikan spesialis kedokteran gigi" },
+    "program_studi": [ "Program spesialis kedokteran gigi di USU" ],
+    "kontak": { "unit": "Panitia PPDGS USU", "tautan_resmi": "https://www.usu.ac.id/id/penerimaan/ppdgs" },
+    "sumber": "https://www.usu.ac.id/id/penerimaan/ppdgs"
+  }
+]

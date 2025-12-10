@@ -1,0 +1,162 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+
+Herriyance
+
+S.T., M.Kom.
+
+Herriyance, S.T., M.Kom.
+
+NIP
+
+198010242010121002
+
+NIDN
+
+0024108007
+
+Program Studi
+Program Studi S1 Ilmu Komputer
+Laboratorium Pengajaran Pemrograman
+Bidang Keilmuan
+Grafika Komputer
+Pemrosesan Gambar
+Jabatan
+Lektor
+Media Penelitian
+Kontak:
+E-mail
+
+Alamat Kantor
+
+Gedung D Fakultas Ilmu Komputer dan Teknologi Informasi
+
+Curriculum Vitae
+file_download
+Profil
+
+Herriyance, S.T., M.Kom, lahir di Medan, pada 24 Oktober 1980. Beliau memperoleh gelar Sarjana Teknik Informatika (Sekolah Tinggi Teknik Harapan Medan) pada tahun 2005, kemudian menyelesaikan studi Magister pada Teknologi Informasi(Universitas Putra Indonesia (UPI) Padang-pada Tahun 2009.
+Herriyance, S.T., M.Kom memulai karir sebagai dosen Fasilkom-TI pada tahun 2012 hingga sekarang dan diberi amanah sebagai Sekretaris Program Studi S1-Ilmu Komputer periode 2017 hingga 2021. Tahun 2013, beliau menjadi Sekretaris pada Jurnal Online Ilmu Komputer. Beliau aktif di organisasi Aptikom Wil. 1 Sumut-Aceh dan mengikuti kegiatan Penanaman Seribu Pohon di Prodi Ilmu Komputer USU.dan menjadi penyaji pada kegiatan Pembekalan bagi mahasiswa baru pada STMIK Triguna Dharma Medan di Sibolangit pada tahun 2014.
+Saat ini beliau menekuni beberapa bidang riset di antaranya adalah kecerdasan buatan, robotik dan Internet of Things yang menghasilkan beberapa publikasi ilmiah antara lain Pengembangan Sistem Kontrol Otomatis Untuk Mengontrol PH Tanah Menggunakan Mikrokontroller (2019),Pengembangan Sistem Kontrol Otomatis Untuk Mengontrol PH Tanah Menggunakan Mikrokontroller (2019), Menggerakkan Robot Untuk Mengontrol Objek Menggunakan Gestur Tangan Dengan Logika Fuzzy (2020), dan beberapa publikasi ilmiah lainnya yang terdaftar di SINTA.
+Semasa hidupnya, beliau selalu memegang teguh nasehat dan kata-kata orang tua dan guru beliau bahwasanya "ilmu itu bukan yang dihafal, tetapi yang memberi manfaat".
+
+Publikasi
+Publikasi Lainnya 
+
+Publikasi Nasional
+
+Publikasi Internasional
+
+Identification of Lung Cancer in Chest X-Ray Images Using Convolutional Neural Network
+
+AINA HUBBY AZIIRA , HERRIYANCE , ROMI FADILLAH RAHMAT , FAHRURROZI LUBIS
+
+A Crypto-compression System Using Spritz Algorithm and Variable Length Encoding Algorithm for Text Files
+
+AMER SHARIF , HERRIYANCE
+
+Abnormal Object Detection in Thoracic X-Ray Using You only Look Once (YOLO)
+
+HERRIYANCE , AMALIA
+
+Dust Particle Matter (2.5) with Meteorological Parameters to Predict Air Quality Based on Support Vector Machine Approaches
+
+HAYATUNNUFUS , FAHRURROZI LUBIS , ROMI FADILLAH RAHMAT , AINUL HIZRIADI , HERRIYANCE
+
+Early identification of gastric pains through the tongue images using radial basis function
+
+AINUL HUSNA , Nur Intan Raihana Ruhayem , SHARFINA FAZA , ROMI FADILLAH RAHMAT , AINUL HIZRIADI , HERRIYANCE
+
+Researchs
+Penelitian Lainnya 
+IMPLEMENTASI ADVANCE MACHINE LEARNING PADA PREDIKSI PARTIKEL KUALITAS UDARA
+
+HERRIYANCE , AINUL HIZRIADI
+
+PENGENALAN PENYAKIT MAAG BERDASARKAN CITRA LIDAH DENGAN KECERDASAN BUATAN
+
+HERRIYANCE , AINUL HIZRIADI , KHAIRUNISA FITRI SINAGA , HILDA SAFIRA , FENNI KRISTIANI SARUMAHA
+
+CONVOLUTIONAL NEURAL NETWORK DALAM PENGKLASIFIKASIAN CITRA PARU-PARU
+
+HERRIYANCE , FAHRURROZI LUBIS , HAJARANI SYADZWANA , AQILLA FHADIA HAYA BR SINULINGGA , DIFANIE MAYANANDA
+
+SISTEM KLASIFIKASI NEURAL NETWORK UNTUK MEMBEDAKAN DAGING BABI DAN SAPI
+
+HERRIYANCE , AINUL HIZRIADI
+
+Pengabdian Masyarakat
+Pengabdian Lainnya 
+
+Pemanfaatan Teknologi untuk Informasi Broadcast Kegiatan Administrasi Sekolah Madrasah Ibtidaiyah Swasta (MIS) Luqman Al-Hakim Yayasan Pondok Pesantren Hidayatullah Medan
+
+. HERRIYANCE , ROMI FADILLAH RAHMAT , POLTAK SIHOMBING . 2022
+
+Sistem Absensi Tenaga Pendidik Dengan RFID Pada Sekolah Madrasah Ibtidaiyah Swasta Lukman Al-Hakim Pondok Pesantren Hidayatullah Medan
+
+Madrasah Ibtidaiyah Swasta Lukman Al-Hakim Pondok Pesantren Hidayatullah Medan. HERRIYANCE , ROMI FADILLAH RAHMAT , POLTAK SIHOMBING , FAHRURROZI LUBIS . 2023
+
+Hak Kekayaan Intelektual
+Kekayaan Intelektual Lainnya 
+KLASIFIKASI CIPTA PARU-PARU BRONKITIS DAN TBC DENGAN EXTREME LEARNING MACHINE
+
+HERRIYANCE , FAHRURROZI LUBIS , ROMI FADILLAH RAHMAT
+
+Mata Kuliah Yang Diampu
+
+Tahun Ajaran
+
+All
+2025
+2024
+2023
+2022
+2021
+
+Semester
+
+Ganjil
+Genap
+
+Belum ada data yang tersedia
+
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara

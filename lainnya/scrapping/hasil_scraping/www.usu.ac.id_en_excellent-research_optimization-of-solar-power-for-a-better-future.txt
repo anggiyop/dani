@@ -1,0 +1,120 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Optimization Of Solar Power For A Better Future
+Optimization of Solar Power for a Better Future
+Published At
+04 March 2025
+Published By
+Zikri Noer
+Optimization of Solar Power for a Better Future
+ 
+
+Published by
+
+Zikri Noer
+
+Published at
+
+Tuesday, 04 March 2025
+
+This innovative research reveals how the combination of adjustable solar reflectors, passive cooling, and IoT technology can boost solar panel efficiency by up to 51.65%. This approach makes solar energy more reliable, cost-effective, and ready to support the transition to green energy.
+
+In this modern era, the demand for energy continues to rise in line with technological and industrial advancements. However, the heavy reliance on fossil fuels has severe environmental consequences, such as global warming and air pollution. Therefore, renewable energy has become the primary solution to meeting future energy needs sustainably. One of the most promising renewable energy sources is solar energy, which is abundant in equatorial regions and can be harnessed year-round. Unfortunately, the efficiency of solar panels remains a major challenge in their utilization. Various factors, such as light absorption angle, panel temperature, and weather changes, can affect the amount of energy converted into electricity.
+
+The urgency to find a solution to this issue prompted researcher Zikri Noer (Universitas Sumatera Utara), along with Abdullah, Maharani Putri, Muhammad Syahruddin, Nobert Sitorus, Cholish, and Priansus Rhein Rumahorbo (Politeknik Negeri Medan), Abdul Kadir Jumaat and Abdul Rahim Ridzuan (Universiti Teknologi MARA), Masthura (Universitas Islam Sumatera Utara), and Malik Abdul Karim (Universiti Teknologi Petronas), to propose an optimization method using adjustable solar reflectors and passive cooling through Internet of Things (IoT)-based monitoring. This approach significantly enhances solar panel efficiency, making it a more reliable energy source.
+
+“In solar power generation systems, optimization is the key to improving efficiency and productivity. Recent studies have shown that a combination of adjustable reflectors aligned with the sun’s angle and a passive cooling system can increase solar panel output by more than 50%,” said Zikri.
+
+This demonstrates that technological innovation can make solar energy a more efficient solution. Optimization is achieved by adjusting the solar reflector angle to ensure that the sunlight received by the panel is at an optimal level, along with a passive cooling system that maintains the panel temperature at ideal conditions for maximum energy production. Additionally, IoT enables real-time monitoring and system adjustments, making the system more adaptive to environmental changes and easier to manage remotely.
+
+Solar reflectors play a crucial role in improving solar panel efficiency by reflecting sunlight onto the panel, allowing for greater light absorption. In this study, the reflectors were installed at adjustable angles controlled automatically using motors managed by light sensors and IoT. The research findings indicate that the optimal reflector angle is 30 degrees, resulting in a 34% increase in power output compared to panels without reflectors. Conversely, angles exceeding 60 degrees caused inefficient light reflection, reducing the generated power. Therefore, an automated system that adjusts the reflectors based on the sun’s position proves to be a highly effective solution for improving efficiency.
+
+However, optimizing the reflector angle alone is not sufficient. One of the main challenges in solar panel usage is the increase in temperature, which can lead to a decline in energy conversion efficiency. When panel temperatures rise, the power output can decrease significantly. Therefore, this research developed a passive cooling system designed to maintain panel temperature stability. The passive cooling methods used include heatsinks and cooling blocks mounted behind the panel to absorb heat, thermally conductive materials to help dissipate heat away from the panel, and an aerodynamically designed cooling surface for better heat distribution. Experimental data showed that panels with passive cooling had temperatures 4.7°C lower than those without cooling, significantly improving energy conversion efficiency.
+
+Furthermore, the application of IoT in solar energy systems is one of the most exciting innovations in this research. By leveraging sensors and internet-based connectivity, system owners can monitor solar panel performance in real time via smartphones or laptops, automatically adjust reflector angles based on sunlight intensity, control the cooling system to maintain optimal efficiency, and analyze weather data to optimize energy production.
+
+“This system utilizes Arduino Mega and ESP32 as the main controllers, with a Blynk-based application for data visualization and full user control. With IoT integration, solar panels are not only more efficient but also easier to manage and optimize according to environmental conditions,” explained Zikri.
+
+The implementation of this optimization system has yielded remarkable results. Trials showed that solar panels equipped with variable reflectors and a passive cooling system generated 158.19 W of power, while panels without optimization produced only 104.31 W. With a power increase of up to 51.65%, this represents a significant breakthrough in solar energy technology, proving that this innovation can be widely applied to enhance the utilization of renewable energy.
+
+This research, published in the Semarak Ilmu journal, demonstrates that the combination of adjustable solar reflectors, passive cooling, and IoT technology can significantly boost solar panel efficiency. The 51.65% increase in power output opens vast opportunities for the development of more reliable and cost-effective solar energy systems. The implications of this study extend to industrial and household applications, promoting the adoption of renewable energy, reducing dependence on fossil fuels, and supporting the transition to green energy. Further advancements incorporating artificial intelligence (AI) and weather prediction could lead to even more sophisticated optimization.
+
+“In the future, research could focus on integrating artificial intelligence (AI) to enhance the accuracy of reflector angle predictions and utilizing innovative cooling materials such as phase change materials (PCM) to optimize thermal management in solar panels,” concluded Zikri.
+
+SDGs
+SDGs 13
+Paper Details
+Journal
+Journal of Advanced Research in Fluid Mechanics and Thermal Sciences (ARFMTS)
+Title
+Optimization of Solar Power Plant with Variation of Solar Reflector Angles and Use of Passive Cooling Integrated Internet of Things
+Authors
+Abdullah (1), Maharani Putri (1), Muhammad Syahruddin (1), Nobert Sitorus (1), Abdul Kadir Jumaat (2), Abdul Rahim Ridzuan (3), Cholish (1), Priansus Rhein Rumahorbo (1), Zikri Noer (4), Masthura (5), Malik Abdul Karim (6)
+Author Affiliations
+Department of Electrical Engineering, Politeknik Negeri Medan, Medan, North Sumatra 20155, Indonesia
+Faculty of Computer and Mathematical Science, Universiti Teknologi MARA, 40450 Shah Alam, Selangor, Malaysia
+Faculty of Business and Management, Universiti Teknologi MARA, 40450 Shah Alam, Selangor, Malaysia
+Department of Physics, Faculty of Vocational, Universitas Sumatera Utara, Medan, North Sumatra 20155, Indonesia
+Department of Physics, Universitas Islam Negeri Sumatera Utara, North Sumatra 20371, Indonesia
+Mechanical Engineering, Faculty of Engineering, Universiti Teknologi Petronas, Bandar Seri Iskandar, 32610 Seri Iskandar, Perak, Malaysia
+DOI
+https://doi.org/10.37934/arfmts.124.1.233248
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

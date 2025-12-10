@@ -1,0 +1,114 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+SECoS, Accuracy Of Skin Cancer Image Classification
+SECoS, Accuracy of Skin Cancer Image Classification
+Published At
+16 July 2024
+Published By
+Suherman
+SECoS, Accuracy of Skin Cancer Image Classification
+ 
+
+Published by
+
+Suherman
+
+Published at
+
+Tuesday, 16 July 2024
+
+SECoS has the best performance compared to other methods such as probabilistic neural network (PNN) and support vector machine (SVM) in terms of false negative,” explained Mr. Suherman, S.T., M.Comp., Ph.D. Therefore, it is proven that SECoS is more robust in dealing with changes in error patterns and input data variations.
+
+Skin cancer is one of the most common cancers in many countries around the world. Skin cancer itself provides a high mortality rate, where, based on data from the American Cancer Society, the death rate from skin cancer reaches 10% per year. Meanwhile, the number of patients affected by skin cancer continues to increase every year. Therefore, early detection and examination are critical to determine the proper treatment for this deadly disease. However, classification studies on skin cancer images still face significant challenges in accuracy prediction, primarily related to extracting low-level features that lack clinical meaning.
+
+Thus, Mr. Al-Khowarizmi, S.Kom., M.Kom., in collaboration with Mr. Suherman, S.T., M.Comp., Ph.D., attempted to perform skin cancer image classification by applying a simple connectivity system.
+
+Furthermore, Mr. Suherman, S.T., M.Comp., Ph.D., said, “Classification is one of the data mining algorithms that aims to enable computers or processors to learn with methods and algorithms that are in accordance with the concept of machine learning, through classification by utilizing training and testing data in the form of text, images, and videos. Meanwhile, using data mining algorithms can analyze complex datasets and predict new data without making general assumptions about data distribution,” he concluded.
+
+Currently, many researchers classify skin cancer images using simple classifications such as support vector machines (SVM).
+
+“Indeed, there has been research related to this skin cancer image. However, it still uses support vector machine (SVM) or neural network and decision tree, which we know that these classification models may have a major problem due to the difficulty of handling large datasets, so they often get the wrong classification of pattern variations. In addition, in the future, we need to classify more complex datasets efficiently,” explained Mr. Suherman, S.T., M.Comp., Ph.D.
+
+Therefore, one method that has proven effective in overcoming this challenge is the Simple Evolving Connectionist System (SECoS), which is also known as evolved multilayer perceptron (eMLP). “SECoS can predict large data patterns and is very powerful in processing rich datasets,” explained Mr. Suherman, S.T., M.Comp., Ph.D.
+
+SECoS is a data mining classification technique that recognizes data based on binding testing and training data. It has three layers: input, hidden, and output. The input layer processes the raw data, the hidden layer calculates the SECoS method evolutionarily, and the output layer provides the classification value.
+
+Mr. Al-Khawarizmi, S.Kom., M.Kom. and his team conducted the classification process using SECoS, starting from the dataset collection stage of malignant and benign skin mole images. This process includes image conversion to grayscale and Histogram of Oriented Gradients (HOG) feature extraction. The resulting HOG images were then fed into SECoS for training and testing.
+
+The results of the research conducted by Mr. Al-Khawarizmi, S.Kom., M.Kom., and Mr. Suherman, S.T., M.Comp., Ph.D., showed that SECoS can achieve a lower Minimum Absolute Percentage Error (MAPE) than other methods. “SECoS has the best performance compared to other methods such as probabilistic neural network (PNN) and support vector machine (SVM) in terms of false negative,” explained Mr. Suherman, S.T., M.Comp., Ph.D. Therefore, it is proven that SECoS is more robust in dealing with changes in error patterns and input data variations.
+
+The research that has been conducted proves that SECoS is an effective method for skin cancer image classification. By performing proper feature extraction and utilizing evolutionary principles, SECoS can improve accuracy and adaptivity in the classification process. Further research and application of this method in various fields can open up new opportunities in medical diagnostics and complex data science.
+
+SDGs
+SDGs 3
+Paper Details
+Journal
+IAES International Journal of Artificial Intelligence (IJ-AI)
+Title
+Classification of skin cancer images by applying simple evolving connectionist system
+Authors
+Al-Khowarizmi, Suherman
+Author Affiliations
+Department of Information Technology, Universitas Muhammadiyah Sumatera Utara, Indonesia
+Department of Electrical Engineering, Universitas Sumatera Utara, Indonesia
+DOI
+https://doi.org/10.11591/ijai.v10.i2.pp421-429
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

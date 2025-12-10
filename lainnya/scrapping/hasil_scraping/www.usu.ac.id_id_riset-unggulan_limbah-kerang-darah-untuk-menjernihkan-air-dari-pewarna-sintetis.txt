@@ -1,0 +1,118 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Limbah Kerang Darah Untuk Menjernihkan Air Dari Pewarna Sintetis
+Limbah Kerang Darah untuk Menjernihkan Air dari Pewarna Sintetis
+Diterbitkan Pada
+05 Maret 2025
+Diterbitkan Oleh
+Ir. Erni Misran ST., MT., Ph.D
+Limbah Kerang Darah untuk Menjernihkan Air dari Pewarna Sintetis
+ 
+
+Diterbitkan oleh
+
+Ir. Erni Misran ST., MT., Ph.D
+
+Diterbitkan pada
+
+Rabu, 05 Maret 2025
+
+Penelitian ini mengungkap efektivitas cangkang kerang darah sebagai adsorben alami dalam menghilangkan methylene blue dari limbah industri, dengan efisiensi mencapai 98.614%. Pemanfaatan gelombang ultrasonik terbukti meningkatkan proses adsorpsi hingga 63.119%, menawarkan solusi ramah lingkungan dan berkelanjutan bagi industri tekstil.
+
+Di antara banyaknya permasalahan lingkungan yang semakin kompleks, pencemaran air akibat limbah industri menjadi momok yang terus menghantui ekosistem. Limbah pewarna sintetis seperti methylene blue, yang digunakan secara luas dalam industri kayu, linen, dan sutra, kerap mencemari perairan dengan kadar mencapai 10 hingga 200 mg/L. Keberadaan zat ini tidak hanya mencemari lingkungan visual dengan perubahan warna air, tetapi juga berpotensi menimbulkan dampak buruk terhadap ekosistem akuatik dan kesehatan manusia.
+
+Masalah tersebut mendorong penelitian dosen Universitas Sumatera Utara, yaitu Erni Misran, Viqry Pramananda, Aqnes Faulina Sihombing, dan Dina Valianty Sitorus dari Program Studi Teknik Kimia, yang berkolaborasi dengan Muhammad Dani Supardan (Universitas Syiah Kuala) dan Dewi Agustina Iryani (Universitas Lampung). Tim peneliti ini menegaskan bahwa dalam menghadapi tantangan lingkungan ini, teknologi pengolahan limbah yang efektif dan ramah lingkungan menjadi kebutuhan yang mendesak. Dari berbagai metode yang telah dikembangkan, adsorpsi muncul sebagai teknik yang menjanjikan untuk mengatasi pencemaran methylene blue. Salah satu material alami yang memiliki potensi besar dalam proses ini adalah cangkang kerang darah (Anadara granosa).
+
+“Cangkang ini mengandung kalsium karbonat (CaCO₃) dalam kadar tinggi, mencapai 98,7%, yang membuatnya mampu menyerap zat pewarna dengan baik. Namun, efektivitasnya dapat lebih ditingkatkan dengan inovasi teknologi seperti pemanfaatan gelombang ultrasonik yang mampu mempercepat proses adsorpsi,” jelas Erni.
+
+Dalam implementasinya, cangkang kerang darah diolah menjadi tiga jenis adsorben, masing-masing dengan perlakuan berbeda. Setiap jenis adsorben dianalisis secara mendalam untuk memahami karakteristiknya. Teknologi canggih seperti Scanning Electron Microscope-Energy Dispersive X-Ray (SEM-EDX) digunakan untuk mengamati struktur morfologi dan komposisi unsur, sedangkan Fourier Transform Infra-Red (FTIR) membantu mengidentifikasi gugus fungsi yang berperan dalam adsorpsi. Selain itu, pengukuran ukuran partikel dilakukan dengan Particle Size Analysis (PSA) guna mengetahui tingkat ketersebaran material adsorben.
+
+“Untuk memahami sejauh mana efektivitas adsorpsi, berbagai parameter diuji, termasuk tingkat keasaman (pH), jumlah adsorben yang digunakan, waktu kontak antara adsorben dan larutan pewarna, serta konsentrasi awal methylene blue,” tutur Erni.
+
+Hasil yang diperoleh dianalisis menggunakan berbagai model isoterm adsorpsi seperti Langmuir, Freundlich, Redlich-Peterson, dan Sips. Sementara itu, pemodelan kinetika membantu memahami kecepatan dan mekanisme proses adsorpsi dengan membandingkan model pseudo-first-order dan pseudo-second-order. Dari hasil percobaan, tim penelitian ini menemukan bahwa adsorben yang mengalami perlakuan paling kompleks menunjukkan efektivitas tertinggi dalam menghilangkan methylene blue. Pada kondisi optimal, yaitu pH 12, massa adsorben 0,5 g, waktu kontak selama 60 menit, dan konsentrasi awal methylene blue 10 ppm, efisiensi penghilangan mencapai 98,614%. Yang lebih menarik, penggunaan gelombang ultrasonik mampu meningkatkan efisiensi adsorpsi hingga 63,119% dibandingkan metode konvensional tanpa ultrasonik. Gelombang ini berperan dalam mempercepat difusi zat pewarna ke permukaan adsorben serta meningkatkan jumlah situs aktif yang tersedia untuk interaksi.
+
+Analisis model isoterm menunjukkan bahwa model Sips paling sesuai untuk menggambarkan mekanisme adsorpsi yang terjadi, dengan nilai R² sebesar 0,9953. Hal ini menandakan bahwa adsorpsi berlangsung pada permukaan yang heterogen dengan interaksi elektrostatik dan chemisorption sebagai faktor dominan. Dalam studi kinetika, model pseudo-second-order menunjukkan kesesuaian tertinggi, dengan R² sebesar 0,939. Temuan ini menegaskan bahwa mekanisme utama yang terjadi adalah chemisorption, di mana terjadi pertukaran elektron antara adsorben dan methylene blue, menciptakan ikatan yang lebih stabil dibandingkan dengan mekanisme fisik semata.
+
+Keunggulan lain yang menjadikan adsorben ini layak diterapkan dalam skala lebih luas adalah daya pakainya yang tinggi. Adsorben ini dapat digunakan kembali hingga enam kali tanpa kehilangan efisiensi yang signifikan. Bahkan setelah siklus keenam, lebih dari 80% methylene blue masih dapat dihilangkan dari larutan. Hal ini menunjukkan bahwa adsorben dapat dimanfaatkan berulang kali tanpa memerlukan proses regenerasi yang kompleks, menjadikannya solusi hemat biaya bagi industri yang menghadapi permasalahan limbah pewarna.
+
+Lebih dalam lagi, hasil penelitian yang dipublikasikan dalam jurnal Science Direct ini menjelaskan bahwa mekanisme adsorpsi dapat berjalan melalui tiga faktor utama. Pertama, interaksi elektrostatik antara permukaan adsorben yang bermuatan negatif dengan ion methylene blue yang bermuatan positif pada pH tinggi. Kedua, proses chemisorption yang melibatkan pertukaran elektron antara molekul methylene blue dan permukaan adsorben, menciptakan ikatan yang lebih kuat dan tahan lama. Ketiga, adsorpsi berlangsung dalam pola monolayer di atas permukaan heterogen adsorben, sebagaimana dijelaskan dalam model isoterm Sips. Ketiga mekanisme ini bekerja secara sinergis, menghasilkan efisiensi adsorpsi yang optimal.
+
+“Implikasi dari temuan ini sangat luas. Pemanfaatan cangkang kerang darah tidak hanya memberikan solusi bagi permasalahan limbah pewarna, tetapi juga menawarkan pendekatan inovatif dalam pengelolaan limbah organik,” tambah Erni. Transformasi limbah cangkang menjadi material adsorben bernilai tinggi merupakan contoh konkret bagaimana pendekatan berkelanjutan dapat diterapkan dalam bidang lingkungan dan industri. Jika teknologi ini dikembangkan lebih lanjut dan diterapkan dalam skala industri, dampaknya terhadap upaya pelestarian lingkungan akan semakin besar.
+
+Adsorpsi methylene blue menggunakan cangkang kerang darah dengan bantuan gelombang ultrasonik menawarkan solusi yang tidak hanya efektif, tetapi juga ekonomis dan berkelanjutan. Penggunaan bahan alami yang mudah didapat, efisiensi tinggi dalam menghilangkan zat pewarna, serta kemampuan untuk digunakan kembali tanpa degradasi signifikan menjadikan pendekatan ini sangat relevan bagi industri tekstil dan manufaktur lainnya. Masa depan teknologi pengolahan limbah mungkin tidak harus selalu bergantung pada solusi yang mahal dan kompleks; terkadang, jawaban terbaik justru datang dari alam itu sendiri.
+
+SDGs
+SDGs 9
+SDGs 14
+Detail Paper
+Jurnal
+Results in Engineering
+Judul
+Ultrasonic assisted adsorption of methylene blue using blood clam shell as a low-cost adsorbent
+Penulis
+Erni Misran (1) , Muhammad Dani Supardan (2), Dewi Agustina Iryani (3), Viqry Pramananda (1), Aqnes Faulina Sihombing (1), Dina Valianty Sitorus (1)
+Afiliasi Penulis
+Departemen Teknik Kimia, Universitas Sumatera Utara, Jl. Almamater Kampus USU, Padang Bulan, Medan, 20155, Indonesia
+Departemen Teknik Kimia, Universitas Syiah Kuala, Darussalam, Banda Aceh, 23111, Indonesia
+Departemen Teknik Kimia, Universitas Lampung, Indonesia
+DOI
+https://doi.org/10.1016/j.rineng.2024.102715
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

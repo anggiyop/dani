@@ -1,0 +1,126 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Menilai Kembali Universal Health Coverage Di Dunia Pra-Pandemi
+Menilai Kembali Universal Health Coverage di Dunia Pra-Pandemi
+Diterbitkan Pada
+05 Maret 2025
+Diterbitkan Oleh
+dr. Rahayu Lubis M.Kes, Ph.D
+Menilai Kembali Universal Health Coverage di Dunia Pra-Pandemi
+ 
+
+Diterbitkan oleh
+
+dr. Rahayu Lubis M.Kes, Ph.D
+
+Diterbitkan pada
+
+Rabu, 05 Maret 2025
+
+Penelitian ini mengungkap faktor utama yang memengaruhi keberhasilan Universal Health Coverage (UHC) di 178 negara dari tahun 2000 hingga 2019. Dengan analisis mendalam, ditemukan bahwa indeks pembangunan manusia, jumlah tenaga kesehatan, dan efektivitas tata kelola berperan besar dalam meningkatkan akses layanan kesehatan dan perlindungan finansial masyarakat.
+
+Di tengah semangat global untuk menjamin hak fundamental setiap individu atas layanan kesehatan, Universal Health Coverage (UHC) muncul sebagai visi besar yang mengusung keadilan dan kesetaraan. Prinsip dasarnya adalah memastikan bahwa setiap orang memiliki akses terhadap layanan kesehatan yang berkualitas tanpa mengalami kesulitan finansial. Namun, perjalanan menuju UHC bukanlah jalan yang mulus. Seiring berjalannya waktu, berbagai tantangan mulai muncul, dari ketimpangan sumber daya hingga efektivitas tata kelola pemerintahan. Pandemi COVID-19 menjadi cermin yang memperlihatkan celah besar dalam sistem kesehatan global, mengguncang fondasi yang telah dibangun, dan memunculkan kebutuhan mendesak untuk menilai kembali faktor-faktor utama yang memengaruhi implementasi UHC di berbagai negara.
+
+Oleh karena itu, menggali lebih dalam mengenai kondisi UHC sebelum pandemi menjadi langkah krusial guna menyusun strategi yang lebih efektif untuk mencapai target UHC pada tahun 2030. Untuk mewujudkan hal tersebut, tim peneliti dari Universitas Sumatera Utara yang terdiri atas Rahayu Lubis, Surya Utama, dan Juanita (Fakultas Kesehatan Masyarakat) serta Fauzi Budi Satria (Fakultas Farmasi) berkolaborasi dengan Santi Martini (Fakultas Kesehatan Masyarakat, Universitas Airlangga), Harnavi Harun (Fakultas Farmasi, Universitas Andalas), dan Rafzah Ahmad Zaki (University of Malaya).
+
+Tim peneliti ini melakukan riset untuk memahami bagaimana UHC diterapkan di berbagai belahan dunia. Analisis dilakukan terhadap data dari 178 negara selama hampir dua dekade, dari tahun 2000 hingga 2019. Dua indikator utama digunakan sebagai tolok ukur: Health Service Coverage (HSC) dan Financial Protection (FP). HSC mencerminkan sejauh mana masyarakat dapat mengakses layanan kesehatan esensial, mulai dari kesehatan ibu dan anak, pencegahan penyakit menular, hingga pengelolaan penyakit tidak menular. Sementara itu, FP mengukur sejauh mana sistem kesehatan suatu negara mampu melindungi masyarakatnya dari beban finansial yang berlebihan akibat biaya perawatan medis.
+
+Untuk menggali lebih dalam faktor-faktor yang memengaruhi kedua indikator ini, beberapa variabel utama diidentifikasi, di antaranya Human Development Index (HDI), Health Worker Density (HWD), dan Governance Effectiveness (GE). Melalui pendekatan analisis statistik yang ketat menggunakan perangkat lunak R versi 4.3.1, hubungan antara variabel-variabel tersebut dengan efektivitas implementasi UHC diungkap lebih jelas.
+
+“Hasil yang diperoleh mengungkapkan fakta menarik, ya. Negara-negara dengan HDI yang lebih tinggi cenderung memiliki cakupan layanan kesehatan yang lebih luas serta perlindungan finansial yang lebih baik. Temuan ini mempertegas bahwa pembangunan sosial dan ekonomi suatu negara memainkan peran sentral dalam meningkatkan akses masyarakat terhadap layanan kesehatan,” ujar Rahayu.
+
+Lebih lanjut, penelitian yang diterbitkan dalam jurnal Elsevier ini memperoleh hasil analisis bahwa HSC memiliki pengaruh besar dalam menentukan FP, dengan tingkat akurasi model sebesar 0,61 dan Kappa 0,21. Ini berarti, semakin baik cakupan layanan kesehatan suatu negara, semakin kecil kemungkinan warganya mengalami kesulitan finansial akibat biaya kesehatan yang tidak terjangkau.
+
+Namun, tidak hanya aspek ekonomi yang berperan dalam keberhasilan UHC. Tata kelola pemerintahan yang efektif memungkinkan alokasi sumber daya yang lebih efisien, pengelolaan sistem kesehatan yang lebih transparan, serta implementasi kebijakan yang lebih tepat sasaran. Ketika GE meningkat, perlindungan finansial bagi masyarakat juga menunjukkan perbaikan yang signifikan. Hal ini menegaskan bahwa UHC bukan hanya persoalan membangun infrastruktur kesehatan atau menambah jumlah tenaga medis, tetapi juga tentang bagaimana kebijakan dirancang, diterapkan, dan diawasi agar sistem kesehatan dapat berjalan secara optimal.
+
+“Ketimpangan sumber daya menjadi tantangan yang masih menghantui banyak negara, terutama di wilayah dengan HDI yang lebih rendah. Meski keberadaan tenaga kesehatan berkontribusi dalam meningkatkan cakupan layanan, ketersediaannya yang terbatas di beberapa negara menghambat perluasan UHC,” timpal Rahayu.
+
+Negara-negara dengan sumber daya terbatas cenderung memiliki HSC yang lebih rendah, yang pada akhirnya berujung pada lemahnya perlindungan finansial bagi masyarakatnya. Oleh karena itu, selain meningkatkan jumlah tenaga medis, diperlukan strategi yang lebih komprehensif dalam memperbaiki sistem kesehatan, termasuk dalam hal distribusi tenaga kesehatan, penyediaan infrastruktur yang memadai, serta peningkatan kapasitas layanan di daerah terpencil.
+
+Lebih jauh lagi, pendekatan dalam mencapai UHC harus bersifat multidimensional. Pembangunan infrastruktur kesehatan dan peningkatan jumlah tenaga medis memang penting, tetapi tanpa tata kelola yang baik dan keseimbangan dalam pembangunan sosial-ekonomi, sistem kesehatan yang kokoh sulit terwujud. Negara-negara yang ingin mempercepat pencapaian UHC pada tahun 2030 perlu menyeimbangkan aspek pembangunan dan tata kelola. Upaya ini tidak hanya menciptakan sistem kesehatan yang lebih inklusif dan efisien, tetapi juga memastikan bahwa setiap individu, tanpa memandang status ekonomi, memiliki hak yang sama untuk mendapatkan layanan kesehatan yang layak.
+
+Sebagai sebuah tujuan global, UHC menuntut kolaborasi yang erat antara berbagai sektor, mulai dari pemerintah, lembaga kesehatan, hingga organisasi internasional. Pendanaan kesehatan yang berkelanjutan, regulasi yang kuat, serta inovasi dalam penyediaan layanan kesehatan menjadi elemen penting yang tidak dapat diabaikan. Negara-negara dengan sistem kesehatan yang lebih maju telah menunjukkan bahwa investasi dalam kebijakan yang berorientasi pada kesetaraan kesehatan dapat memberikan manfaat jangka panjang, tidak hanya bagi individu, tetapi juga bagi stabilitas ekonomi dan sosial secara keseluruhan.
+
+Selain itu, munculnya teknologi digital dalam sektor kesehatan membuka peluang baru untuk meningkatkan akses layanan bagi masyarakat luas. Telemedicine, rekam medis elektronik, serta kecerdasan buatan dalam diagnosis dan perawatan menjadi contoh bagaimana kemajuan teknologi dapat membantu mewujudkan UHC.
+
+“Dengan adopsi teknologi yang tepat, negara-negara dengan sumber daya terbatas dapat mengatasi kendala geografis dan distribusi tenaga medis yang tidak merata, sehingga layanan kesehatan dapat menjangkau lebih banyak orang tanpa meningkatkan biaya yang signifikan,” tutup Rahayu.
+
+Tantangan yang dihadapi dalam perjalanan menuju UHC memang besar, tetapi tidak berarti mustahil untuk dicapai. Dengan pemahaman yang lebih mendalam tentang faktor-faktor yang berkontribusi terhadap keberhasilan implementasi UHC, para pembuat kebijakan dapat menyusun strategi yang lebih adaptif dan responsif terhadap tantangan global yang terus berkembang. Dengan langkah yang tepat, dunia dapat bergerak lebih dekat menuju realisasi UHC, di mana akses terhadap layanan kesehatan bukan lagi sebuah kemewahan, melainkan hak universal yang dapat dinikmati oleh semua orang, di mana pun mereka berada.
+
+SDGs
+SDGs 3
+Detail Paper
+Jurnal
+Clinical Epidemiology and Global Health
+Judul
+Reevaluating factors in global Universal Health Coverage implementation pre-COVID-19
+Penulis
+Rahayu Lubis (1), Fauzi Budi Satria (2,3), Santi Martini (4), Harnavi Harun (5), Rafdzah Ahmad Zaki (6), Surya Utama (1), Juanita (1)
+Afiliasi Penulis
+Fakultas Kesehatan Masyarakat, Universitas Sumatera Utara, Indonesia
+Program Doktor Ilmu Kedokteran, Fakultas Kedokteran, Universitas Sumatera Utara, Indonesia
+Department of Community Medicine, Fakultas Kedokteran, Universitas Sumatera Utara, Indonesia
+Fakultas Kesehatan Masyarakat, Universitas Airlangga, Indonesia
+Fakultas Kedokteran, Universitas Andalas, Indonesia
+Centre for Epidemiology and Evidence-Based Practice, Faculty of Medicine, University of Malaya, Malaysia
+DOI
+https://doi.org/10.1016/j.cegh.2024.101840
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

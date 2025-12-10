@@ -1,0 +1,122 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Leiden Coloring Algorithm: Deteksi Influencer 100% Lebih Mudah
+Leiden Coloring Algorithm: Deteksi Influencer 100% Lebih Mudah
+Diterbitkan Pada
+05 Maret 2025
+Diterbitkan Oleh
+Handrizal S.Si., M.Comp.Sc
+Leiden Coloring Algorithm: Deteksi Influencer 100% Lebih Mudah
+ 
+
+Diterbitkan oleh
+
+Handrizal S.Si., M.Comp.Sc
+
+Diterbitkan pada
+
+Rabu, 05 Maret 2025
+
+Penelitian ini mengembangkan metode deteksi influencer yang lebih akurat dengan menggabungkan Leiden Coloring Algorithm dan Degree Centrality. Hasilnya menunjukkan peningkatan efektivitas dalam pemetaan komunitas dan identifikasi individu berpengaruh di media sosial dibandingkan metode konvensional.
+
+Di era digital yang terus berkembang, peran influencer dalam membentuk opini publik dan memengaruhi perilaku konsumen semakin dominan. Media sosial telah menjadi lahan subur bagi individu yang mampu membangun jaringan luas dan menghasilkan konten menarik, menjadikan mereka figur berpengaruh dalam komunitas tertentu. Namun, seiring pesatnya perkembangan platform digital, tantangan dalam mendeteksi influencer yang benar-benar memiliki dampak signifikan pun meningkat. Metode konvensional yang hanya mengandalkan pengelompokan pengikut sering kali gagal mengidentifikasi individu dengan pengaruh nyata, karena hanya berfokus pada hubungan timbal balik tanpa mempertimbangkan dinamika jaringan yang lebih kompleks.
+
+Untuk menjawab tantangan ini, sebuah pendekatan inovatif diperkenalkan dengan menggabungkan Leiden Coloring Algorithm dan Degree Centrality. Pendekatan ini dikembangkan oleh peneliti dari Universitas Sumatera Utara, yakni Handrizal, Poltak Sihombing, Erna Budhiarti Nababan, dan Mohammad Andri Budiman. Hasil penelitian tim ini tidak hanya memungkinkan pemetaan komunitas yang lebih akurat, tetapi juga memberikan pemahaman yang lebih dalam mengenai individu yang benar-benar memiliki koneksi luas dan berperan penting dalam menyebarkan informasi. Dengan memanfaatkan analisis jaringan sosial, metode ini menggali pola interaksi dalam skala besar untuk mengidentifikasi aktor utama yang dapat dianggap sebagai influencer dalam suatu ekosistem digital.
+
+“Implementasi metode ini melibatkan serangkaian proses yang terstruktur. Data dikumpulkan dari media sosial Twitter (X) dengan menggunakan kata kunci GarudaIndonesia, melalui alat Tweet-Harvest yang mengumpulkan informasi dari 1 Januari 2020 hingga 16 Oktober 2024. Dataset yang dihasilkan mencakup 22.623 baris data, yang kemudian diproses dalam dua skenario eksperimen: satu dengan 1.000 baris data dan lainnya dengan 5.000 baris data,” jelas Handrizal.
+
+Dengan menggunakan algoritma Leiden, jaringan sosial yang terbentuk dipilah menjadi komunitas-komunitas yang dapat berfungsi sebagai pusat pengaruh. Setelah itu, Degree Centrality diaplikasikan untuk mengidentifikasi node dengan tingkat konektivitas tertinggi, yang mencerminkan individu atau akun dengan jangkauan dan keterlibatan yang paling luas.
+
+Hasil yang diperoleh menunjukkan bahwa pendekatan ini mampu meningkatkan efektivitas deteksi influencer secara signifikan dibandingkan metode Louvain yang lebih konvensional. Leiden Coloring Algorithm terbukti menghasilkan modularitas yang lebih baik dengan peningkatan 0,0306, yang menunjukkan pemetaan komunitas yang lebih kohesif. Selain itu, metode ini juga mempercepat proses analisis dengan pengurangan waktu pemrosesan sebesar 14,4848 detik serta mengurangi jumlah komunitas yang terbentuk sebanyak 1.290 komunitas. Hal ini berarti deteksi influencer menjadi lebih terfokus dan tidak terlalu terfragmentasi.
+
+“Dari hasil eksperimen, ditemukan bahwa akun IndonesiaGaruda muncul sebagai influencer utama dalam kedua skenario dataset. Sementara itu, dalam dataset dengan 1.000 baris, influencer lain yang terdeteksi mencakup GarudaCares, Wandiseptian11, PinterPoin, dan idbcpr. Pada dataset dengan 5.000 baris, daftar influencer mencakup disemuacom, GarudaCares, astuceclover, dan TiketPesawatPro,” tutur Andri Budiman.
+
+Dibandingkan dengan metode Louvain, Leiden Coloring Algorithm tidak hanya mampu mengurangi jumlah komunitas yang terfragmentasi, tetapi juga meningkatkan kualitas deteksi dengan lebih akurat menangkap individu yang benar-benar memiliki pengaruh signifikan dalam jaringan. Lebih jauh lagi, keunggulan dari pendekatan ini tidak hanya terletak pada peningkatan efisiensi, tetapi juga pada fleksibilitasnya dalam diterapkan pada berbagai skenario analisis media sosial.
+
+Dalam dunia pemasaran digital, misalnya, metode ini dapat membantu perusahaan mengidentifikasi individu yang paling efektif dalam menyebarkan informasi produk atau kampanye. Dengan memahami bagaimana suatu informasi menyebar dalam komunitas tertentu, strategi pemasaran dapat disesuaikan untuk memaksimalkan dampak dan mencapai audiens yang lebih luas dengan pendekatan yang lebih terarah.
+
+Selain penerapannya dalam pemasaran, metode ini juga memiliki potensi besar dalam bidang lain seperti analisis politik, manajemen krisis, dan kajian akademik tentang jaringan sosial. Dalam konteks politik, deteksi influencer yang akurat dapat digunakan untuk memahami bagaimana suatu opini publik terbentuk dan menyebar, memberikan wawasan bagi pembuat kebijakan dalam merancang strategi komunikasi yang lebih efektif. Sementara itu, dalam situasi krisis seperti pandemi atau bencana alam, mengetahui siapa yang memiliki pengaruh terbesar dalam menyebarkan informasi yang akurat dapat membantu mengarahkan pesan-pesan penting ke khalayak yang lebih luas dengan cepat dan efisien.
+
+Namun, seperti halnya setiap inovasi teknologi, pendekatan yang diterbitkan dalam International Journal of Advanced Computer Science and Applications ini juga memiliki tantangan yang perlu diatasi. Salah satunya adalah kebutuhan akan sumber daya komputasi yang lebih besar untuk memproses dataset dalam skala besar. Meskipun Leiden Coloring Algorithm telah terbukti lebih cepat dibandingkan metode Louvain, analisis data dalam jumlah sangat besar tetap memerlukan optimalisasi lebih lanjut agar dapat diterapkan secara real-time. Selain itu, kompleksitas dalam menginterpretasikan hasil deteksi juga menjadi tantangan tersendiri, karena dalam jaringan sosial, faktor-faktor seperti sentimen pengguna dan konteks interaksi juga memiliki peran yang tidak bisa diabaikan.
+
+“Ke depan, pengembangan lebih lanjut dari algoritma ini dapat mencakup integrasi dengan kecerdasan buatan untuk meningkatkan akurasi deteksi dan mempercepat proses analisis. Dengan memanfaatkan pembelajaran mesin, misalnya, model dapat dilatih untuk mengenali pola interaksi yang lebih kompleks dan secara otomatis mengadaptasi kriteria deteksi berdasarkan tren yang berkembang di media sosial,” tutup Andri Budiman.
+
+Selain itu, pendekatan ini juga dapat diperluas dengan menggabungkan analisis teks dan sentimen untuk mendapatkan gambaran yang lebih komprehensif tentang bagaimana seorang influencer memengaruhi opini publik.
+
+Secara keseluruhan, penelitian ini membuka peluang baru dalam penggunaan Social Network Analysis (SNA) untuk mendeteksi influencer dengan cara yang lebih efektif dan efisien. Dengan memanfaatkan Leiden Coloring Algorithm, bukan hanya sekadar jumlah pengikut yang dihitung, tetapi juga bagaimana pengaruh itu tersebar dalam jaringan sosial yang lebih luas. Pendekatan ini memberikan langkah maju yang signifikan dalam dunia digital, memungkinkan identifikasi aktor-aktor kunci yang memainkan peran penting dalam berbagai skenario komunikasi dan pemasaran.
+
+Masa depan deteksi influencer tidak lagi hanya bergantung pada angka statistik yang dangkal, tetapi pada pemahaman mendalam tentang dinamika jaringan dan interaksi sosial. Dengan alat yang semakin canggih dan pendekatan yang lebih holistik, dunia digital akan semakin transparan dalam mengungkap siapa yang benar-benar memiliki suara dan pengaruh dalam arus informasi global.
+
+SDGs 11
+SDGs
+Detail Paper
+Jurnal
+International Journal of Advanced Computer Science and Applications
+Judul
+Leiden Coloring Algorithm for Influencer Detection
+Penulis
+Handrizal (1), Poltak Sihombing (2), Erna Budhiarti Nababan (3), Mohammad Andri Budiman (4)
+Afiliasi Penulis
+Program Doktor Ilmu Komputer, Departemen Ilmu Komputer, Fakultas Ilmu Komputer dan Teknologi Informasi, Universitas Sumatera Utara, Medan, Indonesia
+Departemen Teknologi Informasi, Fakultas Ilmu Komputer dan Teknologi Informasi, Universitas Sumatera Utara, Medan, Indonesia
+DOI
+https://dx.doi.org/10.14569/IJACSA.2024.0151233
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

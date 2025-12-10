@@ -1,0 +1,102 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Activities
+University Activity
+MINO KIT, Robotic Innovation As Easy As “Plug And Play”
+MINO KIT, Robotic Innovation as Easy as “Plug and Play”
+Published At
+13 July 2021
+Published By
+Renny Julia Harahap
+MINO KIT, Robotic Innovation as Easy as “Plug and Play”
+ 
+
+Published by
+
+Renny Julia Harahap
+
+Published at
+
+Tuesday, 13 July 2021
+
+MEDAN – USU Public Relations: The Universitas Sumatera Utara (USU) through the start-up CV Mandike Instruments has created the Mino Kit, an innovative robotic basic learning device for junior and senior high school students. The Mino Kit contains electronic modules and Arduino-based microcontroller devices, which have a puzzle-like concept and use sockets as connectors between modules and are "plug and code".
+
+This Mino Kit innovation is one of the mainstay innovation products that are fostered by the Business Technology Innovation and Incubation Institute (USU LINKS). In its use, the Mino Kit is useful to assist and facilitate users in designing an innovation in the field of robotics. The electronics module contained in the Mino Kit using pairs of sockets accompanied by colors and letters on each module so that it looks more attractive, easy to install and can minimize errors that can occur when installing it.
+
+"Using the Mino Kit is as easy as "plug and play", so even users who don't have knowledge of electronics can do and learn it easily," said Dwi Budi Prasetyo, CEO of Mandike Instruments.
+
+He explained that the idea to design the Mino Kit arose from the problems that had arisen when users assembled a project using another robot kit. The product used connecting cables between components which made the project even more complicated.
+
+The Mino Kit consists of a microcontroller board from the Arduino developer which is designed with 7 sockets so that it can be easily installed into various other electronic modules. Of the 7 sockets, there are 6 sockets that are used to read sensors and can also control the output both manually. In addition, there is 1 socket that can be used to display data on a computer, through serial data communication that supports access via serial data communication that supports access via wired or wireless. The Mino Kit is also accompanied by electronic modules in the form of actuator sensors, data sending and display devices that can be used to make various project needs. Mino Kit is programmed via a computer using a text programming language through the Arduino sktech software and the Mino Kit can also be programmed using block programming through the Ardublock software which is very interesting like putting together a puzzle.
+
+“This Mino Kit is accompanied by a guide book, video lessons and there are examples of technological innovation projects and there is also a discussion forum that can be used to share information with other users. This product will encourage the increasing interest of the younger generation in studying technology and increase student interest to be involved in robotics competitions and scientific work exhibitions,” Budi said.
+
+Budi further explained that the Mino Kit was patented in 2019 and began to be produced and marketed to schools. Marketing is also done through e-commerce. Mino Kit sales are priced at IDR499,000.00
+
+"For the price, we dare to say that the Mino Kit is sold at an affordable price when compared to its quality. When compared with other similar products that are better, such as Lego, for example, the price has reached Rp. 8 million. Compared to cheaper products made in China, the Mino Kit has more complete components. A cheaper device if you want to assemble a lot of cables. This can certainly make users lazier. If Lego is very, very complete, "Budi explained.
+
+Budi said that the target to be achieved after the pandemic was to mass produce Mino Kits. Currently, this cannot be realized because the face-to-face learning process has not yet started. For the Mino Kit market, Budi said that the demand from schools in Java is much higher than in Sumatra. This indicates that the interest among students in schools in Java in the field of robotics is much higher than in Sumatra.
+
+"We will try to go to schools to encourage more students' interest in learning robotics, especially in Medan City. However, this can only be realized after face-to-face school activities begin," he said. 
+
+Article
+University Activity
+Research Activity
+Find More Activity
+University Activity
+USU Lecturer Concern on the Extinction of Orangutan Tapanuli
+University Activity
+USU professor turns shrimp shell waste into face serum
+University Activity
+USU Research Collaboration Lowers Stunting Rate in Sergai
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

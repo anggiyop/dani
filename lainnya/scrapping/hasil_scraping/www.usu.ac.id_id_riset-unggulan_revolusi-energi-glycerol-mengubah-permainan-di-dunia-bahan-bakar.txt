@@ -1,0 +1,118 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Revolusi Energi: Glycerol Mengubah Permainan Di Dunia Bahan Bakar
+Revolusi Energi: Glycerol Mengubah Permainan di Dunia Bahan Bakar
+Diterbitkan Pada
+30 Agustus 2024
+Diterbitkan Oleh
+Bambang Riyanto
+Revolusi Energi: Glycerol Mengubah Permainan di Dunia Bahan Bakar
+ 
+
+Diterbitkan oleh
+
+Bambang Riyanto
+
+Diterbitkan pada
+
+Jumat, 30 Agustus 2024
+
+Penelitian ini mengungkap potensi glycerol sebagai aditif bahan bakar yang efisien dan ramah lingkungan melalui proses esterifikasi menjadi triacetin menggunakan katalis PSSA. Hasil penelitian menunjukkan peningkatan kinerja bahan bakar dan metode produksi yang lebih berkelanjutan.
+
+Glycerol, sebuah senyawa yang sering kali diabaikan dalam dunia bahan bakar, sebenarnya memiliki potensi unik yang siap diungkap. Dengan kandungan oksigen yang tinggi, glycerol mungkin tampak seperti senyawa yang aneh untuk bahan bakar karena kelarutannya yang terbatas dalam hidrokarbon. Namun, justru kekayaan oksigen inilah yang membuatnya menjadi aditif bahan bakar yang berharga. Seiring dengan terus berkembangnya penelitian dalam eksplorasi sumber energi alternatif dan peningkatan efisiensi bahan bakar, potensi glycerol kini tengah dievaluasi kembali. Pertanyaannya adalah, bagaimana senyawa yang begitu berbeda dari bahan bakar tradisional dapat diubah menjadi sesuatu yang lebih kompatibel, efektif, dan pada akhirnya lebih bermanfaat?
+
+Beberapa ahli dari Universitas Sumatera Utara, Indonesia, yaitu R. Manurung, A. Saputra, H. Inarto, dan A.G.A. Siregar, mencoba menjawab pertanyaan tersebut. Dalam penelitian mereka, ditemukan peran triacetin, sebuah turunan kimia dari glycerol yang mungkin kurang dikenal tetapi sangat berdampak. Melalui proses yang disebut esterifikasi, glycerol dapat dikombinasikan dengan asam asetat untuk menghasilkan triacetin.
+
+Transformasi ini bukan sekadar reaksi kimia sederhana; ini adalah pintu gerbang menuju peningkatan kinerja bahan bakar. Triacetin berfungsi sebagai penguat bahan bakar, agen anti-coking, dan peningkat oktan untuk bensin, menjadikannya komponen yang tak ternilai dalam upaya mencari bahan bakar yang lebih efisien dan ramah lingkungan. Penciptaan triacetin bukan sekadar latihan akademis; ini adalah solusi praktis untuk masalah-masalah nyata.
+
+Perjalanan dari glycerol ke triacetin dibantu oleh katalis—zat yang mempercepat reaksi kimia tanpa terkonsumsi dalam proses tersebut. Secara historis, produksi triacetin mengandalkan katalis homogen, seperti asam fosfat (H₃PO₄), asam klorida (HCl), dan asam sulfat (H₂SO₄). Meskipun efektif, katalis ini membawa tantangan tersendiri, terutama terkait dengan korosi dan produksi produk sampingan yang tidak diinginkan. Seiring dengan meningkatnya permintaan akan proses yang lebih hijau dan berkelanjutan, fokus kini beralih ke katalis heterogen yang menawarkan alternatif yang lebih bersih dan efisien.
+
+“Polystyrene Sulfonic Acid (PSSA) muncul sebagai katalis heterogen yang menjanjikan. Tidak seperti katalis homogen, PSSA mengurangi risiko korosi dan meminimalkan pembentukan produk sampingan. Perannya dalam proses esterifikasi sangat penting, memberikan jalur yang lebih berkelanjutan untuk produksi triacetin. Penelitian ini memanfaatkan sifat unik PSSA untuk mengeksplorasi kondisi optimal dalam memproduksi triacetin dari glycerol yang telah dimurnikan dan asam asetat,” jelas Manurung.
+
+Lebih lanjut, Manurung menjelaskan bahwa proses eksperimen ini dilakukan dengan sangat teliti dan metodis, dimulai dengan persiapan reaktan yang cermat. Glycerol yang dimurnikan dan asam asetat dimasukkan ke dalam labu tiga leher, di mana proses esterifikasi berlangsung. Kondisi reaksi disetel dengan sangat hati-hati, dengan suhu dijaga tetap pada 100°C dan reaktan diaduk dengan kecepatan 650 putaran per menit (rpm). Kondisi ini bukanlah kondisi yang sembarangan; ini adalah hasil perencanaan matang dan eksperimen sebelumnya, yang dirancang untuk memaksimalkan hasil triacetin.
+
+Bagaimana dengan perbandingan molar? Dalam reaksi kimia, perbandingan reaktan bisa sangat mempengaruhi hasilnya. Dalam penelitian ini, variasi perbandingan molar glycerol terhadap asam asetat—dari 1:6 hingga 1:10—diuji, bersama dengan konsentrasi katalis yang bervariasi, mulai dari 1% hingga 5%. Reaksi dibiarkan berlangsung selama 150 menit, cukup lama untuk memastikan bahwa prosesnya mencapai potensi penuhnya. Hasil dari variasi ini sangat menarik, memberikan wawasan tentang kondisi paling efektif untuk produksi triacetin.
+
+Temuan penelitian ini sangat menarik dan informatif. Dengan konsentrasi katalis 2% dan perbandingan molar 1:10 antara glycerol dan asam asetat, reaksi menghasilkan jumlah triacetin tertinggi—44,42%. Bukan sekadar angka; ini adalah bukti efisiensi proses dan efektivitas PSSA sebagai katalis. Selektivitas triacetin, ukuran seberapa baik proses ini mengisolasi produk yang diinginkan dari produk sampingan lainnya, juga mengesankan, mencapai 44,98%.
+
+Mengapa konsentrasi katalis begitu penting? Hal ini berkaitan dengan keseimbangan antara reaktan dan kemampuan katalis untuk memfasilitasi interaksi mereka. Meningkatkan muatan katalis dari 1% menjadi 2% memiliki dampak nyata terhadap hasil triacetin, dengan peningkatan yang signifikan. Peningkatan ini terkait dengan ketersediaan situs aktif yang lebih besar pada katalis, yang memungkinkan interaksi yang lebih efektif antara glycerol dan asam asetat. Pada konsentrasi yang lebih tinggi, laju reaksi meningkat, menghasilkan hasil triacetin yang lebih tinggi.
+
+Triacetin, dengan kemampuannya untuk meningkatkan kinerja bahan bakar, merupakan langkah maju dalam upaya mencari solusi energi yang lebih berkelanjutan. “Dengan menyempurnakan proses produksi menggunakan PSSA sebagai katalis, penelitian ini telah membuka jalan menuju metode yang lebih efisien dan ramah lingkungan untuk memproduksi aditif bahan bakar. Hasilnya tidak hanya berkontribusi pada pemahaman ilmiah tentang esterifikasi, tetapi juga menawarkan wawasan praktis yang dapat memengaruhi aplikasi industri di masa depan,” papar Manurung.
+
+Kesimpulan dari penelitian ini jelas: penggunaan katalis PSSA 2% dengan perbandingan molar 1:10 antara glycerol dan asam asetat menghasilkan jumlah triacetin tertinggi, dengan selektivitas yang sangat baik. Metode ini tidak hanya efektif, tetapi juga efisien, menawarkan inovasi untuk memproduksi triacetin dalam skala yang lebih besar. Seiring dengan dunia yang terus mencari cara baru untuk meningkatkan efisiensi bahan bakar dan mengurangi emisi, peran aditif seperti triacetin akan menjadi semakin penting.
+
+“Penelitian kami menunjukkan bahwa senyawa yang paling tidak menonjol pun dapat memiliki dampak yang mendalam ketika diterapkan dalam konteks yang tepat. Melalui eksperimen yang cermat dan penerapan teknik katalis yang maju, penelitian ini telah membuka potensi baru bagi glycerol, mengubahnya dari komponen bahan bakar dengan kelarutan terbatas menjadi penguat kinerja bahan bakar yang kuat,” sebut Manurung.
+
+SDGs
+SDGs 7
+Detail Paper
+Jurnal
+Rasayan J. Chem
+Judul
+Esterification Of Refined Glycerol Biodiesel Byproduct Using Heterogeneous Catalyst Polystyrene Sulfonic Acid Waste-Based Eps Foam
+Penulis
+R. Manurung (1,2), A. Saputra (1), H. Inarto (1), A.G.A. Siregar (1)
+Afiliasi Penulis
+Departemen Teknik Kimia, Universitas Sumatera Utara, Medan, 20155, Indonesia
+Centre of Excellence for Chitosan and Advanced Materials, Universitas Sumatera Utara, 20155, Indonesia
+DOI
+http://doi.org/10.31788/RJC.2022.1536933
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

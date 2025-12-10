@@ -1,0 +1,172 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+Membangun Fondasi untuk Masa Depan yang Digital
+Magister Sains Data dan Kecerdasan Buatan | Akademik
+Informasi Umum
+Tentang Prodi
+Akademik
+Penelitian & Pengabdian
+Alumni
+Kegiatan
+SDGs
+
+Untuk mengetahui lebih lanjut tentang berbagai opsi Peminatan Program Studi, mengeksplorasi Kurikulum yang tersedia, memahami Peraturan Akademik yang berlaku, mempelajari Prosedur Skripsi, menyesuaikan Jadwal Kuliah dengan kebutuhan Anda, dan memperhitungkan Biaya Studi yang dibutuhkan, memahami Standar Pencapaian yang Diharapkan, Mengevaluasi Capaian Pembelajar. Semua informasi yang Anda butuhkan untuk memulai perjalanan akademik Anda ada di sini.
+
+Kurikulum
+
+Berikut ini adalah daftar lengkap mata kuliah yang akan diambil pada setiap semester.
+
+SK Dekan & SK Rektor
+Kode Mata Kuliah :
+Semua
+expand_more
+Cari Mata Kuliah
+search
+Semester 1
+add
+DSC 5101
+Pemrograman Untuk Sains Data
+SKS
+
+DSC 5102
+Kecerdasan Buatan
+SKS
+
+DSC 5103
+Pemodelan dan Pengelolaan Data Data Management and Modelling
+SKS
+
+DSC 5104
+Metodologi Penelitian Research Method
+SKS
+
+DSC 5105
+Seminar Proposal
+SKS
+
+Semester 2
+add
+DSC 5201
+Pembelajaran Mesin
+SKS
+
+DSC 5202
+Kecerdasan dan Analisis Bisnis
+SKS
+
+DSE 5201
+Komputasi Linguistik
+SKS
+
+DSE 5202
+Interaksi Manusia Komputer dan Visualisasi Data
+SKS
+
+DSE 5203
+Representasi Pengetahuan
+SKS
+
+Semester 3
+add
+DSE 5301
+Tren Terkini dalam Pembelajaran Mesin
+SKS
+
+DSE 5302
+Pengembangan Software dan Manajemen Proyek
+SKS
+
+DSE 5303
+Analisis Data Spasial Temporal
+SKS
+
+Semester 4
+add
+DSC 5401
+Seminar Hasil
+SKS
+
+DSC 5402
+Magang
+SKS
+
+DSC 5403
+Ujian Tesis
+SKS
+
+Download Peraturan Akademik
+
+Biaya Studi
+
+Berikut adalah biaya studi Magister Sains Data dan Kecerdasan Buatan | Akademik
+Magister Sains
+Iuran Pengembangan Institusi (IPI)
+(Khusus Jalur Mandiri)
+Rp10.500.000
+Rp15.000.000
+Rp10.500.000
+Sekali Bayar
+Magister Sains
+Sumbangan Pengembangan Pendidikan
+Rp8.000.000
+Per Mahasiswa / 1 Semester
+
+Capaian Pembelajaran
+
+Lulusan memiliki kompetensi untuk mampu mengolah data dalam skala besar, membangun dan mengatur infrastruktur big data, serta terampil mendapatkan wawasan (insight) dengan menggunakan pendekatan multi disiplin.
+
+Capaian Pembelajaran
+1	Menguasai konsep teoritis atau terapan dalam bidang Sains Data dan Kecerdasan Buatan.
+2	Memiliki pengetahuan yang mendalam tentang pengembangan aplikasi berbasis Sains Data dan Kecerdasan Buatan.
+3	Memiliki kemampuan untuk mengolah data dalam jumlah besar dan mengambil wawasan (insight) dengan menggunakan pendekatan multi disiplin.
+4	Memiliki kemampuan untuk mengembangkan satu solusi atau inovasi dalam bidang Sains Data dan Kecerdasan Buatan yang bermanfaat bagi masyarakat dan berkontribusi bagi pengembangan keilmuan.
+5	Memiliki kemampuan untuk mengembangkan satu solusi yang inovatif dengan menggunakan aplikasi berbasis sistem cerdas, khususnya yang menggunakan konsep machine learning.
+6	Memiliki pengetahuan tentang penerapan Sains Data dan Kecerdasan Buatan pada dunia industri, masyarakat luas, dan pemerintahan.
+7	Memiliki pengetahuan perkembangan terkini (state-of-the-art) tentang konsep, metode, dan teknologi terkini dalam bidang Sains Data dan Kecerdasan Buatan.
+8	Memiliki kemampuan untuk melakukan proses pembelajaran dan mengimplementasikan konsep/metode/teknologi terkini dalam bidang Sains Data dan Kecerdasan Buatan.
+9	Mampu melakukan validasi akademik atau kajian sesuai bidang keahliannya dalam menyelesaikan masalah di masyarakat atau industri yang relevan melalui pengembangan pengetahuan dan keahliannya.
+10	Mampu mengambil keputusan dalam konteks menyelesaikan masalah pengembangan ilmu pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humaniora berdasarkan kajian analisis atau eksperimental terhadap informasi dan data.
+11	Mahasiswa dapat menjelaskan dasar-dasar komputasi linguistik dan natural language processing (NLP).
+12	Mahasiswa dapat menerapkan state-of-the-art pra-pengolahan dan metode-metode parsing untuk natural languages.
+13	Mahasiswa dapar menjabarkan dan menggunakan teknik-teknik pembelajaran yang sesuai dan model-model untuk skenario permasalahan NLP.
+14	Mahasiswa mampu merancang dan mengimplementasikan aplikasi-aplikasi NLP.
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara
