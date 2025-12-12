@@ -1,0 +1,126 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Plastic Waste Into Energy As An Alternative Fuel
+Plastic Waste into Energy as an Alternative Fuel
+Published At
+04 March 2025
+Published By
+Prof. Dr. Ir. Ilmi M.Sc.
+Plastic Waste into Energy as an Alternative Fuel
+ 
+
+Published by
+
+Prof. Dr. Ir. Ilmi M.Sc.
+
+Published at
+
+Tuesday, 04 March 2025
+
+This research explores pyrolysis as an innovative solution to convert plastic waste into an eco-friendly alternative fuel. Using Aspen Plus simulation, the study identifies an optimal temperature of 450°C for producing high-quality pyrolysis oil.
+
+In the rapidly evolving modern era, plastic consumption has increased dramatically alongside global population growth and rapid industrialization. Plastic has become an inseparable part of human life, infiltrating almost every aspect, from the food industry to electronic products. However, behind its immense benefits, plastic also poses a serious environmental threat. Poorly managed plastic waste pollutes the air, water, and soil, creating an escalating ecological crisis.
+
+This issue raises the question of whether plastic waste can be transformed from a threat into an opportunity. This question was answered by a team of researchers from Universitas Sumatera Utara, including Ilmi, Suprianto, Syukril Hanif, Royhan Nahdi, and Walid Ulfa Nasution (Mechanical Engineering Program); Muhammad Tarmuzi (Chemical Engineering Program); Arlina Nurbaity Lubis (Economics Program); Elvina Herawati (Mathematics Program); and Tengku Silvina Sinar (English Literature Program), in collaboration with Suherman from Universitas Muhammadiyah Sumatera Utara. Their research findings indicate that one of the most promising innovative solutions currently gaining attention is pyrolysis—a method capable of converting plastic waste into a more environmentally friendly alternative fuel.
+
+“Pyrolysis is not just a conventional waste treatment solution; it is a revolutionary approach to plastic waste management that promises a major shift in how we perceive and utilize waste,” explained Ilmi.
+
+By utilizing high temperatures in an oxygen-free environment, pyrolysis allows plastic to decompose into pyrolysis oil (Plastic Pyrolysis Oil/PPO), gas, and carbon residue. Among these products, PPO is the most promising due to its potential as an alternative fuel applicable in various industrial and transportation sectors.
+
+To further explore pyrolysis as a future energy solution, this research, published in the Science Direct journal, utilized Aspen Plus software simulation to analyze the pyrolysis characteristics of different plastic types, including polyethylene (PE), polystyrene (PS), and low-density polyethylene (LDPE).
+
+“This simulation was conducted at temperatures ranging from 350°C to 550°C to determine the optimal point for producing high-quality PPO. This is not just an ordinary experiment but a significant step forward in designing a more efficient and environmentally friendly solution for plastic waste management,” Ilmi stated.
+
+The simulation results indicate that the optimal pyrolysis temperature for obtaining the highest PPO yield is 450°C, with PS producing up to 89% oil. This is remarkable, as nearly nine-tenths of PS plastic can be converted into reusable energy. Meanwhile, at 500°C, the oil yields from PE, LDPE, and mixed plastics reached 85%, 83%, and 60%, respectively. These figures suggest that while PS has the highest potential for PPO production, other plastic types can also serve as promising energy sources.
+
+“The research team tested engine performance by blending PPO with diesel and biodiesel derived from waste cooking oil (WCO). This mixture aimed to evaluate thermal efficiency and the impact of exhaust gas emissions,” Ilmi explained.
+
+The results revealed that a 5% PPO blend in diesel provided better thermal efficiency compared to higher PPO concentrations. Additionally, the specific fuel consumption of this mixture was lower, meaning that fuel could be used more efficiently without significantly increasing energy consumption.
+
+However, despite the great potential of plastic pyrolysis, several challenges must be addressed. One of the main obstacles is optimizing PPO quality to meet existing fuel standards. PPO has relatively high viscosity, a higher sulfur content than fossil fuels, and a lower cetane index. These factors can affect engine performance, necessitating further research to improve the physical and chemical properties of pyrolysis oil.
+
+Moreover, blending PPO with biodiesel also impacts exhaust gas emissions. Research shows that while this blend can reduce hydrocarbon (HC), carbon monoxide (CO), and smoke emissions, it also increases nitrogen oxide (NOx) levels. NOx is a key contributor to air pollution and climate change, requiring mitigation strategies to minimize its negative effects. One possible solution is using catalysts in the combustion process or modifying engines to optimize mixed fuel combustion.
+
+Considering the implications of this study, plastic pyrolysis has immense potential as a solution to reduce dependence on fossil fuels while addressing the ever-growing plastic waste problem. However, for broader and more sustainable implementation, concrete steps from multiple stakeholders are necessary. Governments can provide incentives for industries adopting this technology, while academia and the industrial sector must collaborate on research to enhance PPO quality. Additionally, public education is crucial to raising awareness about the importance of recycling and responsible plastic waste management.
+
+“Plastic pyrolysis is a promising technology that transforms environmentally harmful waste into a valuable energy source. Through Aspen Plus simulation, this research successfully identified optimal parameters for the pyrolysis process and evaluated PPO performance in combustion engine applications,” Ilmi concluded.
+
+Nevertheless, several challenges remain to ensure this fuel can be widely and efficiently utilized. With collaborative efforts from various sectors, the future where plastic waste is fully harnessed as an alternative energy source is no longer just a dream but an approaching reality. We have witnessed the great potential of this research—now, it is up to us to turn this vision into reality for a greener and more sustainable world.
+
+SDGs
+SDGs 13
+Paper Details
+Journal
+Case Studies in Thermal Engineering
+Title
+Simulation of pyrolysis process for waste plastics using Aspen Plus: Performance and emission analysis of PPO-diesel and PPO-biodiesel blends
+Authors
+Ilmi (1), Suherman (2), Suprianto (1), Syukril Hanif (1), Royhan Nahdi (1), Walid Ulfa Nasution (1), Muhammad Turmuzi (3), Arlina Nurbaity Lubis (4), Elvina Herawati (5), Tengku Silvana Sinar (6)
+Author Affiliations
+Department of Mechanical Engineering, Universitas Sumatera Utara, 20222, Medan, Indonesia
+Department of Mechanical Engineering, Universitas Muhammadiyah Sumatera Utara, 20238, Medan, Indonesia
+Department of Chemical Engineering, Universitas Sumatera Utara, 20222, Medan, Indonesia
+Department of Economics, Universitas Sumatera Utara, 20222, Medan, Indonesia
+Department of Mathematics, Universitas Sumatera Utara, 20222, Medan, Indonesia
+Department of Cultural Science, Universitas Sumatera Utara, 20222, Medan, Indonesia
+DOI
+https://doi.org/10.1016/j.csite.2024.105431
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

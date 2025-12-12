@@ -1,0 +1,121 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Rice Husk's Journey To Silica Nanoparticles: A Valuable Material Of The Future
+Rice Husk's Journey to Silica Nanoparticles: A Valuable Material of the Future
+Published At
+16 August 2024
+Published By
+Dr. Irwana Nainggolan M.Sc
+Rice Husk's Journey to Silica Nanoparticles: A Valuable Material of the Future
+ 
+
+Published by
+
+Dr. Irwana Nainggolan M.Sc
+
+Published at
+
+Friday, 16 August 2024
+
+This article reveals the tremendous potential of rice husk as a raw material for silica nanoparticles. From washing, drying, and heating, to conversion into nanoparticles, discover how research by Supiyani and team turned this agricultural waste into valuable material with advanced applications such as methamphetamine detoxification and energy storage technology. Learn how these innovations can advance waste management and sustainable technologies.
+
+Imagine rice husks, the protective cover of rice grains that are often considered mere agricultural waste. Many people are unaware that rice husks hold significant potential for various high-tech applications. Rice husks, which often end up discarded or used as cheap fuel, have a high silica content that offers potential for more valuable applications. The process of transforming rice husks into silica nanoparticles begins with obtaining and preparing this raw material.
+
+This was carried out by Supiyani, Harry Agusnar, Irwana Nainggolan (Universitas Sumatera Utara, Indonesia), and Purwantiningsih Sugita (Institut Pertanian Bogor, Indonesia) in their research. From the fields in Deli Serdang, Indonesia, to high-tech laboratories, rice husks are processed into valuable silica nanoparticles (SiO2–NPs) with broad applications, including drug delivery, lightweight construction materials, and energy storage. In this article, we will trace the journey of rice husks from the field to becoming a sophisticated tool for dealing with methamphetamine, a highly addictive illegal drug.
+
+"First, the rice husks are washed to remove dirt and contaminants, then sun-dried for 4 hours. This drying process is crucial for reducing the moisture content in the rice husks. After that, the rice husks are soaked in hydrochloric acid (HCl) for 3 hours to remove further contaminants. This soaking process ensures that the raw material is clean and ready for the next stage," said Supiyani.
+
+After soaking in acid, the rice husks are dried in an oven at 80°C for 24 hours. This drying ensures that the rice husks are thoroughly dry before being heated in a furnace. Next, the dried rice husks are heated in a furnace at 700°C, turning them into rice husk ash (RHA) rich in silica. This high-temperature heating is a critical step as it helps break down organic material and leaves behind pure silica.
+
+Supiyani explained that the transformation of rice husk ash into silica nanoparticles is done using the sol-gel method, a well-established technique in nanotechnology material fabrication. The rice husk ash is mixed with sodium hydroxide (NaOH) solution in various concentrations—5%, 10%, and 15%—and stirred for 3 hours. The mixture is then filtered to separate the remaining solid residue, and the resulting solution is rinsed with distilled water to produce sodium silicate solution. The pH of this solution is then adjusted to neutral (pH 7) by adding HCl, preparing it for the final stage of silica nanoparticle formation.
+
+To ensure that the produced silica nanoparticles have the desired quality and characteristics, various advanced techniques are used for characterization. Fourier Transform Infrared (FTIR) spectroscopy reveals Si-O-Si bonds, indicating the presence of silica. This analysis confirms that the conversion process from rice husk ash to silica nanoparticles was successful. Raman spectroscopy shows a peak at 470 cm−1, characteristic of silica cristobalite phase, further validating the presence of silica in nanoparticle form.
+
+"One of the most intriguing applications of silica nanoparticles is their ability to absorb methamphetamine, a highly addictive and illegal psychoactive stimulant. To test the effectiveness of silica nanoparticles in absorbing methamphetamine, Langmuir and Freundlich isotherms were used," Supiyani mentioned.
+
+The Langmuir isotherm model shows a maximum adsorption capacity of 333.3 mg/g for methamphetamine on silica nanoparticles, indicating very high efficiency. The adsorption kinetics are best described by a pseudo-second-order kinetic model, which suggests that the adsorption rate is more dependent on the availability of adsorption sites than on the methamphetamine concentration itself.
+
+Supiyani and her team's research shows characterization results and adsorption studies, providing valuable information about the properties and potential applications of silica nanoparticles synthesized from rice husk ash. FTIR spectra did not show significant differences in functional groups of silica nanoparticles synthesized with different NaOH concentrations (5%, 10%, and 15%).
+
+The successful synthesis of silica nanoparticles from rice husk ash using the sol-gel method marks a significant advancement in waste management and nanotechnology. This research demonstrates that these nanoparticles exhibit excellent adsorption capacity for methamphetamine, making them a promising candidate for drug detoxification and environmental cleanup applications. The study highlights not only the potential of converting agricultural waste into valuable nanomaterials but also paves the way for further research into various applications.
+
+By harnessing the untapped potential of rice husks, we can create sustainable solutions that benefit the environment and various technological fields. This transformation from waste to wonder reflects the innovative spirit driving modern science and technology, opening new avenues for sustainable development and resource utilization. "Imagine, from something that is typically discarded, we can create advanced technological products that are not only beneficial but also contribute to a cleaner and more sustainable future," Supiyani explained.
+
+As time goes on, managing agricultural waste such as rice husks will become increasingly important in addressing environmental challenges and evolving technological needs. This research shows that with innovation and the application of science, we can turn waste into valuable resources for the betterment of humanity. This transformation benefits the environment and provides economic value to the agricultural and high-tech industries.
+
+This transformation also inspires us to continuously seek new ways to manage waste and utilize natural resources more effectively. With the right approach, we can create a world where waste is no longer a problem but becomes a solution to the significant challenges faced by humanity. Through innovation and ongoing research, we can realize this vision and create a better future for everyone.
+
+SDGs
+SDGs 9
+Paper Details
+Journal
+South African Journal of Chemical Engineering
+Title
+Preparation sodium silicate from rice husk to synthesize silica nanoparticles by sol-gel method for adsorption water in analysis of methamphetamine
+Authors
+Supiyani, Harry Agusnar, Purwantiningsih Sugita, Irwana Nainggolan
+Author Affiliations
+Postgraduate School, Department of Chemistry, Faculty of Mathematics and Natural Sciences, Universitas Sumatera Utara, Jl. Bioteknologi No.1, Medan, 20155, Indonesia
+Department of Chemistry, Faculty of Mathematics and Natural Sciences, Universitas Sumatera Utara, Jl. Bioteknologi No.1 Medan, 20155, Indonesia
+Department of Chemistry, Faculty of Mathematics and Natural Sciences, Institut Pertanian Bogor, Dramaga, Bogor, 16880, Indonesia
+DOI
+https://doi.org/10.1016/j.sajce.2022.02.001
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

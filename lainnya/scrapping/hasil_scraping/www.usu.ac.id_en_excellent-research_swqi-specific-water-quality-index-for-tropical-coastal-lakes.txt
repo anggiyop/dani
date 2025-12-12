@@ -1,0 +1,123 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+SWQI: Specific Water Quality Index For Tropical Coastal Lakes
+SWQI: Specific Water Quality Index for Tropical Coastal Lakes
+Published At
+17 October 2024
+Published By
+Dr. Ahmad Muhtadi S.Pi., M.Si
+SWQI: Specific Water Quality Index for Tropical Coastal Lakes
+ 
+
+Published by
+
+Dr. Ahmad Muhtadi S.Pi., M.Si
+
+Published at
+
+Thursday, 17 October 2024
+
+Discover how the Siombak Water Quality Index (SWQI) provides a solution for measuring water quality in tropical tidal lakes, such as Lake Siombak, with innovative parameters that overcome the limitations of the traditional Water Quality Index.
+
+Amid the increasing challenges of water scarcity and pollution, the quality of water flowing through rivers, lakes, and coastal areas has become increasingly important. The Water Quality Index (WQI) has long been used to assess water conditions, providing a clear numerical representation of how clean or polluted a particular water source is. However, not all water bodies share the same characteristics. Specifically, tidal lakes or estuaries, which experience complex interactions between freshwater and saltwater, require a specialized approach. This is where the Siombak Water Quality Index (SWQI) comes in, serving as a tool designed to address the unique characteristics of tropical tidal lakes, such as Lake Siombak in Indonesia.
+
+SWQI was developed by a research team from various universities, including Ahmad Muhtadi and Rusdi Leidonald (Universitas Sumatera Utara, Indonesia), Fredinan Yulianda, Mennofatria Boer, Majariana Krisanti, and Etty Riani (IPB University, Indonesia), Qadar Hasani (University of Lampung, Indonesia), and Muhammad R. Cordova (National Research and Innovation Agency, Indonesia).
+
+Lake Siombak is no ordinary water body. This lake is a witness to the dynamic balance between the influence of freshwater and tidal seawater. Located in the northern part of Medan, the capital of North Sumatra Province, this tropical tidal lake is influenced by the inflow of seawater from nearby straits. This interaction creates water conditions that cannot be fully assessed using traditional WQI, which was originally designed for freshwater systems in subtropical regions. For Lake Siombak, the need for a tailored water quality index is clear, especially as the lake faces growing environmental challenges due to pollution.
+
+"Traditional WQI, while effective in many cases, has certain limitations. When applied to a place like Lake Siombak, conventional WQI cannot provide an accurate picture of water quality. These limitations drove the development of a modified index that accounts for the unique conditions of estuarine and coastal environments, thus SWQI was born," explained Ahmad Muhtadi.
+
+SWQI was specifically designed for Lake Siombak. Although it is a modification of the existing WQI, the tool represents a complete overhaul of how water quality is assessed in tidal lakes. These parameters include 14 physical and chemical components measured throughout the year, such as organic matter, dissolved and suspended substances, phosphate, and water discharge. These measurements provide a clearer understanding of the water's health by accounting for tidal influences as well as seasonal changes.
+
+Ahmad Muhtadi elaborated that one of the most innovative aspects of SWQI is the use of Principal Component Analysis (PCA) to select the most relevant parameters. PCA is a statistical method that helps identify patterns and reduce data complexity, allowing the research team to focus on the parameters that have the most influence on water quality. By applying PCA, it was found that certain variables, such as organic matter and suspended substances, play a more significant role in determining pollution levels in Lake Siombak compared to other variables.
+
+Interestingly, PCA analysis revealed different associations between water quality variables depending on whether measurements were taken during high tide or low tide. For instance, pH levels, which are a key indicator in freshwater systems, were found to be less relevant during high tide in Lake Siombak. This suggests that other factors, such as salinity and nutrient concentrations, are more significant.
+
+The water quality in Lake Siombak is evaluated based on a variety of parameters, ranging from temperature, salinity, and dissolved oxygen to more complex metrics such as Total Dissolved Solids (TDS), Total Suspended Solids (TSS), Biological Oxygen Demand (BOD), and Chemical Oxygen Demand (COD). By assessing these parameters, researchers can gain a comprehensive view of the lake’s pollution levels. They found that organic matter, suspended substances, and nutrients like phosphate and nitrate were the primary pollutants, mostly due to runoff from agriculture and urban waste. "These findings highlight the need for more targeted pollution control measures that address specific sources of contamination in tropical tidal lakes," emphasized Ahmad Muhtadi.
+
+Seasonal variation also plays a significant role in determining Lake Siombak's water quality. The study revealed that the lake's water quality is generally better during high tide when seawater inflow helps dilute pollutants, compared to low tide, when pollutants are more concentrated. Additionally, water quality was found to be worse during the dry season, which lasts from February to August, compared to the rainy season, which lasts from September to January. During the dry months, reduced water flow leads to the accumulation of pollutants, exacerbating the lake’s pollution levels.
+
+Data collection for this study was no simple task. Researchers meticulously collected samples from eight different points within the lake, conducting monthly testing from September 2018 to August 2019. They sampled during both high and low tides, ensuring that they captured the full range of water quality fluctuations throughout the year. Using a 5-liter Kemmerer water sampler, they measured everything from nutrient levels to oxygen content, providing a detailed picture of the lake's health. The data collected during this period served as the foundation for SWQI's development, giving researchers the insights they needed to create an index tailored to the unique conditions of Lake Siombak.
+
+The results of this study have important implications for water resource management, not only for Lake Siombak but also for other tropical tidal lakes. With SWQI, local authorities can gain a better understanding of the pollution levels in Lake Siombak and take action to protect its ecosystem. Whether by enforcing stricter regulations on industrial waste disposal or creating programs to reduce agricultural runoff, SWQI provides a scientific basis for designing policies that can improve the health of tropical tidal lakes.
+
+However, the development of SWQI is just the beginning of a larger step forward. The researchers behind this study acknowledge that much work remains to be done. SWQI is a valuable tool for assessing water quality in tropical tidal lakes, but it is not a one-size-fits-all solution. Estuaries and other coastal waters present unique challenges, and further research is needed to develop indices that can be adapted to these environments. SWQI can serve as a model for future efforts, providing a framework for how to approach water quality assessments in complex aquatic systems.
+
+SWQI marks a significant advancement in the field of water quality assessment. By addressing the limitations of traditional WQI and tailoring its parameters to the specific needs of Lake Siombak, SWQI provides a more accurate picture of water quality in tropical tidal lakes. "The findings of this research underscore the need for continued research and policy development to ensure the sustainability of these environments. As tropical tidal lakes face increasing threats from pollution and climate change, tools like SWQI will be key in guiding efforts to protect and preserve them for future generations," concluded Ahmad Muhtadi.
+
+SDGs
+SDGs 6
+SDGs 14
+Paper Details
+Journal
+Aquaculture, Aquarium, Conservation & Legislation - International Journal of the Bioflux Society
+Title
+Assessment of pollution status of tropical coastal lakes using modified Water Quality Index (WQI) based on physio-chemical parameters
+Authors
+Ahmad Muhtadi (1), Fredinan Yulianda (2), Mennofatria Boer (2) , Majariana Krisanti (2), Etty Riani (2), Rusdi Leidonald (1), Qadar Hasani (3), Muhammad R. Cordova (4)
+Author Affiliations
+Department of Aquatic Resources Management, Faculty of Agriculture, Universitas Sumatera Utara, Indonesia
+Department of Aquatic Resources Management, Faculty of Fisheries and Marine Sciences, IPB University, Indonesia
+Department of Aquatic Resources, Faculty of Agriculture, Lampung University, Indonesia
+Research Center for Oceanography, Earth Sciences Research Organizations, National Research and Innovation Agency (BRIN), Jakarta, Indonesia
+DOI
+-
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

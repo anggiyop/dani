@@ -1,0 +1,115 @@
+{
+  "_id": "informasi_dosen",
+  "startUrl": ["https://www.usu.ac.id/id/direktori"],
+  "selectors": [
+    {
+      "id": "open_adv",
+      "parentSelectors": ["_root"],
+      "type": "SelectorElementClick",
+      "selector": "xpath=//button[contains(., 'Pencarian Lanjutan') or contains(., 'Advanced Search')]",
+      "multiple": false,
+      "delay": 1200,
+      "clickType": "clickOnce",
+      "clickActionType": "real",
+      "clickElementSelector": "xpath=//button[contains(., 'Pencarian Lanjutan') or contains(., 'Advanced Search')]",
+      "discardInitialElements": "do-not-discard",
+      "clickElementUniquenessType": "uniqueText"
+    },
+    {
+      "id": "open_faculty",
+      "parentSelectors": ["open_adv"],
+      "type": "SelectorElementClick",
+      "selector": "xpath=//button[contains(., 'Pilih Fakultas') or contains(., 'Choose Faculty')]",
+      "multiple": false,
+      "delay": 800,
+      "clickType": "clickOnce",
+      "clickActionType": "real",
+      "clickElementSelector": "xpath=//button[contains(., 'Pilih Fakultas') or contains(., 'Choose Faculty')]",
+      "discardInitialElements": "do-not-discard",
+      "clickElementUniquenessType": "uniqueText"
+    },
+    {
+      "id": "check_all_faculty",
+      "parentSelectors": ["open_faculty"],
+      "type": "SelectorElementClick",
+      "selector": "xpath=//div[.//button[contains(., 'Pilih Fakultas') or contains(., 'Choose Faculty')]]/following::div[1]//label[.//input[@type='checkbox']]",
+      "multiple": true,
+      "delay": 200,
+      "clickType": "clickEachElement",
+      "clickActionType": "real",
+      "clickElementSelector": "xpath=.",
+      "discardInitialElements": "do-not-discard",
+      "clickElementUniquenessType": "uniqueHTMLText"
+    },
+    {
+      "id": "submit_search",
+      "parentSelectors": ["check_all_faculty"],
+      "type": "SelectorElementClick",
+      "selector": "xpath=//button[normalize-space(.)='Cari' or contains(.,'Search')]",
+      "multiple": false,
+      "delay": 1200,
+      "clickType": "clickOnce",
+      "clickActionType": "real",
+      "clickElementSelector": "xpath=//button[normalize-space(.)='Cari' or contains(.,'Search')]",
+      "discardInitialElements": "do-not-discard",
+      "clickElementUniquenessType": "uniqueText"
+    },
+    {
+      "id": "scroll_results",
+      "parentSelectors": ["submit_search"],
+      "type": "SelectorElement",
+      "selector": "body",
+      "multiple": false,
+      "scroll": true,
+      "delay": 600,
+      "elementLimit": 0
+    },
+    {
+      "id": "link_dosen",
+      "parentSelectors": ["scroll_results"],
+      "type": "SelectorLink",
+      "selector": "a[href*='/id/dosen/']",
+      "multiple": true,
+      "linkType": "linkFromHref",
+      "delay": 0
+    },
+
+    {
+      "id": "nama_dosen",
+      "parentSelectors": ["link_dosen"],
+      "type": "SelectorText",
+      "selector": "xpath=//h1 | //div[contains(@class,'detail-profile-name')]//p",
+      "multiple": false
+    },
+    {
+      "id": "program_studi",
+      "parentSelectors": ["link_dosen"],
+      "type": "SelectorText",
+      "selector": "css=.faculties-content-detail small, .faculties-content small",
+      "multipleType": "multipleColumns",
+      "columnCount": 5
+    },
+    {
+      "id": "bidang_keilmuan_dosen",
+      "parentSelectors": ["link_dosen"],
+      "type": "SelectorText",
+      "selector": "xpath=//*[self::h3 or self::h2][contains(.,'Bidang Keilmuan')]/following::small[preceding::*[self::h3 or self::h2][contains(.,'Bidang Keilmuan')]][not(ancestor::footer)]",
+      "multiple": true,
+      "multipleType": "singleColumn"
+    },
+    {
+      "id": "email_dosen",
+      "parentSelectors": ["link_dosen"],
+      "type": "SelectorText",
+      "selector": "xpath=//div[contains(@class,'sub-profile-contact')]//p[a[contains(@href,'mailto:')] or contains(., '@')]",
+      "multiple": false
+    },
+    {
+      "id": "alamat_kantor_dosen",
+      "parentSelectors": ["link_dosen"],
+      "type": "SelectorText",
+      "selector": "xpath=//div[contains(@class,'sub-profile-contact')][.//i[contains(@class,'map') or contains(@class,'location')]]//p | //div[contains(@class,'sub-profile-contact')][2]//p",
+      "multiple": false
+    }
+  ]
+}

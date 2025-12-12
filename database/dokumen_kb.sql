@@ -1,0 +1,1 @@
+INSERT INTO `dokumen_kb` (`id`, `nama_dokumen`, `kategori`, `sumber`, `file_path`, `status_indexing`, `catatan`, `created_at`, `updated_at`) VALUES (1, 'SOP ULT 2023', 'SOP', 'PDF', 'storage/dokumen/SOP-ULT-2023.pdf', 'sukses', NULL, '2025-12-09 23:29:03', '2025-12-10 01:55:33');

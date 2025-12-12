@@ -1,0 +1,126 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Limbah Plastik Menjadi Energi Sebagai Bahan Bakar Alternatif
+Limbah Plastik menjadi Energi sebagai Bahan Bakar Alternatif
+Diterbitkan Pada
+04 Maret 2025
+Diterbitkan Oleh
+Prof. Dr. Ir. Ilmi M.Sc.
+Limbah Plastik menjadi Energi sebagai Bahan Bakar Alternatif
+ 
+
+Diterbitkan oleh
+
+Prof. Dr. Ir. Ilmi M.Sc.
+
+Diterbitkan pada
+
+Selasa, 04 Maret 2025
+
+Penelitian ini mengungkap potensi pirolisis sebagai solusi inovatif dalam mengubah limbah plastik menjadi bahan bakar alternatif yang lebih ramah lingkungan. Dengan simulasi menggunakan Aspen Plus, penelitian ini menemukan suhu optimal 450°C untuk menghasilkan minyak pirolisis berkualitas tinggi.
+
+Seiring dengan perkembangan era modern, konsumsi plastik mengalami peningkatan yang luar biasa seiring dengan pertumbuhan populasi global dan laju industrialisasi yang semakin pesat. Plastik telah menjadi bagian tak terpisahkan dari kehidupan manusia, menyusup ke hampir setiap aspek kehidupan, dari industri makanan hingga produk elektronik. Namun, di balik manfaatnya yang begitu besar, plastik juga membawa ancaman serius terhadap lingkungan. Limbah plastik yang tidak terkelola dengan baik mencemari udara, air, dan tanah, menciptakan krisis ekologi yang semakin sulit diatasi.
+
+Permasalahan tersebut memunculkan pertanyaan tentang kemungkinan mengubah ancaman limbah menjadi peluang. Pertanyaan tersebut kemudian dijawab oleh tim dosen peneliti dari Universitas Sumatera Utara, yakni Ilmi, Suprianto, Syukril Hanif, Royhan Nahdi, dan Walid Ulfa Nasution (Program Studi Teknik Mesin); Muhammad Tarmuzi (Program Studi Teknik Kimia); Arlina Nurbaity Lubis (Program Studi Ekonomi); Elvina Herawati (Program Studi Matematika); serta Tengku Silvina Sinar (Program Studi Sastra Inggris), yang berkolaborasi dengan peneliti dari Universitas Muhammadiyah Sumatera Utara, Suherman. Hasil penelitian menunjukkan bahwa salah satu solusi inovatif yang kini mendapat perhatian luas adalah proses pirolisis, sebuah metode yang dapat mengubah limbah plastik menjadi bahan bakar alternatif yang lebih ramah lingkungan.
+
+“Pirolisis bukan sekadar solusi konvensional dalam pengolahan limbah; ia adalah bentuk revolusi dalam pengelolaan sampah plastik yang menjanjikan perubahan besar dalam cara kita memandang dan memanfaatkan limbah,” jelas Ilmi.
+
+Dengan memanfaatkan panas tinggi dalam lingkungan bebas oksigen, pirolisis memungkinkan plastik terurai menjadi minyak pirolisis (Plastic Pyrolysis Oil/PPO), gas, dan residu karbon. Dari hasil ini, PPO menjadi salah satu produk yang paling menjanjikan karena potensinya sebagai bahan bakar alternatif yang dapat digunakan dalam berbagai aplikasi industri maupun transportasi.
+
+Untuk memahami lebih dalam potensi pirolisis sebagai solusi energi masa depan, penelitian yang dipublikasikan dalam jurnal Science Direct ini menggunakan simulasi perangkat lunak Aspen Plus untuk menganalisis karakteristik pirolisis berbagai jenis plastik, termasuk polietilena (PE), polistirena (PS), dan low-density polyethylene (LDPE).
+
+“Simulasi ini dilakukan dengan variasi suhu antara 350°C hingga 550°C dengan tujuan menemukan titik optimal dalam menghasilkan PPO dengan kualitas terbaik. Ini bukan sekadar eksperimen biasa, tetapi langkah maju dalam merancang solusi yang lebih efisien dan ramah lingkungan dalam pengelolaan limbah plastik,” papar Ilmi.
+
+Hasil simulasi menunjukkan bahwa suhu pirolisis optimal untuk mendapatkan hasil PPO tertinggi adalah 450°C, dengan PS menghasilkan hingga 89% minyak. Angka ini luar biasa, mengingat bahwa hampir sembilan per sepuluh bagian dari plastik PS dapat dikonversi menjadi energi yang dapat digunakan kembali. Sementara itu, pada suhu 500°C, hasil minyak dari PE, LDPE, dan campuran plastik masing-masing mencapai 85%, 83%, dan 60%. Angka-angka ini mengindikasikan bahwa meskipun PS memiliki potensi tertinggi dalam menghasilkan PPO, jenis plastik lainnya juga dapat menjadi sumber energi yang cukup menjanjikan.
+
+“Tim peneliti menguji kinerja mesin dengan mencampurkan PPO dengan solar dan biodiesel dari minyak jelantah (Waste Cooking Oil/WCO). Campuran ini bertujuan untuk mengevaluasi efisiensi termal serta dampak emisi gas buang yang dihasilkan,” jelas Ilmi.
+
+Hasilnya menunjukkan bahwa campuran PPO 5% dalam solar memberikan efisiensi termal yang lebih baik dibandingkan dengan campuran PPO yang lebih tinggi. Selain itu, konsumsi bahan bakar spesifik pada campuran ini lebih rendah, yang berarti bahwa bahan bakar dapat digunakan secara lebih efisien tanpa meningkatkan konsumsi energi secara berlebihan.
+
+Namun, di balik potensi besar yang dimiliki oleh pirolisis plastik, terdapat tantangan yang harus diatasi. Salah satu kendala utama adalah bagaimana mengoptimalkan kualitas PPO agar sesuai dengan standar bahan bakar yang telah ada. PPO memiliki viskositas yang relatif tinggi, kandungan sulfur yang lebih besar dibandingkan bahan bakar fosil, serta indeks setana yang lebih rendah. Faktor-faktor ini dapat memengaruhi kinerja mesin, sehingga diperlukan penelitian lebih lanjut untuk meningkatkan karakteristik fisik dan kimia dari minyak hasil pirolisis ini.
+
+Selain itu, campuran PPO dengan biodiesel juga memiliki dampak terhadap emisi gas buang. Penelitian menunjukkan bahwa meskipun campuran ini dapat mengurangi emisi hidrokarbon (HC), karbon monoksida (CO), dan asap, terdapat peningkatan kadar nitrogen oksida (NOx). NOx adalah salah satu gas yang berkontribusi terhadap polusi udara dan perubahan iklim, sehingga strategi mitigasi perlu dikembangkan untuk mengurangi efek negatif ini. Salah satu cara yang dapat diterapkan adalah dengan menggunakan katalis dalam proses pembakaran atau melakukan modifikasi pada mesin untuk mengoptimalkan pembakaran bahan bakar campuran.
+
+Melihat implikasi dari penelitian ini, pirolisis plastik memiliki peluang besar sebagai solusi dalam mengurangi ketergantungan pada bahan bakar fosil sekaligus mengatasi permasalahan limbah plastik yang terus meningkat. Namun, agar implementasinya lebih luas dan berkelanjutan, diperlukan langkah-langkah konkret dari berbagai pihak. Pemerintah dapat berperan dalam memberikan insentif bagi industri yang mengadopsi teknologi ini, sementara sektor akademik dan industri perlu bekerja sama dalam penelitian untuk meningkatkan kualitas PPO. Selain itu, edukasi kepada masyarakat juga penting agar kesadaran akan pentingnya daur ulang dan pengelolaan limbah plastik semakin meningkat.
+
+“Pirolisis plastik adalah teknologi yang menjanjikan dalam mengubah limbah yang merusak lingkungan menjadi sumber energi yang berharga. Dengan simulasi menggunakan Aspen Plus, penelitian ini berhasil mengidentifikasi parameter optimal dalam proses pirolisis serta mengevaluasi kinerja PPO dalam aplikasi mesin pembakaran,” tutup Ilmi.
+
+Namun, masih ada berbagai tantangan yang perlu diatasi untuk memastikan bahwa bahan bakar ini dapat digunakan secara luas dan efisien. Dengan upaya kolaboratif dari berbagai pihak, masa depan di mana limbah plastik dapat sepenuhnya dimanfaatkan sebagai sumber energi alternatif bukan sekadar impian, melainkan sebuah kenyataan yang semakin mendekat. Kita telah melihat potensi besar dari penelitian ini; kini tinggal bagaimana kita bersama-sama merealisasikan visi tersebut agar dunia yang lebih hijau dan berkelanjutan dapat terwujud.
+
+SDGs
+SDGs 13
+Detail Paper
+Jurnal
+Case Studies in Thermal Engineering
+Judul
+Simulation of pyrolysis process for waste plastics using Aspen Plus: Performance and emission analysis of PPO-diesel and PPO-biodiesel blends
+Penulis
+Ilmi (1), Suherman (2), Suprianto (1), Syukril Hanif (1), Royhan Nahdi (1), Walid Ulfa Nasution (1), Muhammad Turmuzi (3), Arlina Nurbaity Lubis (4), Elvina Herawati (5), Tengku Silvana Sinar (6)
+Afiliasi Penulis
+Departemen Teknik Mesin, Universitas Sumatera Utara, 20222, Medan, Indonesia
+Departemen Teknik Mesin,Universitas Muhammadiyah Sumatera Utara, 20238, Medan, Indonesia
+Departemen Teknik Kimia, Universitas Sumatera Utara, 20222, Medan, Indonesia
+Departemen Ekonomi, Universitas Sumatera Utara, 20222, Medan, Indonesia
+Departemen Matematika, Universitas Sumatera Utara, 20222, Medan, Indonesia
+Fakultas Ilmu Budaya, Universitas Sumatera Utara, 20222, Medan, Indonesia
+DOI
+https://doi.org/10.1016/j.csite.2024.105431
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

@@ -1,0 +1,412 @@
+
+openapi: 3.0.3
+info:
+  title: Asisten Mahasiswa API
+  version: 1.0.0
+  description: >
+    Kontrak API untuk jadwal akademik, ujian, event, dan layanan helpdesk (SOP ULT).
+servers:
+  - url: https://api.your-campus.local/v1
+    description: Production
+  - url: http://localhost:8080/v1
+    description: Local Dev
+
+tags:
+  - name: Akademik
+  - name: Helpdesk
+  - name: Tiket
+  - name: Util
+
+paths:
+  /courses:
+    get:
+      tags: [Akademik]
+      summary: Daftar mata kuliah
+      parameters:
+        - in: query
+          name: q
+          schema: { type: string }
+          description: filter nama/kode
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Course" }
+
+  /classes:
+    get:
+      tags: [Akademik]
+      summary: Daftar kelas per term/hari/dosen
+      parameters:
+        - in: query
+          name: term_code
+          schema: { type: string }
+          required: true
+        - in: query
+          name: day
+          schema: { type: string, enum: [Senin,Selasa,Rabu,Kamis,Jumat,Sabtu,Minggu] }
+        - in: query
+          name: lecturer_id
+          schema: { type: string, format: uuid }
+        - in: query
+          name: course_code
+          schema: { type: string }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Class" }
+
+  /schedule/{npm}:
+    get:
+      tags: [Akademik]
+      summary: Jadwal kuliah mahasiswa
+      parameters:
+        - in: path
+          name: npm
+          required: true
+          schema: { type: string }
+        - in: query
+          name: date
+          schema: { type: string, format: date }
+          description: default hari ini; jika tidak diisi, kembalikan minggu berjalan
+        - in: query
+          name: term_code
+          schema: { type: string }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  date: { type: string, format: date }
+                  items:
+                    type: array
+                    items: { $ref: "#/components/schemas/ScheduleItem" }
+
+  /exams:
+    get:
+      tags: [Akademik]
+      summary: Jadwal UTS/UAS
+      parameters:
+        - in: query
+          name: npm
+          schema: { type: string }
+          description: jika diisi, ambil berdasarkan KRS mahasiswa
+        - in: query
+          name: type
+          schema: { type: string, enum: [UTS,UAS] }
+        - in: query
+          name: term_code
+          schema: { type: string }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Exam" }
+
+  /events:
+    get:
+      tags: [Akademik]
+      summary: Event akademik (sempro/semhas/sidang/kalender)
+      parameters:
+        - in: query
+          name: category
+          schema: { type: string, enum: [sempro,semhas,sidang,kalender] }
+        - in: query
+          name: from
+          schema: { type: string, format: date }
+        - in: query
+          name: to
+          schema: { type: string, format: date }
+        - in: query
+          name: npm
+          schema: { type: string }
+          description: untuk event yang spesifik ke mahasiswa
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Event" }
+
+  /services:
+    get:
+      tags: [Helpdesk]
+      summary: Daftar layanan SOP ULT
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Service" }
+    post:
+      tags: [Helpdesk]
+      summary: Buat layanan (admin)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/ServiceCreate" }
+      responses:
+        "201":
+          description: Created
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Service" }
+
+  /services/{id}:
+    get:
+      tags: [Helpdesk]
+      summary: Detail layanan (syarat, alur, produk)
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema: { type: string, format: uuid }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/ServiceDetail" }
+
+  /tickets:
+    get:
+      tags: [Tiket]
+      summary: Daftar tiket by npm atau status
+      parameters:
+        - in: query
+          name: npm
+          schema: { type: string }
+        - in: query
+          name: status
+          schema: { type: string, enum: [submitted,in_review,need_revision,approved,rejected,completed] }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: { $ref: "#/components/schemas/Ticket" }
+    post:
+      tags: [Tiket]
+      summary: Ajukan tiket layanan
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/TicketCreate" }
+      responses:
+        "201":
+          description: Created
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Ticket" }
+
+  /tickets/{id}:
+    get:
+      tags: [Tiket]
+      summary: Detail tiket (plus log)
+      parameters:
+        - in: path
+          name: id
+          required: true
+          schema: { type: string, format: uuid }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/TicketDetail" }
+    patch:
+      tags: [Tiket]
+      summary: Ubah status atau catatan tiket (staff/admin)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: "#/components/schemas/TicketUpdate" }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Ticket" }
+
+  /util/healthz:
+    get:
+      tags: [Util]
+      summary: Health check
+      responses:
+        "200":
+          description: OK
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+
+  schemas:
+    Course:
+      type: object
+      properties:
+        id: { type: string, format: uuid }
+        code: { type: string }
+        name: { type: string }
+        sks: { type: integer }
+    Class:
+      type: object
+      properties:
+        id: { type: string, format: uuid }
+        course: { $ref: "#/components/schemas/Course" }
+        lecturer:
+          type: object
+          properties:
+            id: { type: string, format: uuid }
+            name: { type: string }
+        term_code: { type: string }
+        day: { type: string }
+        start_time: { type: string, example: "08:00:00" }
+        end_time: { type: string, example: "10:00:00" }
+        room: { type: string }
+    ScheduleItem:
+      type: object
+      properties:
+        date: { type: string, format: date }
+        class: { $ref: "#/components/schemas/Class" }
+    Exam:
+      type: object
+      properties:
+        id: { type: string, format: uuid }
+        type: { type: string, enum: [UTS,UAS] }
+        date: { type: string, format: date }
+        start_time: { type: string }
+        end_time: { type: string }
+        room: { type: string }
+        course: { $ref: "#/components/schemas/Course" }
+    Event:
+      type: object
+      properties:
+        id: { type: string, format: uuid }
+        category: { type: string, enum: [sempro,semhas,sidang,kalender] }
+        title: { type: string }
+        date: { type: string, format: date }
+        start_time: { type: string, nullable: true }
+        end_time: { type: string, nullable: true }
+        location: { type: string, nullable: true }
+        description: { type: string, nullable: true }
+        organizer: { type: string, nullable: true }
+        related_npm: { type: string, nullable: true }
+
+    Service:
+      type: object
+      properties:
+        id: { type: string, format: uuid }
+        name: { type: string }
+        description: { type: string }
+        unit_owner: { type: string }
+        sla_days: { type: integer }
+        fee_rp: { type: integer }
+        is_active: { type: boolean }
+        sop_ref: { type: string }
+    ServiceCreate:
+      type: object
+      required: [name]
+      properties:
+        name: { type: string }
+        description: { type: string }
+        unit_owner: { type: string }
+        sla_days: { type: integer }
+        fee_rp: { type: integer }
+        is_active: { type: boolean }
+        sop_ref: { type: string }
+    Requirement:
+      type: object
+      properties:
+        item: { type: string }
+        is_mandatory: { type: boolean }
+        note: { type: string, nullable: true }
+        sort_no: { type: integer }
+    Workflow:
+      type: object
+      properties:
+        step_no: { type: integer }
+        description: { type: string }
+        link_url: { type: string, nullable: true }
+    ServiceDetail:
+      type: object
+      properties:
+        service: { $ref: "#/components/schemas/Service" }
+        requirements:
+          type: array
+          items: { $ref: "#/components/schemas/Requirement" }
+        workflows:
+          type: array
+          items: { $ref: "#/components/schemas/Workflow" }
+        documents:
+          type: array
+          items:
+            type: object
+            properties:
+              product_name: { type: string }
+
+    Ticket:
+      type: object
+      properties:
+        id: { type: string, format: uuid }
+        student_npm: { type: string }
+        service_id: { type: string, format: uuid }
+        status: { type: string, enum: [submitted,in_review,need_revision,approved,rejected,completed] }
+        attachments: { type: object, additionalProperties: true }
+        note: { type: string, nullable: true }
+        due_date: { type: string, format: date, nullable: true }
+        created_at: { type: string, format: date-time }
+        updated_at: { type: string, format: date-time }
+    TicketCreate:
+      type: object
+      required: [student_npm, service_id]
+      properties:
+        student_npm: { type: string }
+        service_id: { type: string, format: uuid }
+        attachments: { type: object, additionalProperties: true }
+        note: { type: string }
+    TicketDetail:
+      type: object
+      properties:
+        ticket: { $ref: "#/components/schemas/Ticket" }
+        logs:
+          type: array
+          items:
+            type: object
+            properties:
+              actor: { type: string }
+              action: { type: string }
+              message: { type: string }
+              created_at: { type: string, format: date-time }
+    TicketUpdate:
+      type: object
+      properties:
+        status: { type: string, enum: [submitted,in_review,need_revision,approved,rejected,completed] }
+        note: { type: string }
+
+security:
+  - bearerAuth: []

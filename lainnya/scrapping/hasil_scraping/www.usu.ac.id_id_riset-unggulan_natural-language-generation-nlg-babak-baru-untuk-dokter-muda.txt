@@ -1,0 +1,119 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Natural Language Generation (NLG): Babak Baru Untuk Dokter Muda
+Natural Language Generation (NLG): Babak Baru untuk Dokter Muda
+Diterbitkan Pada
+29 Agustus 2024
+Diterbitkan Oleh
+Prof. Dr. Drs. Opim Salim Sitompul M.Sc
+Natural Language Generation (NLG): Babak Baru untuk Dokter Muda
+ 
+
+Diterbitkan oleh
+
+Prof. Dr. Drs. Opim Salim Sitompul M.Sc
+
+Diterbitkan pada
+
+Kamis, 29 Agustus 2024
+
+Sistem Natural Language Generation (NLG) membantu dokter muda menginterpretasikan hasil tes darah dengan cepat dan akurat. Penelitian dari Universitas Sumatera Utara ini meningkatkan efisiensi medis dan mengurangi risiko kesalahan diagnostik.
+
+Dalam dunia kedokteran yang bergerak cepat, kemampuan untuk dengan cepat dan akurat menginterpretasikan hasil laboratorium sangat penting. Bagi dokter berpengalaman, melihat hasil tes darah dan menentukan apakah nilainya berada dalam rentang normal atau abnormal hampir menjadi kebiasaan. Namun, bagi dokter muda yang baru memulai karir medis mereka, proses ini bisa sangat menakutkan. Seringkali, mereka harus mengandalkan tabel referensi, membandingkan setiap komponen darah dengan rentang normalnya—tugas yang memakan waktu dan rentan terhadap kesalahan manusia. Kebutuhan akan sistem yang lebih efisien semakin jelas.
+
+Di sinilah sistem Natural Language Generation (NLG) hadir sebagai alat revolusioner yang dirancang untuk membantu dokter muda dalam aspek penting praktik medis ini. Para ahli dari Universitas Sumatera Utara, yang terdiri dari Prof. Opim Salim Sitompul, Erna Budhiarti Nababan, Dedy Arisandi, Indra Aulia, dan Hengky Wijaya, melakukan penelitian untuk menciptakan sistem tersebut. Gagasan untuk mengembangkan sistem NLG yang dapat menginterpretasikan hasil tes darah laboratorium didasarkan pada tantangan yang dihadapi oleh dokter muda.
+
+Ketika berhadapan dengan tes hitung darah lengkap (Complete Blood Count - CBC), para praktisi muda ini sering kali merasa kewalahan dengan banyaknya data yang harus dianalisis. Tes CBC, bagaimanapun, mencakup berbagai pengukuran—sel darah merah, sel darah putih, kadar hemoglobin, dan lainnya—yang semuanya harus dianalisis dengan cermat untuk memberikan diagnosis yang akurat. “Proses manual membandingkan setiap komponen dengan rentang normalnya bisa sangat melelahkan, dan risiko untuk melewatkan nilai abnormal sangat tinggi. Bagi seorang dokter muda, ini bisa berarti perbedaan antara membuat diagnosis yang tepat waktu atau melewatkan masalah kesehatan yang kritis,” kata Prof. Opim Salim.
+
+Menyadari masalah ini, Prof. Opim Salim dan tim berusaha untuk menciptakan sistem NLG yang dirancang khusus untuk membantu dokter muda menavigasi kompleksitas hasil laboratorium. Tujuan utama penelitian ini adalah mengembangkan sistem yang dapat secara otomatis menghasilkan laporan teks ringkasan berdasarkan hasil pemeriksaan hematologi. Laporan-laporan ini tidak hanya akan mengidentifikasi apakah setiap nilai komponen darah normal, abnormal, atau kritis, tetapi juga memberikan interpretasi yang jelas dan mudah dipahami oleh dokter muda.
+
+Prof. Opim Salim menjelaskan bahwa sistem yang diusulkan dibangun di atas dua komponen utama: sistem Complete Blood Count Information (CBCI), yang berfungsi sebagai antarmuka depan, dan Template Generation System (TGen-System), generator template di belakang layar. Sistem CBCI bertanggung jawab untuk mengekstraksi dan memproses data dari template dokumen Microsoft Word (Ms. Word) yang berisi data pribadi pasien dan hasil pemeriksaan laboratorium. Setelah data diproses, TGen-System mulai bekerja, menghasilkan kandidat template berdasarkan konten kalimat. Template ini kemudian digunakan untuk menghasilkan representasi tekstual dari hasil laboratorium.
+
+Data yang digunakan dalam penelitian ini terdiri dari hasil hitung darah lengkap (CBC) yang diperoleh dari laboratorium klinis. Para peneliti merancang template dokumen Ms. Word yang mencakup tiga tabel: satu untuk data pribadi pasien, satu untuk hasil pemeriksaan laboratorium, dan satu untuk tanda tangan. Format standar ini memastikan bahwa data diorganisasi secara konsisten, memungkinkan sistem NLG memproses dan menginterpretasikan informasi dengan efisien.
+
+Aspek kunci dari sistem NLG ini adalah pendekatannya yang berbasis template untuk menghasilkan laporan teks ringkasan. Template yang digunakan dalam sistem ini pada dasarnya adalah kalimat yang sudah ditulis dengan slot yang perlu diisi dengan data relevan. Misalnya, sebuah template mungkin berbunyi, "Kadar hemoglobin pasien adalah x score, yang bermakna normal, abnormal, atau kritis." Ketika sistem memproses hasil tes darah, sistem ini secara otomatis mengisi slot ini dengan nilai yang sesuai, menghasilkan teks yang terstruktur dan koheren yang dapat dengan cepat ditinjau oleh dokter,” papar Prof. Opim Salim.
+
+Pendekatan berbasis template ini menawarkan beberapa keunggulan. Pertama, ini memastikan bahwa laporan yang dihasilkan konsisten dalam struktur dan bahasanya, yang penting untuk menjaga kejelasan. Kedua, adanya template memungkinkan pembuatan teks yang cepat, karena sistem hanya perlu mengisi kekosongan daripada menyusun kalimat dari awal. Akhirnya, pendekatan ini dapat dengan mudah disesuaikan dengan berbagai jenis tes laboratorium, menjadikannya alat yang serbaguna untuk berbagai aplikasi medis.
+
+Pengembangan sistem NLG ini tidak tanpa tantangan. Para peneliti mengacu pada studi sebelumnya di bidang Natural Language Processing (NLP) dan NLG, banyak di antaranya berfokus pada pembuatan laporan informasi medis, ringkasan teks, dan ringkasan catatan pasien. Dengan membangun karya ini, para peneliti berhasil merancang sistem yang tidak hanya memenuhi kebutuhan spesifik dokter muda tetapi juga mendorong batasan teknologi NLG di bidang medis. Setelah sistem NLG ini dikembangkan, sistem ini menjalani proses evaluasi yang ketat untuk menilai efektivitasnya. Para peneliti mengevaluasi sistem berdasarkan beberapa kriteria, termasuk keterbacaan, kejelasan, dan kesesuaian umum dari interpretasi teks.
+
+“Hasilnya menjanjikan, dengan sistem mencapai pengukuran naturalness rata-rata sebesar 90% atau lebih tinggi. Tingkat naturalness yang tinggi ini menunjukkan bahwa teks yang dihasilkan sangat mirip dengan laporan yang ditulis oleh manusia, sehingga memudahkan dokter muda untuk memahami dan menggunakan informasi tersebut dalam lingkungan klinis,” kata Prof. Opim Salim.
+
+Implikasi dari penelitian ini sangat mendalam. Dengan adanya sistem NLG, dokter muda kini dapat dengan cepat dan akurat menginterpretasikan hasil tes darah laboratorium, mengurangi kemungkinan kesalahan dan meningkatkan kualitas perawatan pasien. Sistem ini juga berfungsi sebagai alat edukatif yang berharga, membantu praktisi baru untuk lebih memahami seluk-beluk tes darah dan cara menginterpretasikannya. Seiring waktu, ini dapat meningkatkan tingkat kemahiran di antara dokter muda, yang pada akhirnya memberikan manfaat bagi sistem perawatan kesehatan secara keseluruhan.
+
+Melihat ke masa depan, para peneliti telah mengidentifikasi beberapa area di mana sistem NLG ini dapat diperluas dan ditingkatkan. Salah satu arah pengembangan potensial adalah meningkatkan kapasitas sistem untuk menangani data medis yang lebih kompleks. Sementara versi saat ini berfokus pada hasil CBC, tidak ada alasan mengapa sistem ini tidak dapat disesuaikan dengan jenis tes laboratorium lainnya atau bahkan catatan medis yang lebih komprehensif. Selain itu, mengintegrasikan sistem NLG dengan sistem perawatan kesehatan lainnya, seperti catatan kesehatan elektronik (EHR), dapat lebih lanjut mempercepat proses diagnostik dan memberikan dokter pandangan yang lebih holistik tentang kesehatan pasien.
+
+Pengembangan sistem NLG untuk menginterpretasikan hasil tes darah laboratorium merupakan kemajuan signifikan dalam teknologi medis. Dengan menangani kebutuhan khusus dokter muda, sistem ini memiliki potensi untuk meningkatkan efisiensi dan akurasi praktik medis. Hasil evaluasi awal yang menjanjikan menunjukkan bahwa sistem NLG ini tidak hanya efektif tetapi juga ramah pengguna, menjadikannya alat yang ideal untuk praktisi baru. Seiring dengan terus berkembang dan meluasnya sistem ini, kemungkinan besar ia akan memainkan peran yang semakin penting di masa depan perawatan kesehatan, membantu dokter memberikan perawatan yang lebih baik bagi pasien mereka dan pada akhirnya menyelamatkan nyawa.
+
+SDGs
+SDGs 3
+Detail Paper
+Jurnal
+IAENG International Journal of Computer Science
+Judul
+Template-Based Natural Language Generation in Interpreting Laboratory Blood Test
+Penulis
+Opim Salim Sitompul, Erna Budhiarti Nababan, Dedy Arisandi, Indra Aulia, Hengky Wijaya
+Afiliasi Penulis
+Departemen Teknologi Informasi, Universitas Sumatera Utara, Medan 20155, Indonesia
+DOI
+https:// https://www.iaeng.org/IJCS/issues_v48/issue_1/IJCS_48_1_07.pdf
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

@@ -1,0 +1,126 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Reevaluating Universal Health Coverage In The Pre-Pandemic World
+Reevaluating Universal Health Coverage in the Pre-Pandemic World
+Published At
+05 March 2025
+Published By
+dr. Rahayu Lubis M.Kes, Ph.D
+Reevaluating Universal Health Coverage in the Pre-Pandemic World
+ 
+
+Published by
+
+dr. Rahayu Lubis M.Kes, Ph.D
+
+Published at
+
+Wednesday, 05 March 2025
+
+This study explores key factors influencing the success of Universal Health Coverage (UHC) in 178 countries from 2000 to 2019. Through in-depth analysis, it reveals that the Human Development Index, health worker density, and governance effectiveness significantly impact healthcare access and financial protection.
+
+Amid the global movement to guarantee every individual’s fundamental right to healthcare, Universal Health Coverage (UHC) has emerged as a grand vision promoting equity and fairness. Its core principle is to ensure that everyone has access to quality healthcare services without facing financial hardship. However, the journey toward UHC is not a smooth one. Over time, various challenges have arisen, ranging from resource disparities to governance effectiveness. The COVID-19 pandemic has exposed significant gaps in global healthcare systems, shaking their foundations and highlighting the urgent need to reassess the key factors influencing UHC implementation across different countries.
+
+Therefore, understanding the state of UHC before the pandemic is a crucial step in formulating more effective strategies to achieve UHC targets by 2030. To address this, a research team from Universitas Sumatera Utara, consisting of Rahayu Lubis, Surya Utama, and Juanita (Faculty of Public Health) as well as Fauzi Budi Satria (Faculty of Pharmacy), collaborated with Santi Martini (Faculty of Public Health, Universitas Airlangga), Harnavi Harun (Faculty of Pharmacy, Universitas Andalas), and Rafzah Ahmad Zaki (University of Malaya).
+
+This research team conducted a study to understand how UHC is implemented worldwide. The analysis was based on data from 178 countries over nearly two decades, from 2000 to 2019. Two key indicators were used as benchmarks: Health Service Coverage (HSC) and Financial Protection (FP). HSC reflects the extent to which people can access essential healthcare services, from maternal and child health and infectious disease prevention to non-communicable disease management. Meanwhile, FP measures how well a country’s healthcare system protects its citizens from excessive financial burdens due to medical costs.
+
+To explore the factors influencing these two indicators, several key variables were identified, including the Human Development Index (HDI), Health Worker Density (HWD), and Governance Effectiveness (GE). Through rigorous statistical analysis using R software version 4.3.1, the relationships between these variables and the effectiveness of UHC implementation were examined in greater detail.
+
+“The findings reveal an interesting fact. Countries with higher HDI tend to have broader healthcare coverage and better financial protection. This reinforces the idea that a nation’s social and economic development plays a central role in improving public access to healthcare services,” said Rahayu.
+
+Furthermore, the study, published in the Elsevier journal, found that HSC significantly influences FP, with a model accuracy of 0.61 and a Kappa value of 0.21. This means that the better a country’s healthcare service coverage, the lower the likelihood that its citizens will experience financial difficulties due to unaffordable healthcare costs.
+
+However, economic factors are not the only determinants of UHC success. Effective governance enables more efficient resource allocation, transparent healthcare system management, and the implementation of well-targeted policies. When GE improves, financial protection for citizens also shows significant progress. This underscores that UHC is not just about building healthcare infrastructure or increasing the number of medical personnel but also about how policies are designed, implemented, and monitored to ensure an optimal healthcare system.
+
+“Resource disparities remain a major challenge for many countries, especially in regions with lower HDI. While the presence of healthcare workers contributes to improving coverage, their limited availability in some countries hinders UHC expansion,” Rahayu added.
+
+Countries with limited resources tend to have lower HSC, which ultimately results in weaker financial protection for their citizens. Therefore, in addition to increasing the number of healthcare professionals, a more comprehensive strategy is needed to improve healthcare systems, including better distribution of healthcare workers, adequate infrastructure provision, and enhanced service capacity in remote areas.
+
+Furthermore, the approach to achieving UHC must be multidimensional. While developing healthcare infrastructure and increasing the number of healthcare workers are crucial, a strong healthcare system cannot be achieved without good governance and a balanced social and economic development strategy. Countries aiming to accelerate UHC achievement by 2030 need to balance development and governance aspects. These efforts will not only create a more inclusive and efficient healthcare system but also ensure that every individual, regardless of economic status, has equal rights to access quality healthcare services.
+
+As a global goal, UHC requires close collaboration among various sectors, including governments, healthcare institutions, and international organizations. Sustainable healthcare funding, strong regulations, and innovations in healthcare service delivery are essential elements that cannot be overlooked. Countries with more advanced healthcare systems have demonstrated that investments in health equity-oriented policies provide long-term benefits, not only for individuals but also for overall economic and social stability.
+
+Additionally, the rise of digital technology in the healthcare sector presents new opportunities to improve service accessibility for the wider population. Telemedicine, electronic medical records, and artificial intelligence in diagnostics and treatment exemplify how technological advancements can help realize UHC.
+
+“With the right adoption of technology, countries with limited resources can overcome geographical barriers and uneven distribution of medical personnel, enabling healthcare services to reach more people without significantly increasing costs,” Rahayu concluded.
+
+The challenges in achieving UHC are significant, but they are not insurmountable. With a deeper understanding of the factors contributing to UHC success, policymakers can develop more adaptive and responsive strategies to address the evolving global challenges. With the right steps, the world can move closer to realizing UHC, where access to healthcare is no longer a privilege but a universal right that everyone, regardless of location, can enjoy.
+
+SDGs
+SDGs 3
+Paper Details
+Journal
+Clinical Epidemiology and Global Health
+Title
+Reevaluating factors in global Universal Health Coverage implementation pre-COVID-19
+Authors
+Rahayu Lubis (1), Fauzi Budi Satria (2,3), Santi Martini (4), Harnavi Harun (5), Rafdzah Ahmad Zaki (6), Surya Utama (1), Juanita (1)
+Author Affiliations
+Faculty of Public Health, Universitas Sumatera Utara, Indonesia
+Philosophy Doctor in Medicine Programme, Faculty of Medicine, Universitas Sumatera Utara, Indonesia
+Department of Community Medicine, Faculty of Medicine, Universitas Sumatera Utara, Indonesia
+Faculty of Public Health, Airlangga University, Indonesia
+Faculty of Medicine, Andalas University, Indonesia
+Centre for Epidemiology and Evidence-Based Practice, Faculty of Medicine, University of Malaya, Malaysia
+DOI
+https://doi.org/10.1016/j.cegh.2024.101840
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

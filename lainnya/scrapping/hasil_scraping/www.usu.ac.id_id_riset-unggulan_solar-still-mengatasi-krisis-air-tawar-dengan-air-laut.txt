@@ -1,0 +1,124 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Solar Still: Mengatasi Krisis Air Tawar Dengan Air Laut
+Solar Still: Mengatasi Krisis Air Tawar dengan Air Laut
+Diterbitkan Pada
+29 Agustus 2024
+Diterbitkan Oleh
+Bambang Riyanto
+Solar Still: Mengatasi Krisis Air Tawar dengan Air Laut
+ 
+
+Diterbitkan oleh
+
+Bambang Riyanto
+
+Diterbitkan pada
+
+Kamis, 29 Agustus 2024
+
+Penelitian dari Universitas Sumatera Utara dan Muroran Institute of Technology mengembangkan teknologi solar still untuk memproduksi air tawar dari air laut, solusi inovatif bagi desa-desa terpencil yang menghadapi krisis air bersih. Temuan ini meningkatkan efisiensi produksi air tawar hingga 28,9%, menjadikannya pilihan hemat biaya dan berkelanjutan.
+
+Bayangkan Anda tinggal di desa terpencil yang jauh dari sumber air bersih. Setiap hari, Anda harus berjalan bermil-mil hanya untuk mendapatkan air yang belum tentu layak minum. Hidup dalam kondisi seperti ini sangat sulit. Di pelosok dunia, krisis air tawar menjadi tantangan besar yang mengancam kehidupan sehari-hari. Tidak hanya di kota-kota besar, tetapi terutama di daerah pedesaan, akses terhadap air bersih sering kali menjadi masalah mendesak.
+
+Namun, solusi sederhana dan hemat biaya dapat ditemukan dalam teknologi yang memanfaatkan kekuatan matahari: solar still. Teknologi ini diteliti oleh ahli Teknik Mesin Universitas Sumatera Utara, Y.P. Sibagariang, F.H. Napitupulu, dan Prof. H. Ambarita, yang berkolaborasi dengan H. Kawai dari Mechanical Engineering, Muroran Institute of Technology, Jepang. Dengan menggunakan prinsip dasar evaporasi dan kondensasi, solar still memungkinkan produksi air tawar dari air laut, sebuah inovasi yang sangat relevan untuk komunitas-komunitas yang mengalami kelangkaan air.
+
+“Solar still bekerja dengan prinsip yang sangat sederhana namun efektif. Air laut dipanaskan oleh sinar matahari hingga menguap. Uap air kemudian naik dan mengembun pada permukaan kaca yang lebih dingin, sebelum akhirnya ditampung sebagai air tawar. Meski teknologi ini telah ada sejak lama, berbagai penelitian telah dilakukan untuk meningkatkan kinerja solar still, terutama dalam hal proses evaporasi dan kondensasi,” jelas Sibagariang.
+
+Berbagai modifikasi telah diusulkan dan diuji, mulai dari penggunaan penyerap berbentuk V-corrugated, tabung vakum, partikel titanium metalik, reflektor eksternal, hingga pelat penyerap bergelombang. Semua upaya ini bertujuan untuk meningkatkan efisiensi dan output dari solar still, menjadikannya solusi yang lebih efektif dalam memenuhi kebutuhan air tawar di daerah pedesaan.
+
+Dalam upaya untuk mengeksplorasi dan mengoptimalkan potensi solar still, penelitian dilakukan di Kota Medan, Indonesia. Studi ini bertujuan untuk menyelidiki pengaruh kolektor surya, nozzle, dan pendinginan air terhadap kinerja solar still tipe double-slope. Empat konfigurasi solar still yang berbeda dibangun dan diuji di bawah kondisi lingkungan yang sama. Empat unit tersebut meliputi solar still konvensional (SSA), solar still dengan pendinginan air (SSB), solar still dengan nozzle (SSC), dan solar still dengan kolektor surya (SSD).
+
+Percobaan ini dilakukan dari pukul 08.00 hingga 18.00, dengan pengukuran suhu dan radiasi matahari setiap lima menit. Pengukuran ini penting untuk memahami dinamika termal dan performa masing-masing konfigurasi solar still. Melalui pendekatan model termal, keseimbangan energi untuk kaca penutup, air, dan pelat penyerap dihitung. Rumus-rumus untuk menghasilkan distilat, efisiensi termal, ekseregi, dan analisis ekonomi juga disediakan.
+
+Prof. Ambarita yang turut dalam penelitian ini mengungkapkan berbagai temuan menarik terkait karakteristik suhu, efisiensi energi, dan produktivitas air tawar. Solar still dengan pendinginan air (SSB) menunjukkan penurunan suhu kaca yang signifikan, meningkatkan kondensasi dan produksi air tawar. “Sebaliknya, nozzle pada SSC meningkatkan suhu uap, namun juga meningkatkan suhu kaca, yang pada akhirnya menghambat kondensasi. Kolektor surya pada SSD berhasil meningkatkan suhu air laut, mempercepat proses evaporasi,” sebut Prof. Ambarita.
+
+Lebih lanjut Prof. Ambarita menjelaskan SSB memiliki suhu terendah karena pendinginan air. Sebaliknya, SSC memiliki suhu kaca yang lebih tinggi dibandingkan SSA dan SSD. SSD menunjukkan efisiensi energi dan ekseregi rata-rata tertinggi, menandakan peningkatan signifikan dalam proses evaporasi dan produksi air tawar. SSB meningkatkan produksi air tawar hingga 28,9% dibandingkan SSA, menunjukkan potensi besar dalam meningkatkan output solar still. Selain itu, analisis ekonomi menunjukkan bahwa SSB memiliki biaya produksi air tawar terendah, menjadikannya solusi yang sangat efisien dan ekonomis untuk daerah pedesaan yang menghadapi krisis air tawar.
+
+Penelitian ini menegaskan efektivitas pendinginan air dan penggunaan kolektor surya dalam meningkatkan kinerja solar still. Modifikasi-modifikasi ini tidak hanya meningkatkan produksi air tawar tetapi juga efisiensi energi, menjadikannya solusi yang berkelanjutan dan layak untuk diterapkan di daerah-daerah dengan krisis air tawar. Melalui pendekatan yang inovatif dan terfokus pada pemanfaatan sumber daya alam, solar still dapat menjadi jawaban bagi komunitas-komunitas yang membutuhkan akses terhadap air bersih, membuka jalan bagi masa depan yang lebih sehat dan sejahtera.
+
+Dapat dibayangkan betapa besar dampak positif yang dapat dihasilkan jika teknologi ini diterapkan secara luas. Di desa-desa yang terpencil, di mana akses terhadap air bersih sering kali menjadi tantangan harian, *solar still* dapat menyediakan solusi yang andal dan berkelanjutan. Tidak hanya mengurangi ketergantungan pada sumber air yang tidak dapat diandalkan, tetapi juga memberikan alternatif yang ramah lingkungan dan hemat biaya.
+
+“Lebih jauh lagi, dengan peningkatan yang terus-menerus dalam teknologi solar still, potensi untuk menghasilkan air tawar dari air laut menjadi semakin nyata dan terjangkau. Pendekatan ini tidak hanya relevan untuk daerah pedesaan di Indonesia, tetapi juga dapat diterapkan di berbagai belahan dunia yang menghadapi tantangan serupa,” kata Prof. Ambarita.
+
+Prof. Ambarita mendorong implementasi teknologi solar still yang efektif memerlukan kolaborasi antara berbagai pihak, termasuk peneliti, pemerintah, dan masyarakat lokal. Penelitian lebih lanjut dan pengembangan teknologi perlu didukung oleh kebijakan pemerintah yang mendorong inovasi dan penerapan teknologi energi terbarukan. Sementara itu, pendidikan dan pelatihan masyarakat lokal tentang cara memanfaatkan dan merawat solar still juga penting untuk memastikan keberhasilan jangka panjang dari inisiatif ini.
+
+Solar still menawarkan solusi yang praktis dan berkelanjutan untuk mengatasi krisis air tawar di daerah pedesaan. Dengan memanfaatkan energi matahari yang melimpah, teknologi ini mampu menghasilkan air tawar yang dibutuhkan untuk kehidupan sehari-hari. Modifikasi seperti pendinginan air dan penggunaan kolektor surya telah terbukti meningkatkan efisiensi dan produktivitas solar still, membuatnya semakin layak untuk diterapkan di berbagai kondisi lingkungan.
+
+Dalam menghadapi tantangan global terkait air bersih, inovasi seperti solar still menjadi harapan baru. Dengan dukungan yang tepat, teknologi ini dapat mengubah kehidupan banyak orang, memberikan akses terhadap air bersih yang selama ini sulit dijangkau. Masa depan yang lebih cerah dan berkelanjutan kini berada dalam jangkauan, berkat sinar matahari dan teknologi yang sederhana namun revolusioner.
+
+Inovasi ini memproyeksikan masa depan di mana setiap desa terpencil memiliki akses terhadap air bersih tanpa harus bergantung pada teknologi yang mahal dan rumit. Anak-anak dapat tumbuh sehat tanpa kekhawatiran tentang kualitas air yang mereka minum. Ibu-ibu tidak perlu berjalan jauh setiap hari hanya untuk mendapatkan air. “Dengan solar still, semua ini bukan hanya impian, tetapi menjadi kenyataan yang dapat dicapai. Dengan menggabungkan inovasi dan komitmen untuk keberlanjutan, kita dapat membawa perubahan nyata dan positif bagi jutaan orang di seluruh dunia,” tutup Prof. Ambarita.
+
+SDGs
+SDGs 6
+Detail Paper
+Jurnal
+Case Studies in Thermal Engineering
+Judul
+Investigation of the effect of a solar collector, nozzle, and water cooling on solar still double slope
+Penulis
+Y.P. Sibagariang (1), F.H. Napitupulu (1), H. Kawai (2), H. Ambarita (1)
+Afiliasi Penulis
+Teknik Mesin, Fakultas Teknik, Universitas Sumatera Utara, Medan 20155, Indonesia
+Mechanical Engineering, Muroran Institute of Technology, 27-1 Mizumoto-cho, Muroran 050-8585, Japan
+DOI
+https://doi.org/10.1016/j.csite.2022.102489
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

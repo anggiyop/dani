@@ -1,0 +1,124 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Solar Still: Solving Freshwater Crisis With Seawater
+Solar Still: Solving Freshwater Crisis with Seawater
+Published At
+29 August 2024
+Published By
+Bambang Riyanto
+Solar Still: Solving Freshwater Crisis with Seawater
+ 
+
+Published by
+
+Bambang Riyanto
+
+Published at
+
+Thursday, 29 August 2024
+
+Researchers from the Universitas Sumatera Utara and Muroran Institute of Technology developed solar still technology to produce freshwater from seawater, an innovative solution for remote villages facing a clean water crisis. The findings increase the efficiency of freshwater production by 28.9%, making it a cost-effective and sustainable option.
+
+Imagine living in a remote village far from any source of clean water. Every day, you have to walk miles just to get water that may not even be safe to drink. Living in such conditions is incredibly difficult. In remote corners of the world, the freshwater crisis is a significant challenge that threatens daily life. Not only in big cities, but especially in rural areas, access to clean water is often a pressing issue.
+
+However, a simple and cost-effective solution can be found in technology that harnesses the power of the sun: the solar still. This technology has been researched by mechanical engineering experts at Universitas Sumatera Utara, including Y.P. Sibagariang, F.H. Napitupulu, and Prof. H. Ambarita, in collaboration with H. Kawai from the Mechanical Engineering Department at Muroran Institute of Technology, Japan. Using the basic principles of evaporation and condensation, solar stills enable the production of freshwater from seawater, a highly relevant innovation for communities experiencing water scarcity.
+
+“Solar stills work on a very simple yet effective principle. Seawater is heated by sunlight until it evaporates. The water vapor then rises and condenses on a cooler glass surface before finally being collected as freshwater. Although this technology has existed for a long time, various studies have been conducted to improve the performance of solar stills, particularly in the evaporation and condensation processes,” explained Sibagariang.
+
+Various modifications have been proposed and tested, ranging from the use of V-corrugated absorbers, vacuum tubes, metallic titanium particles, external reflectors, to corrugated absorber plates. All these efforts aim to increase the efficiency and output of solar stills, making them a more effective solution in meeting freshwater needs in rural areas.
+
+In an effort to explore and optimize the potential of solar stills, research was conducted in Medan, Indonesia. This study aimed to investigate the impact of solar collectors, nozzles, and water cooling on the performance of double-slope solar stills. Four different solar still configurations were constructed and tested under the same environmental conditions. The four units included a conventional solar still (SSA), a solar still with water cooling (SSB), a solar still with a nozzle (SSC), and a solar still with a solar collector (SSD).
+
+The experiment was conducted from 08:00 to 18:00, with temperature and solar radiation measurements taken every five minutes. These measurements were crucial for understanding the thermal dynamics and performance of each solar still configuration. Through a thermal model approach, the energy balance for the cover glass, water, and absorber plate was calculated. Formulas to generate distillate, thermal efficiency, exergy, and economic analysis were also provided.
+
+Prof. Ambarita, who was also involved in the research, revealed various interesting findings related to temperature characteristics, energy efficiency, and freshwater productivity. The solar still with water cooling (SSB) showed a significant decrease in glass temperature, enhancing condensation and freshwater production. “On the other hand, the nozzle in the SSC increased the vapor temperature but also raised the glass temperature, ultimately hindering condensation. The solar collector in the SSD successfully increased the seawater temperature, speeding up the evaporation process,” said Prof. Ambarita.
+
+Furthermore, Prof. Ambarita explained that the SSB had the lowest temperature due to water cooling. Conversely, the SSC had a higher glass temperature compared to the SSA and SSD. The SSD showed the highest average energy and exergy efficiency, indicating a significant improvement in the evaporation process and freshwater production. The SSB increased freshwater production by up to 28.9% compared to the SSA, demonstrating great potential in boosting solar still output. Additionally, economic analysis showed that the SSB had the lowest freshwater production cost, making it a very efficient and economical solution for rural areas facing a freshwater crisis.
+
+This research confirms the effectiveness of water cooling and the use of solar collectors in improving the performance of solar stills. These modifications not only increase freshwater production but also energy efficiency, making it a sustainable and viable solution for areas facing a freshwater crisis. Through an innovative approach focused on utilizing natural resources, solar stills can be the answer for communities in need of access to clean water, paving the way for a healthier and more prosperous future.
+
+One can imagine the tremendous positive impact that could be achieved if this technology were widely implemented. In remote villages where access to clean water is often a daily challenge, solar stills could provide a reliable and sustainable solution. Not only would this reduce reliance on unreliable water sources, but it would also offer an environmentally friendly and cost-effective alternative.
+
+“Furthermore, with continuous improvements in solar still technology, the potential to produce freshwater from seawater is becoming increasingly feasible and affordable. This approach is not only relevant for rural areas in Indonesia but can also be applied in various parts of the world facing similar challenges,” said Prof. Ambarita.
+
+Prof. Ambarita encourages the effective implementation of solar still technology, which requires collaboration between various parties, including researchers, the government, and local communities. Further research and technology development need to be supported by government policies that promote innovation and the adoption of renewable energy technologies. Meanwhile, educating and training local communities on how to utilize and maintain solar stills is also crucial to ensure the long-term success of this initiative.
+
+Solar stills offer a practical and sustainable solution to addressing the freshwater crisis in rural areas. By harnessing the abundant energy of the sun, this technology can produce the freshwater needed for daily life. Modifications such as water cooling and the use of solar collectors have proven to increase the efficiency and productivity of solar stills, making them increasingly viable for application in various environmental conditions.
+
+In facing global challenges related to clean water, innovations like solar stills provide new hope. With the right support, this technology can transform the lives of many, providing access to clean water that has long been out of reach. A brighter and more sustainable future is now within reach, thanks to sunlight and a simple yet revolutionary technology.
+
+This innovation envisions a future where every remote village has access to clean water without having to rely on expensive and complex technology. Children can grow up healthy without worrying about the quality of the water they drink. Mothers no longer need to walk long distances every day just to get water. “With solar stills, all of this is not just a dream but a reality that can be achieved. By combining innovation and a commitment to sustainability, we can bring real and positive change to millions of people around the world,” concluded Prof. Ambarita.
+
+SDGs
+SDGs 6
+Paper Details
+Journal
+Case Studies in Thermal Engineering
+Title
+Investigation of the effect of a solar collector, nozzle, and water cooling on solar still double slope
+Authors
+Y.P. Sibagariang (1), F.H. Napitupulu (1), H. Kawai (2), H. Ambarita (1)
+Author Affiliations
+Mechanical Engineering, Faculty of Engineering, Universitas Sumatera Utara, Medan 20155, Indonesia
+Mechanical Engineering, Muroran Institute of Technology, 27-1 Mizumoto-cho, Muroran 050-8585, Japan
+DOI
+https://doi.org/10.1016/j.csite.2022.102489
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

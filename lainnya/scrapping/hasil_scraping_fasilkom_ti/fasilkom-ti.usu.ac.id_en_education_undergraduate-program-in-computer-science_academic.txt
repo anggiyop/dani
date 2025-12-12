@@ -1,0 +1,401 @@
+USU Official
+Prospective Students
+Students
+Alumni & Careers
+Lecturers & Staff
+International Visitors
+Media & Partners
+Services
+Accreditation & Achievements
+Virtual Gallery
+EN
+expand_more
+Faculty of Computer Science and Information Technology
+Universitas Sumatera Utara
+About Us
+Education
+Research
+Community Service
+News
+E-Magazine
+Faculty News
+Faculty Agenda
+Faculty Announcement
+Faculty Article
+PPID Executive
+Building the Foundation for a Digital Future
+Undergraduate Program in Computer Science
+General Information
+About
+Academic
+Research & Service
+Alumni
+Activities
+SDGs
+
+Learn more about various concentrations, explore the Curriculum adjust your Course Schedule to fit your time, know the required Tuition Fees, and understand the expected learning outcomes All the information you need to start your academic journey is here.
+
+Curriculum
+
+The following is a complete list of courses that will be taken in each semester.
+
+Rector's Decreen & Dean's Decree
+Course Code :
+All
+expand_more
+Search Courses
+search
+Semester 1
+add
+USU1106
+Pancasila Education
+2 SKS
+
+USU1108
+Indonesian Language
+2 SKS
+
+MAT1101
+Basic Mathematics
+2 SKS
+
+ILK1102
+Digital Systems
+3 SKS
+
+ILK1103
+Introduction to Computer Science
+2 SKS
+
+ILK1105
+Basic Programming
+3 SKS
+
+ILK1106
+Basic Programming Practicum
+1 SKS
+
+ILK1107
+Automata Language Theory
+3 SKS
+
+ILK1108
+Computer Architecture Organization
+2 SKS
+
+Semester 2
+add
+USU1101–USU1107
+Islam/Catholic/Protestant Christian/Hindu/Buddhist/Confucian Religion Education/Belief in Almighty God Education
+2 SKS
+
+USU1109
+Civics
+2 SKS
+
+ILK1201
+Discrete Mathematics
+3 SKS
+
+ILK1202
+Linear Algebra
+3 SKS
+
+ILK1203
+Algorithms and Programming
+3 SKS
+
+ILK1204
+Algorithms and Programming Practicum
+1 SKS
+
+ILK1205
+Probability and Statistics
+3 SKS
+
+ILK1206
+Probability and Statistics Practicum
+1 SKS
+
+ILK1207
+Operating Systems
+2 SKS
+
+Semester 3
+add
+.
+Internationalization 1
+2 SKS
+
+.
+Local Wisdom
+2 SKS
+
+ILK2101
+Algorithm Design and Analysis
+3 SKS
+
+ILK2102
+Algorithm Design and Analysis Practicum
+1 SKS
+
+ILK2103
+Numerical Computing
+2 SKS
+
+ILK2104
+Database
+3 SKS
+
+ILK2105
+Database Practicum
+1 SKS
+
+ILK2106
+Web Programming
+3 SKS
+
+ILK2107
+Web Programming Practicum
+1 SKS
+
+ILK2108
+Digital Entrepreneurship
+2 SKS
+
+Semester 4
+add
+.
+Arts and Fitness
+2 SKS
+
+ILK2201
+Artificial Intelligence
+3 SKS
+
+ILK2202
+Artificial Intelligence Practicum
+1 SKS
+
+ILK2203
+Object-Oriented Programming
+3 SKS
+
+ILK2204
+Object-Oriented Programming Practicum
+1 SKS
+
+ILK2205
+Computer Graphics
+3 SKS
+
+ILK2206
+Computer Graphics Practicum
+1 SKS
+
+ILK2207
+Management Information Systems
+2 SKS
+
+ILK2208
+Management Information Systems Practicum
+1 SKS
+
+ILK2209
+Cryptography
+3 SKS
+
+Semester 5
+add
+ILK3101
+Research Methodology
+2 SKS
+
+ILK3102
+Machine Learning
+2 SKS
+
+ILK3103
+Machine Learning Practicum
+1 SKS
+
+ILK3104
+Software Engineering
+3 SKS
+
+ILK3105
+Mobile Programming
+3 SKS
+
+ILK3106
+Mobile Programming Practicum
+1 SKS
+
+ILK3107
+Microprocessors and Embedded Systems
+2 SKS
+
+ILK3108
+Microprocessor and Embedded Systems Practicum
+1 SKS
+
+ILK3110
+Digital Forensics (MP 1)
+3 SKS
+
+ILK3111
+Game Development (MP 1)
+3 SKS
+
+ILK3112
+Robotics (MP 1)
+3 SKS
+
+Semester 6
+add
+ILK3201
+Computer Networks
+3 SKS
+
+ILK3202
+Computer Networks Practicum
+1 SKS
+
+ILK3203
+Interpersonal Skills
+3 SKS
+
+ILK3104
+Digital Image Processing
+2 SKS
+
+ILK3105
+Digital Image Processing Practicum
+1 SKS
+
+ILK3206
+Professional Ethics
+3 SKS
+
+ILK3207
+Compilation Techniques
+3 SKS
+
+ILK3208
+Compilation Techniques Practicum
+1 SKS
+
+ILK3209
+Natural Language Processing (MP 2)
+3 SKS
+
+ILK3210
+Internet of Things (MP 3)
+3 SKS
+
+ILK3211
+Ethical Hacker (MP 2)
+3 SKS
+
+Semester 7
+add
+ILK4101
+Data Mining
+3 SKS
+
+ILK4102
+Geographic Information Systems
+3 SKS
+
+ILK4103
+Geographic Information Systems Practicum
+1 SKS
+
+ILK4104
+Modeling and Simulation Techniques
+3 SKS
+
+ILK4105
+Human-Computer Interaction
+2 SKS
+
+ILK4106
+Computers and Society
+3 SKS
+
+ILK4108
+Artificial Neural Network (MP 3)
+3 SKS
+
+ILK4109
+Heuristics (MP 3)
+3 SKS
+
+ILK4110
+Network System Security (MP 3)
+3 SKS
+
+Semester 8
+add
+ILK4299
+Thesis
+6 SKS
+
+Course Schedule
+
+Alternative text - include a link to the PDF!
+
+Tuition Fee
+
+Here are the study fees Undergraduate Program in Computer Science
+Undergraduate Program
+SNBP & SNBT Pathway
+UKT Group I
+IDR 500,000
+UKT Group II
+IDR 1,000,000
+UKT Group III
+IDR 2,400,000
+UKT Group IV
+IDR 3,100,000
+UKT Group V
+IDR 4,700,000
+UKT Group VI
+IDR 5,400,000
+UKT Group VII
+IDR 7,700,000
+UKT Group VIII
+IDR 10,000,000
+Undergraduate Program
+Institutional Development Fee
+S(Independent Program Only)
+IDR 15,000,000
+One-Time Payment
+
+Learning Outcomes
+
+Graduates of the Undergraduate Program in Computer Science are capable of compiling scientific descriptions, having the competence to develop problem-solving models for both individual and organizational objectives by implementing computer science algorithms, designing and implementing computation-based solutions that follow the most recent development approaches, and evaluating the efficiency and effectiveness of the methods in solving problems from various points of view.
+
+Learning Outcomes
+1	Capable of identifying, analyzing, and applying his skills to solve challenges in the field of computer science
+2	Mastering theoretical concepts in computer science as well as theoretical concepts in special disciplines such as information retrieval systems, computer networks, robotics, and artificial intelligence.
+3	Capable of making effective decisions based on information and data analysis in the field of computer science and also providing guidance in choosing  numerous alternative solutions both independently and in groups.
+4	Capable of taking responsibility for their own work and being assigned responsibility for the accomplishment of organizational goals
+5	Capable of creating new job prospects by developing and applying entrepreneurial models based on computer science and information technology.
+FACULTY OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY
+UNIVERSITAS SUMATERA UTARA
+
+Faculty of Computer Science and Information Technology Universitas Sumatera Utara
+
+9 Universitas Road, Medan, North Sumatra, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (General enquiries or feedback)
+Sitemap
+Report
+Frequently Asked Questions
+Archive
+Website Usage Policy
+Website Copyright
+
+Copyright 2025 - Universitas Sumatera Utara

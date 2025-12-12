@@ -1,0 +1,19 @@
+visi : 'Menjadi perguruan tinggi yang memiliki keunggulan akademik sebagai barometer kemajuan ilmu pengetahuan yang mampu bersaing dalam tataran dunia global'
+misi : '1. Menyelenggarakan pendidikan tinggi berbasis otonomi yang menjadi wadah bagi pengembangan karakter dan profesionalisme sumber daya manusia yang didasarkan pada pemberdayaan yang mengandung semangat demokratisasi pendidikan yang mengakui kemajemukan dengan orientasi pendidikan yang menekankan pada aspek pencarian alternatif penyelesaian masalah aktual berlandaskan kajian ilmiah, moral, dan hati nurani;
+
+2. Menghasilkan lulusan yang menjadi pelaku perubahan sebagai kekuatan modernisasi dalam kehidupan masyarakat luas, yang memiliki kompetensi keilmuan, relevansi dan daya saing yang kuat, serta berperilaku kecendikiawanan yang beretika; dan
+
+3. Melaksanakan, mengembangkan, dan meningkatkan pendidikan, budaya penelitian dan program pengabdian masyarakat dalam rangka peningkatan kualitas akademik dengan mengembangkan ilmu yang unggul, yang bermanfaat bagi perubahan kehidupan masyarakat luas yang lebih baik.'
+
+lokasi kampus : '1. Kampus Padang Bulan: Jalan Dr. T. Mansur No. 9, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222
+2. Kampus Kwala Bekala: Durin Tunggal, Kec. Pancur Batu, Kabupaten Deli Serdang, Sumatera Utara 20353
+3. Kampus Nias Utara: Jl. Omasio, Lawira Satua, Kecamatan Lotu, Kabupaten Nias Utara, 22856'
+
+nomor telepon: '082168889060'
+
+e-mail: 'info@usu.ac.id'
+
+akreditasi kampus: 'Akreditasi Unggul'
+
+keterangan akreditasi kampus: 'Berlaku sejak 28 Februari 2023 sampai dengan 28 Februari 2028'
+

@@ -1,0 +1,124 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+Membangun Fondasi untuk Masa Depan yang Digital
+Sarjana Teknologi Informasi
+Informasi Umum
+Tentang Prodi
+Akademik
+Penelitian & Pengabdian
+Alumni
+Kegiatan
+SDGs
+
+Program Studi S-1 Teknologi Informasi berfokus pada pengembangan keilmuan di bidang Data Science dan Intelligent System untuk menghasilkan lulusan yang unggul dan profesional dengan daya saing global. Program studi menyelenggarakan pendidikan yang membekali mahasiswa dengan kompetensi akademik, keterampilan teknis, serta pemahaman etika dan tanggung jawab profesional dalam penerapan teknologi informasi. Kurikulum dirancang untuk memberikan dasar yang kuat dalam teknologi informasi, analisis data, kecerdasan buatan, keamanan server dan jaringan, pengelolaan infrastruktur teknologi informasi, serta aspek multi disiplin yang mendukung pengembangan solusi komputasi berbasis data. Mahasiswa juga dibekali dengan keterampilan kerja sama tim, komunikasi efektif, dan adaptasi terhadap perkembangan teknologi. Dalam bidang penelitian, program studi mendorong pengembangan inovasi berbasis data dan kecerdasan buatan yang relevan dengan kebutuhan industri dan masyarakat. Selain itu, program studi aktif dalam kegiatan pengabdian kepada masyarakat melalui penerapan hasil riset untuk meningkatkan literasi informasi dan solusi berbasis teknologi.
+
+Lulusan program studi Teknologi Informasi memiliki kompetensi dalam menerapkan teori dan praktik teknologi informasi secara sistematis, mengembangkan solusi komputasi berbasis data, menjalin kolaborasi multidisiplin, serta membangun kewirausahaan berbasis teknologi informasi.
+
+Sejarah
+
+2007
+
+Proposal pendirian Program Studi (S-1) Teknologi Informasi diajukan pada awal tahun 2007 dengan tujuan untuk menambah satu program studi lagi yang berada di lingkungan disiplin komputasi, di samping Program Studi Ilmu Komputer (S-1) yang telah didirikan sebelumnya pada tahun 2002. Namun, pada masa itu, dalam aturan nomenklatur Direktorat Jenderal Pendidikan Tinggi (Dikti) nama Program Studi Teknologi Informasi belum dikenal. Program studi ini masih dikacaukan dengan nama program studi yang dikenal pada masa itu dengan nama Program Studi Teknik Informatika (Informatics), yang sebenarnya adalah nama lain dari Program Studi Ilmu Komputer (Computer Science). Setelah melalui diskusi dengan pihak Dirjen Dikti, akhirnya keluarlah surat keputusan pendirian program studi dimaksud, tetapi dengan nama Program Studi Teknik Perangkat Lunak Strata-1 (S-1). Dengan demikian, Program Studi Teknik Perangkat Lunak (S-1) secara resmi didirikan pada tahun 2007. Melalui SK Dikti No. 1629/D/T/2007 tanggal 16 Juli 2007. Pada masa awal pembukaannya, program studi ini dikelola di bawah Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Sumatera Utara (FMIPA USU). Pada tahun 2007 akhir, keluarlah Surat Keputusan Dirjen Dikti No. 163/KEP/DIKTI/2007 tertanggal 27 November 2007 tentang Penataan dan Kodifikasi Program Studi pada Perguruan Tinggi. Penamaan program studi (S-1) bidang komputer adalah sebagai berikut: 1. Teknik Informatika (S-1); 2. Sistem Komputer (S-1); dan 3. Sistem Informasi (S-1) Dalam sistem penamaan ini, terlihat bahwa tidak ada tempat untuk Program Studi S-1 Ilmu Komputer dan Teknik Perangkat Lunak. Oleh karena itu, USU mengambil kebijakan untuk menyesuaikan penamaan kedua program studi ini menjadi S-1 Sistem Informasi dan S-1 Teknik Informatika.
+
+2010
+
+Namun, sistem penamaan yang diajukan oleh Dirjen DIKTI tersebut mendapat tantangan dari berbagai perguruan tinggi, khususnya yang memiliki program studi bidang komputer disebabkan kontroversi yang timbul karena banyaknya program studi yang tidak terakomodasi dalam sistem penamaan yang baru tersebut. Asosiasi Perguruan Tinggi Informatika dan Komputer (APTIKOM) akhirnya ikut menyelesaikan persoalan ini dengan mengajukan sistem penamaan dan penataan program studi bidang informatika dan komputer. Hasilnya adalah Surat Edaran Dirjen DIKTI No. 1030/D/T/2010 tentang Penataan Nomenklatur Program Studi Psikologi, Komunikasi, Komputer, dan Lanskap.
+
+arrow_back_ios_new arrow_forward_ios
+
+Visi & Misi
+
+Visi
+remove
+
+Menjadi Program Studi yang unggul dan professional dalam pengembangan ilmu pengetahuan bidang Teknologi Informasi dengan penekanan pada Data Science dan Intelligent System untuk menghasilkan lulusan yang memiliki daya kompetisi global.
+
+Misi
+remove
+Menyelenggarakan Pendidikan yang memiliki kompetensi akademik unggul dan professional pada penguasaan bidang Teknologi Informasi yang dikhususkan pada bidang Data Science dan Intelligent System.
+Menyelenggarakan dan mengembangkan penelitian dan desiminasi hasil penelitian melalui publikasi ilmiah yang terencana, inovatif dan berkualitas sesuai dengan perkembangan global pada bidang Data Science dan Intelligent System.
+Meningkatkan literasi informasi pada masyarakat melalui kegiatan penerapan hasil penelitian, pengabdian, dan kerjasama kepada elemen-elemen masyarakat.
+Meningkatkan kerjasama dan kolaborasi berbagai bidang multidisiplin dan multikultural dengan penerapan Tri Dharma Perguruan Tinggi.
+
+Tujuan & Sasaran
+
+Tujuan
+remove
+Melaksanakan Kurikulum Berbasis Kompetensi sesuai dengan Profil Lulusan untuk peningkatan kualitas manajemen pembelajaran inovatif pada Program Studi Teknologi Informasi khususnya pada bidang Data Science dan Intelligent System.
+Menghasilkan lulusan yang professional, bertakwa, inovatif, tangguh, memiliki kompetensi, berbudaya meneliti, berprestasi, memiliki daya saing kemampuan kompetitif dalam bidang Teknologi Informasi pada taraf nasional maupun internasional.
+Menghasilkan penelitian yang inovatif, mengikuti perkembangan teknologi, berbasis kemasyarakatan dan beretika keilmuan yang baik dari segi kualitas maupun kuantitas serta terdesiminasi melalui karya ilmiah baik secara nasional maupun internasional dikhususkan pada bidang Data Science dan Intelligent System.
+Menghasilkan Penelitian yang mengangkat potensi lokal yang berkaitan dengan budaya dan sejarah yang dikemas dalam bentuk teknologi informasi dan disebarluaskan melalui karya tulis ilmiah baik secara nasional maupun internasional.
+Menyelenggarakan pelayanan, kegiatan pengabdian, dan kerja sama dengan masyarakat ilmu dalam lingkup internasional, universitas, pemerintah, swasta dan masyarakat melalui pemanfaatan laboratorium penelitian, penyaluran literasi keilmuan, penyelesaian masalah masyarakat secara berkesinambungan di bidang ilmu Data Science dan Intelligent System.
+Menyelenggarakan pengabdian masyarakat di bidang teknologi informasi yang dapat meningkatkan pengetahuan dan membuka peluang usaha bagi masyarakat.
+Meningkatkan kerja sama kelembagaan Program Studi di bidang Pendidikan di tingkat nasional dan internasional.
+Meningkatkan kerja sama kelembagaan Program Studi di bidang Penelitian di tingkat nasional dan internasional.
+Meningkatkan kerja sama kelembagaan Program Studi di bidang Pengabdian kepada Masyarakat di tingkat nasional dan internasional.
+
+Struktur Organisasi
+
+Dedy Arisandi S.T., M.Kom.
+Ketua Program Studi S1 Teknologi Informasi
+Dr. Erna Budhiarti Nababan M.IT
+Ketua Program Studi S2 Sains Data Dan Kecerdasan Buatan
+Dr. Baihaqi Siregar S.Si., M.T.
+Ivan Jaya S.Si., M.Kom.
+Ainul Hizriadi S.Kom., M.Sc
+Ulfi Andayani S.Kom., M.Kom
+Mohammad Fadly Syah Putra M.Sc
+Dani Gunawan S.T., M.T.
+Umaya Ramadhani Putri Nasution S.TI., M.Kom.
+Fahrurrozi Lubis B.IT., M.Sc.IT
+Annisa Fadhillah Pulungan S.Kom., M.Kom
+Rossy Nurhasanah S.Kom., M.Kom
+Muhammad Safri Lubis S.T., M.Com.
+Ade Sarah Huzaifah S.Kom., M.Kom
+Rendra Mahardika M.Kom
+Lia Silviana M.Kom
+Seniman S.Kom., M.Kom.
+Fanindia Purnamasari S.TI., M.IT
+Prof. Dr. Romi Fadillah Rahmat B.Comp.Sc., M.Sc.
+Sarah Purnamawati S.T., M.Sc.
+
+Organisasi Mahasiswa
+
+HIMATIF
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara

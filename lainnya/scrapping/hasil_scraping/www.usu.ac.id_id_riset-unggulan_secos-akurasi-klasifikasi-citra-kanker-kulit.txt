@@ -1,0 +1,114 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+SECoS, Akurasi Klasifikasi Citra Kanker Kulit
+SECoS, Akurasi Klasifikasi Citra Kanker Kulit
+Diterbitkan Pada
+16 Juli 2024
+Diterbitkan Oleh
+Suherman
+SECoS, Akurasi Klasifikasi Citra Kanker Kulit
+ 
+
+Diterbitkan oleh
+
+Suherman
+
+Diterbitkan pada
+
+Selasa, 16 Juli 2024
+
+“SECoS memiliki performa terbaik dibandingkan metode lain seperti probabilistic neural network (PNN) dan support vector machine (SVM) dalam hal false negative,” jelas Bapak Suherman, S.T., M.Comp., Ph.D. Oleh karena itu, terbukti bahwa SECoS lebih kuat dalam menghadapi perubahan pola kesalahan dan variasi data input.
+
+Kanker kulit menjadi salah satu penyakit kanker yang banyak terjadi di berbagai negara di dunia. Kanker kulit sendiri memberikan tingkat kematian yang cukup tinggi, di mana berdasarkan data dari American Cancer Society, tingkat kematian akibat kanker kulit mencapai 10% per tahunnya. Sementara itu, jumlah pasien yang terkena kanker kulit terus meningkat setiap tahunnya. Oleh karena itu, deteksi dan pemeriksaan dini sangat penting untuk menentukan pengobatan yang tepat terhadap penyakit mematikan ini. Namun, studi klasifikasi pada citra kanker kulit masih menghadapi tantangan besar dalam hal prediksi akurasi, terutama terkait dengan ekstraksi fitur tingkat rendah yang kurang memiliki makna klinis.
+
+Maka, Bapak Al-Khowarizmi, S.Kom., M.Kom., berkolaborasi dengan Bapak Suherman, S.T., M.Comp., Ph.D., berupaya untuk melakukan klasifikasi citra kanker kulit dengan menerapkan sistem koneksivitas sederhana.
+
+Lebih lanjut, Bapak Suherman, S.T., M.Comp., Ph.D., mengatakan, “Klasifikasi adalah salah satu algoritma data mining yang bertujuan untuk memungkinkan komputer atau prosesor melakukan pembelajaran dengan metode dan algoritma yang sesuai dengan konsep machine learning, melalui klasifikasi dengan memanfaatkan data training dan testing berupa teks, gambar, dan video. Sedangkan, penggunaan algoritma data mining mampu menganalisis dataset yang kompleks dan memprediksi data baru tanpa membuat asumsi umum tentang distribusi data,” pungkasnya.
+
+Saat ini, banyak peneliti mengklasifikasikan citra kanker kulit melalui penggunaan klasifikasi sederhana seperti support vector machine (SVM).
+
+“Memang sudah ada penelitian terkait citra kanker kulit ini. Namun, masih menggunakan support vector machine (SVM) ataupun neural network, dan decision tree yang kita tahu bahwa model-model pengklasifikasian ini mungkin memiliki masalah utama karena sulitnya menangani dataset yang besar sehingga sering memperoleh klasifikasi variasi pola yang salah. Selain itu, ke depannya kita juga sangat perlu untuk klasifikasi dari dataset yang lebih kompleks secara efisien,” jelas Bapak Suherman, S.T., M.Comp., Ph.D.
+
+Oleh karena itu, salah satu metode yang terbukti efektif dalam mengatasi tantangan ini adalah Simple Evolving Connectionist System (SECoS) yang juga dikenal sebagai evolved multilayer perceptron (eMLP). “SECoS memiliki kemampuan untuk meramalkan pola data yang besar dan sangat kuat dalam memproses dataset yang kaya,” jelas Bapak Suherman, S.T., M.Comp., Ph.D.
+
+SECoS merupakan salah satu teknik klasifikasi data mining yang mengenali data berdasarkan data testing dan data training yang mengikat. SECoS memiliki tiga lapisan, yaitu lapisan input, hidden, dan output. Lapisan input memproses data mentah, lapisan tersembunyi menghitung metode SECoS secara evolusioner, dan lapisan output memberikan nilai klasifikasi.
+
+Bapak Al-Khawarizmi, S.Kom., M.Kom., bersama tim melakukan proses klasifikasi menggunakan SECoS yang dimulai dari tahapan pengumpulan dataset citra tahi lalat kulit ganas dan jinak. Proses ini mencakup konversi citra ke grayscale dan ekstraksi fitur Histogram of Oriented Gradients (HOG). Citra HOG yang dihasilkan kemudian dimasukkan ke dalam SECoS untuk pelatihan dan pengujian.
+
+Berbuah manis, hasil penelitian yang dilakukan oleh Bapak Al-Khawarizmi, S.Kom., M.Kom., dan Bapak Suherman, S.T., M.Comp., Ph.D., menunjukkan bahwa SECoS mampu menghasilkan Minimum Absolute Percentage Error (MAPE) yang lebih rendah dibandingkan metode lain. “SECoS memiliki performa terbaik dibandingkan metode lain seperti probabilistic neural network (PNN) dan support vector machine (SVM) dalam hal false negative,” jelas Bapak Suherman, S.T., M.Comp., Ph.D. Oleh karena itu, terbukti bahwa SECoS lebih kuat dalam menghadapi perubahan pola kesalahan dan variasi data input.
+
+Penelitian yang telah dilakukan membuktikan bahwa SECoS merupakan metode yang efektif untuk klasifikasi citra kanker kulit. Dengan melakukan ekstraksi fitur yang tepat dan memanfaatkan prinsip evolusioner, SECoS dapat meningkatkan akurasi dan adaptivitas dalam proses klasifikasi. Penelitian lebih lanjut dan penerapan metode ini di berbagai bidang dapat membuka peluang baru dalam diagnostik medis dan analisis data yang kompleks.
+
+SDGs
+SDGs 3
+Detail Paper
+Jurnal
+IAES International Journal of Artificial Intelligence (IJ-AI)
+Judul
+Classification of skin cancer images by applying simple evolving connectionist system
+Penulis
+Al-Khowarizmi, Suherman
+Afiliasi Penulis
+Departemen Teknologi Informasi, Universitas Muhammadiyah Sumatera Utara, Indonesia
+Departemen Teknik Elektro, Universitas Sumatera Utara, Indonesia
+DOI
+https://doi.org/10.11591/ijai.v10.i2.pp421-429
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

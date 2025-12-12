@@ -1,0 +1,120 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Efisiensi Energi Surya Untuk Masa Depan
+Efisiensi Energi Surya untuk Masa Depan
+Diterbitkan Pada
+04 Maret 2025
+Diterbitkan Oleh
+Zikri Noer
+Efisiensi Energi Surya untuk Masa Depan
+ 
+
+Diterbitkan oleh
+
+Zikri Noer
+
+Diterbitkan pada
+
+Selasa, 04 Maret 2025
+
+Penelitian inovatif ini mengungkap bagaimana kombinasi reflektor surya yang dapat disesuaikan, pendinginan pasif, dan teknologi IoT mampu meningkatkan efisiensi panel surya hingga 51,65%. Dengan pendekatan ini, energi surya menjadi lebih andal, hemat biaya, dan siap mendukung transisi menuju energi hijau.
+
+Di era modern ini, kebutuhan akan energi semakin meningkat seiring dengan perkembangan teknologi dan industri. Namun, ketergantungan yang tinggi terhadap bahan bakar fosil menimbulkan dampak lingkungan yang serius, seperti pemanasan global dan pencemaran udara. Oleh karena itu, energi terbarukan menjadi solusi utama untuk memenuhi kebutuhan energi masa depan secara berkelanjutan. Salah satu sumber energi terbarukan yang paling potensial adalah energi surya, yang melimpah di daerah khatulistiwa dan dapat dimanfaatkan sepanjang tahun. Sayangnya, efisiensi panel surya masih menjadi tantangan utama dalam penggunaannya. Berbagai faktor seperti sudut penyerapan cahaya, suhu panel, dan perubahan cuaca dapat memengaruhi jumlah energi yang dapat dikonversi menjadi listrik.
+
+Keinginan untuk menemukan solusi atas masalah ini mendorong peneliti Zikri Noer (Universitas Sumatera Utara) bersama Abdullah, Maharani Putri, Muhammad Syahruddin, Nobert Sitorus, Cholish, dan Priansus Rhein Rumahorbo (Politeknik Negeri Medan), Abdul Kadir Jumaat dan Abdul Rahim Ridzuan (Universiti Teknologi MARA), Masthura (Universitas Islam Sumatera Utara), serta Malik Abdul Karim (Universiti Teknologi Petronas) untuk mengusulkan metode optimasi menggunakan reflektor surya yang dapat disesuaikan dan pendinginan pasif melalui pemantauan berbasis Internet of Things (IoT). Dengan pendekatan ini, efisiensi panel surya dapat meningkat secara signifikan, menjadikannya sumber energi yang lebih andal.
+
+“Dalam sistem pembangkit listrik tenaga surya, optimalisasi adalah kunci utama untuk meningkatkan efisiensi dan produktivitas. Studi terbaru menunjukkan bahwa kombinasi reflektor yang dapat disesuaikan dengan sudut matahari dan sistem pendinginan pasif dapat meningkatkan daya keluaran panel surya hingga lebih dari 50%,” tutur Zikri.
+
+Hal ini menunjukkan bahwa inovasi teknologi dapat membuat energi surya menjadi solusi yang lebih efisien. Optimalisasi ini dilakukan melalui penyesuaian sudut reflektor surya, yang memastikan bahwa cahaya matahari yang diterima panel berada pada tingkat optimal, serta sistem pendinginan pasif yang menjaga suhu panel tetap dalam kondisi ideal untuk menghasilkan energi maksimal. Selain itu, penggunaan IoT memungkinkan pemantauan dan penyesuaian sistem secara real-time, menjadikannya lebih adaptif terhadap perubahan lingkungan dan lebih mudah dikelola dari jarak jauh.
+
+Reflektor surya memiliki peran penting dalam meningkatkan efisiensi panel surya dengan cara memantulkan sinar matahari ke arah panel sehingga lebih banyak cahaya yang diserap. Dalam penelitian ini, reflektor dipasang dengan sudut yang dapat disesuaikan secara otomatis menggunakan motor yang dikendalikan oleh sensor cahaya dan IoT. Hasil penelitian menunjukkan bahwa sudut reflektor yang paling optimal adalah 30 derajat, dengan peningkatan daya keluaran sebesar 34% dibandingkan dengan panel tanpa reflektor. Sebaliknya, sudut lebih dari 60 derajat justru menyebabkan refleksi cahaya yang kurang efektif dan mengurangi daya yang dihasilkan. Oleh karena itu, sistem otomatisasi yang dapat menyesuaikan reflektor berdasarkan posisi matahari menjadi solusi yang sangat efektif untuk meningkatkan efisiensi.
+
+Namun, pengoptimalan sudut reflektor saja belum cukup. Salah satu tantangan utama dalam penggunaan panel surya adalah peningkatan suhu yang dapat menyebabkan penurunan efisiensi konversi energi. Ketika suhu panel meningkat, daya yang dihasilkan dapat berkurang secara signifikan. Oleh karena itu, penelitian ini mengembangkan sistem pendinginan pasif yang dirancang untuk menjaga suhu panel tetap stabil. Metode pendinginan pasif yang digunakan mencakup heatsink dan cooling block yang dipasang di belakang panel untuk menyerap panas, penggunaan bahan termal konduktif untuk membantu mengalirkan panas menjauh dari panel, serta distribusi panas yang lebih baik melalui desain aerodinamis pada permukaan pendingin. Data eksperimen menunjukkan bahwa panel dengan pendinginan pasif memiliki suhu 4,7°C lebih rendah dibandingkan panel tanpa pendinginan, yang secara signifikan meningkatkan efisiensi konversi energi.
+
+Tak hanya itu, penerapan IoT dalam sistem energi surya menjadi salah satu inovasi paling menarik dalam penelitian ini. Dengan memanfaatkan sensor dan konektivitas berbasis internet, pemilik sistem dapat memantau performa panel surya secara real-time melalui smartphone atau laptop, menyesuaikan sudut reflektor secara otomatis berdasarkan intensitas cahaya matahari, mengontrol sistem pendinginan untuk menjaga efisiensi optimal, serta menganalisis data cuaca dan membuat prediksi untuk mengoptimalkan produksi energi.
+
+“Sistem ini menggunakan Arduino Mega dan ESP32 sebagai pengendali utama, serta aplikasi berbasis Blynk untuk menampilkan data dan memberikan kontrol penuh kepada pengguna. Dengan adanya IoT, panel surya tidak hanya lebih efisien tetapi juga lebih mudah dikendalikan dan dioptimalkan sesuai dengan kondisi lingkungan,” jelas Zikri.
+
+Hasil dari implementasi sistem optimasi ini sangat signifikan. Uji coba menunjukkan bahwa panel dengan reflektor variabel dan sistem pendinginan pasif menghasilkan daya 158,19 W, sedangkan panel tanpa sistem optimasi hanya menghasilkan daya 104,31 W. Dengan peningkatan daya hingga 51,65%, ini merupakan pencapaian luar biasa dalam teknologi energi surya dan membuktikan bahwa inovasi ini dapat diterapkan secara luas untuk meningkatkan pemanfaatan energi terbarukan.
+
+Penelitian yang dipublikasikan dalam rumah jurnal Semarak Ilmu ini membuktikan bahwa dengan kombinasi reflektor surya yang dapat disesuaikan, pendinginan pasif, dan teknologi IoT, efisiensi panel surya dapat meningkat secara signifikan. Peningkatan daya hingga 51,65% membuka peluang besar untuk pengembangan sistem energi surya yang lebih andal dan hemat biaya. Implikasi dari penelitian ini mencakup penerapan dalam skala industri dan rumah tangga untuk meningkatkan penggunaan energi terbarukan, mengurangi ketergantungan pada bahan bakar fosil, serta mendukung transisi menuju energi hijau. Pengembangan lebih lanjut dengan kecerdasan buatan (AI) dan prediksi cuaca juga dapat dilakukan untuk optimasi yang lebih canggih.
+
+“Ke depannya, penelitian dapat difokuskan pada integrasi kecerdasan buatan (AI) untuk meningkatkan akurasi prediksi sudut reflektor serta penggunaan material pendingin inovatif seperti phase change materials (PCM) untuk mengoptimalkan manajemen termal panel surya,” tutup Zikri.
+
+SDGs
+SDGs 13
+Detail Paper
+Jurnal
+Journal of Advanced Research in Fluid Mechanics and Thermal Sciences (ARFMTS)
+Judul
+Optimization of Solar Power Plant with Variation of Solar Reflector Angles and Use of Passive Cooling Integrated Internet of Things
+Penulis
+Abdullah (1), Maharani Putri (1), Muhammad Syahruddin (1), Nobert Sitorus (1), Abdul Kadir Jumaat (2), Abdul Rahim Ridzuan (3), Cholish (1), Priansus Rhein Rumahorbo (1), Zikri Noer (4), Masthura (5), Malik Abdul Karim (6)
+Afiliasi Penulis
+Departemen Teknik Elektro, Politeknik Negeri Medan, Medan, Sumatera Utara 20155, Indonesia
+Faculty of Computer and Mathematical Science, Universiti Teknologi MARA, 40450 Shah Alam, Selangor, Malaysia
+Faculty of Business and Management, Universiti Teknologi MARA, 40450 Shah Alam, Selangor, Malaysia
+Program Studi D4 Fisika, Fakultas Vokasi, Universitas Sumatera Utara, Medan, Sumatera Utara 20155, Indonesia
+Departemen Fisika, Universitas Islam Negeri Sumatera Utara, Sumatera Utara 20371, Indonesia
+Mechanical Engineering, Faculty of Engineering, Universiti Teknologi Petronas, Bandar Seri Iskandar, 32610 Seri Iskandar, Perak, Malaysia
+DOI
+https://doi.org/10.37934/arfmts.124.1.233248
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

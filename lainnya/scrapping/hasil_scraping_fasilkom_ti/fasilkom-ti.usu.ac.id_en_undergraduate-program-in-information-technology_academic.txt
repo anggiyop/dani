@@ -1,0 +1,435 @@
+USU Official
+Prospective Students
+Students
+Alumni & Careers
+Lecturers & Staff
+International Visitors
+Media & Partners
+Services
+Accreditation & Achievements
+Virtual Gallery
+EN
+expand_more
+Faculty of Computer Science and Information Technology
+Universitas Sumatera Utara
+About Us
+Education
+Research
+Community Service
+News
+E-Magazine
+Faculty News
+Faculty Agenda
+Faculty Announcement
+Faculty Article
+PPID Executive
+
+Building the Foundation for a Digital Future
+Undergraduate Program in Information Technology
+General Information
+About
+Academic
+Research & Service
+Alumni
+Activities
+SDGs
+
+Learn more about various concentrations, explore the Curriculum adjust your Course Schedule to fit your time, know the required Tuition Fees, and understand the expected learning outcomes All the information you need to start your academic journey is here.
+
+Curriculum
+
+The following is a complete list of courses that will be taken in each semester.
+
+Rector's Decreen & Dean's Decree
+Course Code :
+All
+expand_more
+Search Courses
+search
+Semester 1
+add
+USU1108
+Pancasila Education
+2 SKS
+
+USU1110
+Indonesian Language
+2 SKS
+
+MAT1101
+Basic Mathematics
+3 SKS
+
+TIF1101
+Introduction to Information Technology
+3 SKS
+
+TIF1102
+Computer Organization and Architecture
+2 SKS
+
+TIF1103
+Basics of Programming
+3 SKS
+
+TIF1104
+Basics of Programming Practicum
+1 SKS
+
+TIF1105
+Web Programming
+3 SKS
+
+TIF1106
+Web Programming Practicum
+1 SKS
+
+Semester 2
+add
+USU1109
+Civics
+2 SKS
+
+USU1101
+Islam Religion Education
+2 SKS
+
+USU1102
+Protestant Christian Religion Education
+2 SKS
+
+USU1103
+Catholic Religion Education
+2 SKS
+
+USU1104
+Hindu Religion Education
+2 SKS
+
+USU1105
+Buddhist Religion Education
+2 SKS
+
+USU1106
+Confucian Religion Education
+2 SKS
+
+USU1107
+Belief in Almighty God Education
+2 SKS
+
+TIF1201
+Object-Oriented Programming
+3 SKS
+
+TIF1202
+Object-Oriented Programming Practicum
+1 SKS
+
+TIF1203
+Advanced Web Programming
+3 SKS
+
+TIF1204
+Advanced Web Programming Practicum
+1 SKS
+
+TIF1205
+Database System
+3 SKS
+
+TIF1206
+Database System Practicum
+1 SKS
+
+TIF1207
+Data Structures and Algorithms
+3 SKS
+
+TIF1208
+Data Structures and Algorithms Practicum
+1 SKS
+
+Semester 3
+add
+.
+Internationalization 1
+2 SKS
+
+TIF2101
+Discrete Mathematics
+3 SKS
+
+TIF2102
+Data Communication and Computer Networks
+2 SKS
+
+TIF2103
+Data Communication and Computer Networks Practicum
+1 SKS
+
+TIF2104
+Database System Management
+3 SKS
+
+TIF2105
+Database System Management Practicum
+1 SKS
+
+TIF2106
+Advanced Object-Oriented Programming
+3 SKS
+
+TIF2107
+Advanced Object-Oriented Programming Practicum
+1 SKS
+
+TIF2108
+Semantic Web
+3 SKS
+
+TIF2109
+Semantic Web Practicum
+1 SKS
+
+Semester 4
+add
+.
+Internationalization 2
+2 SKS
+
+TIF2201
+System Analysis and Design
+3 SKS
+
+TIF2202
+Information Assurance and Security
+2 SKS
+
+TIF2203
+Operating Systems
+2 SKS
+
+TIF2204
+Human-Computer Interaction
+3 SKS
+
+TIF2205
+Human-Computer Interaction Practicum
+1 SKS
+
+TIF2206
+Artificial Intelligence
+2 SKS
+
+TIF2207
+Artificial Intelligence Practicum
+1 SKS
+
+TIF2208
+Server and Network Security
+3 SKS
+
+TIF2209
+Server and Network Security Practicum
+1 SKS
+
+Semester 5
+add
+.
+Arts and Fitness
+2 SKS
+
+.
+Local Wisdom
+2 SKS
+
+TIF3101
+Network Administration and Design
+2 SKS
+
+TIF3102
+Network Administration and Design Practicum
+1 SKS
+
+TIF3103
+Interaction Design
+2 SKS
+
+TIF3104
+Interaction Design Practicum
+1 SKS
+
+TIF3105
+Big Data Fundamentals
+3 SKS
+
+TIF3106
+Mobile Programming
+3 SKS
+
+TIF3107
+Mobile Programming Practicum
+1 SKS
+
+.
+Elective Course I
+2 SKS
+
+.
+Elective Practicum Course I
+1 SKS
+
+Semester 6
+add
+TIF3201
+Research Methodology
+3 SKS
+
+TIF3202
+Professional Ethics
+2 SKS
+
+TIF3203
+Probability and Statistics
+2 SKS
+
+TIF3204
+Data Warehouse and Business Intelligence
+3 SKS
+
+TIF3205
+Integrative Programming
+3 SKS
+
+TIF3206
+Integrative Programming Practicum
+1 SKS
+
+TIF3207
+Network Routing
+2 SKS
+
+TIF3208
+Network Routing Practicum
+1 SKS
+
+.
+Elective Course II
+2 SKS
+
+.
+Elective Practicum Course II
+1 SKS
+
+Semester 7
+add
+TIF4101
+Cyber Security Management
+3 SKS
+
+TIF4102
+Enterprise Software Development
+2 SKS
+
+TIF4103
+Practical Work/Internship
+2 SKS
+
+TIF4104
+IT-Preneurship
+3 SKS
+
+TIF4105
+Presentation and Communication Skills
+2 SKS
+
+TIF4106
+IT Project Management
+3 SKS
+
+TIF4107
+Organizational Behavior
+2 SKS
+
+.
+Elective Course III
+2 SKS
+
+.
+Elective Practicum Course III
+1 SKS
+
+Semester 8
+add
+TIF4299
+Final Assignment
+6 SKS
+
+Course Schedule
+
+Alternative text - include a link to the PDF!
+
+Tuition Fee
+
+Here are the study fees Undergraduate Program in Information Technology
+Undergraduate Program
+SNBP & SNBT Pathway
+UKT Group I
+IDR 500,000
+UKT Group II
+IDR 1,000,000
+UKT Group III
+IDR 2,400,000
+UKT Group IV
+IDR 3,100,000
+UKT Group V
+IDR 4,700,000
+UKT Group VI
+IDR 5,400,000
+UKT Group VII
+IDR 7,700,000
+UKT Group VIII
+IDR 10,000,000
+Undergraduate Program
+Institutional Development Fee
+S(Independent Program Only)
+IDR 15,000,000
+One-Time Payment
+Undergraduate Program
+International Mandiri Pathway
+IDR 37,500,000
+Per student for 1 semester
+
+Learning Outcomes
+
+Information Technology graduates are able to adapt to innovative Information Technology developments and make decisions on issues in the Information Technology field by identifying and analyzing computational requirements based on the results of a comprehensive analysis of information and data. Using current methodologies, techniques, expertise, tools, and techniques, identifying, analyzing, designing, implementing, and managing problems related to the application of Information Technology. This is done by integrating knowledge related to information technology and computer principles, using effective and efficient algorithms or methods. Maintaining BINTANG values and standards while improving the quality of life of the nation and state.
+
+Learning Outcomes
+1	Capable of maintaining an attitude of upholding principles and norms in carrying out responsibilities to improve the nation's and state's quality of life
+2	Capable of applying BINTANG values (Fearing God Almighty in the framework of diversity, Innovative with integrity, Tough and Wise)
+3	Capable of using logical, analytical, and systematic thinking to fulfill the demands of individuals or organizations and adapting to the development of innovative and fast-moving information technology.
+4	Capable of communicating effectively and responsibly to professionals and the general public, both orally and in writing, in transmitting or presenting ideas and well-organized research results.
+5	Capable of applying the spirit of responsible leadership, teamwork, entrepreneurship, and independence and collaborating in multidisciplinary and multi-cultural work groups.
+6	Capable of making appropriate decisions in the framework of problem-solving in their field of competence based on the outcomes of information and data analysis and effective communication procedures
+7	Capable of identifying, analyzing, designing, implementing, and managing the application of information technology using the most recent approaches, techniques, expertise, and tools.
+8	Capable of implementing intelligent systems and data science in a specific platform environment to resolve real-world problems using information technology aspects
+9	Capable of solving problems by combining qualified knowledge of the functioning principles of information technology and computers with effective and efficient algorithms or methods
+
+FACULTY OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY
+UNIVERSITAS SUMATERA UTARA
+
+Faculty of Computer Science and Information Technology Universitas Sumatera Utara
+
+9 Universitas Road, Medan, North Sumatra, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (General enquiries or feedback)
+Sitemap
+Report
+Frequently Asked Questions
+Archive
+Website Usage Policy
+Website Copyright
+
+Copyright 2025 - Universitas Sumatera Utara

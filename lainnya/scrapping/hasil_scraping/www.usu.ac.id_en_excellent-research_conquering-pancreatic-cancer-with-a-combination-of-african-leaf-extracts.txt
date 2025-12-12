@@ -1,0 +1,119 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Conquering Pancreatic Cancer With A Combination Of African Leaf Extracts
+Conquering Pancreatic Cancer with a Combination of African Leaf Extracts
+Published At
+09 September 2024
+Published By
+Prof. Dr. Poppy Anjelisa Zaitun Hasibuan S.Si., M.Si., Apt
+Conquering Pancreatic Cancer with a Combination of African Leaf Extracts
+ 
+
+Published by
+
+Prof. Dr. Poppy Anjelisa Zaitun Hasibuan S.Si., M.Si., Apt
+
+Published at
+
+Monday, 09 September 2024
+
+Recent research from the Universitas Sumatera Utara shows the potential of a combination of African leaf extract and gemcitabine in inhibiting pancreatic cancer cell growth. These findings provide new hope in cancer treatment with a focus on reducing cancer cell migration and invasion.
+
+Behind every grim statistic about pancreatic cancer, there are thousands of untold stories. This cancer is known as one of the deadliest diseases, with a very low survival rate and high mortality rate. In the United States alone, over 49,830 people were projected to die from pancreatic cancer in 2022. Although advancements in cancer treatment have been significant in recent decades, therapies for pancreatic cancer, especially gemcitabine, often offer limited hope. This disease is notoriously hard to treat, with treatment options that, until now, have not provided the miracles that many patients and their families hope for.
+
+However, amidst the bleak statistics and medical facts, there is always a glimmer of hope. Sometimes, this hope emerges from unexpected places, like the leaves of a wild plant thriving in the African soil. This is where the story of the African leaf (Vernonia amygdalina), commonly known as "bitter leaf," begins. This plant, long used in traditional medicine to address various ailments, is now attracting the attention of researchers as a potential candidate in the fight against cancer.
+
+Recent research conducted by Prof. Poppy Anjelisa Zaitun Hasibuan, Jane Melita Keliat, Muhammad Fauzan Lubis, and Annisa Nasution from Universitas Sumatera Utara, Indonesia, aimed to examine the synergistic effects of ethyl acetate extract from African leaves when combined with gemcitabine on PANC-1 pancreatic cancer cells. The focus of this research was not only on the ability of this combination to kill cancer cells but also on how this combination could inhibit the cancer cells' ability to migrate and invade healthy tissue, two critical aspects of cancer spread.
+
+"Why is this combination important? While gemcitabine is one of the first-line treatments for pancreatic cancer, it often faces challenges in its effectiveness. Many patients who initially respond well eventually relapse, where their cancer becomes resistant to the treatment," explained Prof. Poppy Anjelisa.
+
+Therefore, there is an urgent need to find new ways to enhance the effectiveness of gemcitabine or even replace its role in pancreatic cancer therapy. This is where the African leaf enters the picture, with its unexpected potential. In this study, PANC-1 cells, which are a model of pancreatic cancer cells, were cultured and then exposed to various concentrations of the African leaf extract and gemcitabine. The goal was to evaluate how these cells responded when these two different agents were used simultaneously.
+
+Prof. Poppy Anjelisa explained that this process began with an MTT assay, a common method used to determine cytotoxicity and calculate the IC50 value, which indicates the concentration of the drug needed to inhibit cell growth by 50%. The results revealed something surprising: the African leaf extract had a much lower IC50 value (21.19 µg/mL) compared to gemcitabine (164.78 µg/mL), indicating greater potential in inhibiting cancer cell growth.
+
+However, killing cancer cells is not the only goal in cancer treatment. Cancer is a complex disease, where these malignant cells have the ability to spread to other parts of the body through a process known as migration and invasion. Therefore, it is crucial to assess whether this combination treatment can reduce the ability of cancer cells to migrate and invade healthy tissue.
+
+The study's findings showed that the combination of African leaf extract and gemcitabine not only increased apoptosis, or programmed cell death, but also significantly reduced the ability of these cells to migrate and invade. "This is an important finding because inhibiting migration and invasion can directly affect the cancer's ability to spread and, thus, improve patient prognosis," said Prof. Poppy Anjelisa.
+
+Furthermore, this research also uncovered the molecular mechanisms underlying these effects. One of the key findings was the downregulation of key proteins involved in cancer progression, such as VEGF, COX2, and components of the RAS/MEK pathway, all of which are known to play roles in cancer cell migration and invasion. The RAS/MEK pathway, for instance, is one of the most frequently activated pathways in various types of cancer and plays a role in numerous cellular processes that support cancer growth and spread. By inhibiting this pathway, the combination of African leaf extract and gemcitabine was able to weaken one of the primary weapons used by cancer cells to survive and spread.
+
+As the effects of this combination become clearer, it is important to consider its future implications. While these findings are promising, there are many steps to take before this combination therapy can be used clinically.
+
+“This study is an important first step, but further research is needed to fully understand the potential and limitations of this therapy. Testing in animal models, and eventually in humans, will provide better insights into how effective this therapy is in real-world situations. If the results remain positive, the combination of African leaf and gemcitabine could offer new hope for the thousands of patients battling pancreatic cancer each year,” explained Prof. Poppy Anjelisa.
+
+Along its journey, this research not only adds to our understanding of potential cancer treatments but also reminds us of the importance of exploring natural resources that are often overlooked. In a world constantly seeking solutions to the most deadly diseases, a simple wild plant like the African leaf could be the key to overcoming seemingly insurmountable challenges. As with this story, science often finds answers in unexpected places, and this is where new hope arises for a healthier and brighter future.
+
+SDGs
+SDGs 3
+Paper Details
+Journal
+Saudi Pharmaceutical Journal
+Title
+The ethyl acetate extract of Vernonia amygdalina leaf ameliorates gemcitabine effect against migration and invasion of PANC-1 cells via down-regulation the VEGF, COX2, and RAS/MEK pathways
+Authors
+Poppy Anjelisa Zaitun Hasibuan (1), Jane Melita Keliat (2), Muhammad Fauzan Lubis (3), Annisa Nasution (1)
+Author Affiliations
+Department of Pharmacology, Faculty of Pharmacy, Universitas Sumatera Utara, Indonesia
+Department of Pharmaceutical and Food Analysis, Faculty of Vocational, Universitas Sumatera Utara, Indonesia
+Department of Pharmaceutical Biology, Faculty of Pharmacy, Universitas Sumatera Utara, Indonesia
+DOI
+https://doi.org/10.1016/j.jsps.2023.101872
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

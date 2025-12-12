@@ -1,0 +1,114 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Activities
+News
+USU Lecturer Wins Telenursing Patent For 3 Years In A Row
+USU Lecturer Wins Telenursing Patent for 3 Years in a row
+Published At
+10 October 2022
+Published By
+Bambang Riyanto
+USU Lecturer Wins Telenursing Patent for 3 Years in a row
+ 
+
+Published by
+
+Bambang Riyanto
+
+Published at
+
+Monday, 10 October 2022
+
+In 2022, Reni once again received a Patent for the HORAS (Health Belief, Observation, Relaxation, Action and Supporting) technique in patients with pulmonary tuberculosis, IDS000004852 Granted, DJKI, 2022. This invention consists of 3 stages, namely the pre-interaction stage, collecting data from the puskesmas about diagnosed pulmonary TB patients, repeated patients due to drug withdrawal, and resistant patients. Then the data from the database is matched with data from 10 fields or data synchronization.
+
+USU PR - Lecturer of the Faculty of Nursing, Universitas Sumatera Utara, Reni Asmara Ariga, S.Kp., MARS, for 3 years in a row managed to get a Telenursing Patent. The patent certificate was issued by the Ministry of Law and Human Rights through the Directorate General of Intellectual Property (DJKI) in 2020, 2021 and 2022.
+
+The 2020 patent was obtained through a method to improve medication adherence using the Ners-Short Message Service Intervention (N-SMSI) in patients with Pulmonary Tuberculosis (pulmonary TB), ID S000003061 Granted, DJKI, 2020. This invention relates to a method of improving medication adherence through Ners-Short Message Service Intervention (N-SMSI) that can be given to improve healing and health status. The N-SMSI method is an invention that is carried out by sending an SMS containing a reminder message to take medication to an SMS group with pulmonary TB patients, which is sent every day 5 minutes before the time of taking medication, with a frequency of 15 minutes which is adjusted to the schedule for taking medication for pulmonary TB patients. SMS contains information about pulmonary TB, such as understanding, signs and symptoms of pulmonary TB, the importance of regular medication adherence, prevention of transmission, coughing and sneezing etiquette and side effects of drug.
+
+Meanwhile, in 2021, Reni received another patent for a method of increasing independence to detect health status and follow up on appropriate treatment, ID S000045426 Granted, DJKI, 2021. This invention relates to information technology to increase user independence in detecting health status and obtaining health services using the ARIGAselfCareNursingBot chatbot. It is a text chatbot that provides nursing education to patients with a range of general conditions, warning signs and decisions to use health services. ARIGAselfCareNursingBot was created by integrating one of the social media services, namely Telegram by utilizing Application Programming Interface (API) technology. This invention describes and proposes the development of a chatbot that acts as a customer service, which can communicate and serve users in terms of detecting health status, and making decisions on the use of health services. The chatbot will provide information to users who want to ask about general signs and conditions, signs and dangers, and make decisions through a text display.
+
+In 2022, Reni once again received a Patent for the HORAS (Health Belief, Observation, Relaxation, Action and Supporting) technique in patients with pulmonary tuberculosis, IDS000004852 Granted, DJKI, 2022. This invention consists of 3 stages, namely the pre-interaction stage, collecting data from the puskesmas about diagnosed pulmonary TB patients, repeated patients due to drug withdrawal, and resistant patients. Then the data from the database is matched with data from 10 fields or data synchronization.
+
+The interaction stage carried out a comprehensive implementation of the HORAS technique with a home visit strategy and consultation via smart phones to patients, by means of question and answer with a questionnaire guide, consultation (supporting), and training (health belief, relaxation, action). As well as the termination stage to evaluate the HORAS technique, whether to reassess or monitor the response and development of conditions on an ongoing basis to find out the goals and criteria for the results that have been achieved. Furthermore, 20 new data were released from the results of data synchronization and evaluation of the achievements of HORAS education techniques, which were then re-entered into the health service center data.
+
+Meanwhile, at DJKI currently there are two patents that are still in the process of being processed. The first is the self-care method using the Ariga Nursing Selfcare Website ID S00202107048. This invention relates to methods of increasing the ability to perform self-care, especially in health promotion methods, increasing knowledge, self-care by consulting through the Ariga Nursing Selfcare website in order to improve health status, quality of life and healing. The Ariga Nursing Selfcare method is an intervention carried out by providing information about the latest health and being able to consult about current complaints. The consultation provided is in the consultation forum at Ariga Nursing Selfcare in the form of questions and answers and the public will immediately get information about health and self-care in accordance with the complaints experienced by the community.
+
+The last one is the Telegram-Based Ikkon Malum Sian TB method as a Nursing Intervention in Tuberculosis patients ID S00202107050. This invention relates to nursing education methods to improve healing and health status of tuberculosis patients. Namely by applying participatory training techniques and individual coaching aimed at evoking positive traits and changes in the behavior of sufferers which are published in a telegram application channel called Ikkon Malum Sian TB.
+
+One of the efforts made to achieve the success of pulmonary TB treatment is to provide nursing interventions with participatory training techniques and individual coaching, by guiding patients to better understand pulmonary TB and changing patient behavior to become more active and become more obedient to the treatment being carried out. The intervention was carried out using the Ikkon Malum Sian TB channel in a telegram application that contained Lung TB materials in the form of pictures, videos and illustrations to help patients understand pulmonary TB and to motivate patients, equipped with a consultation group and reminders to take medication. The results obtained from the provision of individual coaching interventions to patients with pulmonary TB increased knowledge, behavioral changes, and increased patient motivation to recover quickly. Therefore, nurses are expected to be able to apply the Ikkon Malum Sian TB method so that the cure rate for pulmonary TB patients increases and there are no more recurrent pulmonary TB patients.
+
+These patents are the results of research at the National Level Competition won by Reni Asmara Ariga for the last 3 years. In 2022 Reni Asmara Ariga also won the DRPTM national level research competition for research funding in 2022 and 2023 with the title Independent Nursing Management Model with Telenursing Implementation: Ariga Nursing Selfcare in Improving the Quality of Public Health in North Sumatra.
+
+Nurses are now increasingly required to be professional and prioritize technological developments, including the use of information technology in the field of nursing services, where patients who need nursing care come from various groups who live in areas that are quite far away. These services can be accessed through remote nursing services, unlimited wherever they are.
+
+Telenursing is the use of technology to provide nursing care and nursing practice remotely to patients, which aims to improve health care. Nursing actions cut the distance, time and cost in improving the health status of the community.
+
+Telenursing is expected to help patients resolve the shortage of nurses, shorten distances, visit times and look after patients who have been discharged from the hospital. People or patients do not need to come to the hospital to see a doctor or nurse in order to get health services.
+
+The time required for health services is also getting shorter. Patients from home can make contact via the internet or video telephone to get the necessary health and care information. (RJ – ©ULC)
+
+Author: Renny Julia - Humas
+
+Interviewee: - - -
+
+Photographer: Humas - -
+
+News
+Find More News
+News
+USU Receives Visit from UNIMA for Assistance in Establishing Faculty of Medicine
+News
+Secretary of Universitas Sumatera Utara Attends the 79th Bhayangkara Day Ceremony
+News
+Prof. Bungaran Saragih Gives Public Lecture on Agricultural Downstreaming at USU
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

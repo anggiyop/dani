@@ -1,0 +1,126 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+From Palm Trees To Sustainable Innovation
+From Palm Trees to Sustainable Innovation
+Published At
+17 October 2024
+Published By
+Dr. Ir. Luthfi Hakim S.Hut., M.Si., IPM
+From Palm Trees to Sustainable Innovation
+ 
+
+Published by
+
+Dr. Ir. Luthfi Hakim S.Hut., M.Si., IPM
+
+Published at
+
+Thursday, 17 October 2024
+
+New research reveals the great potential of sugar palm bunches (SPB) for various applications in renewable energy, composite materials, and chemical compounds. A team of researchers from USU and BRIN develops sustainable innovations from sugar palm waste.
+
+Swarnadwipa (Svarnadvipa in Sanskrit – The Island of Gold) was the name given to an island under the reign of the Sriwijaya Kingdom. Not without reason, the island was famous for its abundant gold and fertile land. The Barisan Mountain range adds to its breathtaking natural landscape. The tectonic plates that shield the island have created fascinating geological conditions. Today, the island is called Sumatra.
+
+Sumatra’s glory continues in modern times. The agricultural and plantation sectors remain its undeniable strengths. It is home to one of Indonesia’s most versatile and valuable tropical plants: the sugar palm, scientifically known as Arenga longipes Mogea. For the local communities, the sugar palm is more than just a plant; it is a source of life, providing food, beverages, and raw materials for various uses. From the sap it produces to derivative products like palm sugar and traditional palm wine, the benefits of this plant are countless. However, scientific attention has only recently turned to a part of the plant often considered waste—the sugar palm bunch (SPB).
+
+Although SPB waste is not as popular as the plant’s main products, recent research and innovations have revealed its vast potential for wider applications. A recent study conducted by a research team has explored this potential. The team includes Luthfi Hakim, Apri Heri Iswanto, Evalina Herawati, and Ridwanti Batubara from Universitas Sumatera Utara (USU), Indonesia, along with Yunida Syafriani Lubis and Erlina Nurul Aini from the National Research and Innovation Agency (BRIN), Indonesia.
+
+The research was carried out in a small village in Langkat, North Sumatra, known for its plantations. Here, the researchers collected sugar palm bunches from plants aged between 8 to 10 years. To ensure the quality and accuracy of the research, the samples were carefully selected, taken five centimeters from the main stem of the plant. These samples were then further processed, cut into several pieces, and prepared for a series of laboratory tests, each designed to explore every detail of the SPB’s properties.
+
+In the initial phase of the research, anatomical analysis was a crucial step in understanding the internal structure of the SPB. The researchers found two types of fibro-vascular bundles (FVB) in the bunch: large and small. Under the microscope, these FVBs exhibited consistent sizes and shapes—the fibers had an average length of about 1,346 micrometers with a diameter of around 20 micrometers. The study also revealed that the cell wall thickness of the FVBs reached about 4.12 micrometers, while the lumen or cavity within the fibers had an average diameter of around 11.82 micrometers. These findings confirmed a relatively high fiber density, with 4-6 fibro-vascular bundles per 4 square millimeters, reflecting the dense structure of the sugar palm bunch.
+
+“However, this anatomical characterization is just a small part of the bigger picture. In terms of chemical composition, the sugar palm bunch also contains many valuable materials. Research shows that the SPB is rich in cellulose, with levels reaching 45.31 percent,” said Luthfi Hakim.
+
+Additionally, hemicellulose and lignin—key components in plant structure formation—are also present in significant amounts, at 23.21 percent and 27.23 percent, respectively. The low ash content, only around 1.39 percent, indicates that the SPB produces little insoluble residue, making it a relatively clean raw material for further processing.
+
+To delve deeper into the chemical components of the sugar palm bunch, the researchers used GC-MS (Gas Chromatography-Mass Spectrometry) analysis techniques. This method helped identify various compounds present in the SPB, such as carboxylic acids—including tetradecanoic acid and octadecanoic acid—as well as methoxy compounds like 3-hydroxyphthalide. These findings suggest that the sugar palm bunch contains organic compounds that could be useful in various applications, particularly in the fields of chemistry and pharmaceuticals.
+
+“The research didn’t stop at chemical analysis; it also employed FTIR (Fourier-transform infrared spectroscopy) techniques to gain deeper insights into the chemical structure. FTIR analysis revealed a strong hydroxyl (OH) group, indicating the presence of phenol and lignin compounds, which have potential applications as natural adhesives or in biocomposite materials,” explained Luthfi Hakim.
+
+The physical and mechanical properties of the sugar palm bunch were also thoroughly tested in this research. Using a universal testing machine, the bunch was tested at a crosshead speed of 1 mm/min, in accordance with ASTM D882 standards. Such mechanical testing is crucial in assessing the strength and flexibility of the sugar palm bunch when subjected to pressure. The samples were also stored under specific temperature and humidity conditions for a week before testing, ensuring that the results reflected the bunch's true mechanical capabilities.
+
+Meanwhile, to gain deeper insights into the microstructure of the SPB fibers, the researchers used scanning electron microscopy (SEM) techniques. This allowed them to observe the surface of the fibers after cutting and drying. The surface images revealed how the sugar palm bunch is composed of tightly interwoven small fibers, providing deeper insights into its potential mechanical strength.
+
+In addition to mechanical strength, the thermal stability of the SPB was also tested using thermogravimetric analysis (TGA). The bunch was slowly heated from room temperature to 600°C at a heating rate of 10°C per minute. “The results of this analysis help researchers understand how stable the sugar palm bunch is when heated, which is important if the bunch is used as biomass fuel or in the production of activated carbon,” explained Luthfi Hakim.
+
+Through these various tests, this research reveals that the sugar palm bunch possesses highly promising physical, chemical, and mechanical properties for a variety of applications. In the energy sector, for example, the SPB can be utilized as a biomass source for renewable energy production. Furthermore, its cellulose and lignin content opens up opportunities for use in composite board manufacturing, fiber materials, or even activated carbon as an absorbent material. In the chemical industry, the organic compounds found through GC-MS analysis also show potential for the sugar palm bunch to be used as a raw material for surfactants or other chemical compounds.
+
+Luthfi emphasized that with all this potential, the sugar palm bunch, once considered waste, is now being seen as a valuable resource. It not only provides benefits for the local community in the form of more environmentally friendly derivative products but also paves the way for innovations that can enhance the overall economic value of the sugar palm plant. This plant, which has been an integral part of daily life in North Sumatra, now has the potential to become an important commodity in broader industries, from energy to sustainable composite materials.
+
+This research is the first step towards broader and more sustainable utilization of the sugar palm bunch. The results are not only relevant for local communities that depend on the sugar palm plant but also for scientists and industries seeking renewable resources for a greener and more sustainable future. Through a comprehensive scientific approach, the sugar palm bunch has proven to have great potential—it’s just a matter of time before further innovations and developments can turn this waste into something more valuable.
+
+SDGs 11
+SDGs
+SDGs 9
+Paper Details
+Journal
+Forests
+Title
+Characterization of Indonesian Sugar Palm Bunch (Arenga longipes Mogea) Properties for Various Utilization Purposes
+Authors
+Luthfi Hakim (1), Apri Heri Iswanto (1) , Evalina Herawati (1), Ridwanti Batubara (1), Yunida Syafriani Lubis (2) , Erlina Nurul Aini (3)
+Author Affiliations
+Department of Forest Product Technology, Faculty of Forestry, Universitas Sumatera Utara, Jalan Lingkar Kampus USU, Kampus 2 USU Bekala, Simalingkar A, Pancur Batu, Deli Serdang 20353, Indonesia; apri@usu.ac.id (A.H.I.); evalina@usu.ac.id (E.H.); ridwanti@usu.ac.id (R.B.)
+Research Center for Applied Botany, National Research and Innovation Agency, Jalan Raya Jakarta-Bogor KM 46, Cibinong 16911, Indonesia; yuni030@brin.go.id
+Reseach Center for Biomass and Bioproduct, National Research and Innovation Agency, Jalan Raya Jakarta-Bogor KM 46, Cibinong 16911, Indonesia; erli010@brin.go.id
+DOI
+https://doi.org/10.3390/f15020239
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

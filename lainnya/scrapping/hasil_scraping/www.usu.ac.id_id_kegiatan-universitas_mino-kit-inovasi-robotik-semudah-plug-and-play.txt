@@ -1,0 +1,102 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Aktivitas
+Kegiatan Universitas
+MINO KIT, Inovasi Robotik Semudah “Plug And Play”
+MINO KIT, Inovasi Robotik Semudah “Plug and Play”
+Diterbitkan Pada
+21 Mei 2021
+Diterbitkan Oleh
+Renny Julia Harahap
+MINO KIT, Inovasi Robotik Semudah “Plug and Play”
+ 
+
+Diterbitkan oleh
+
+Renny Julia Harahap
+
+Diterbitkan pada
+
+Jumat, 21 Mei 2021
+
+MEDAN-HUMAS USU : Universitas Sumatera Utara (USU) melalui start up CV Mandike Instruments telah menciptakan Mino Kit, inovasi perangkat belajar dasar robotik bagi para siswa SMP dan SMU. Mino Kit berisi modul-modul elektronika beserta perangkat mikrokontroler berbasis Arduino, yang memiliki konsep seperti puzzle dan menggunakan soket-soket sebagai penghubung antar modul serta bersifat “plug and code”.
+
+Inovasi Mino Kit ini merupakan salah satu produk inovasi andalan yang menjadi binaan Lembaga Inovasi dan Inkubasi Teknologi Bisnis (LINKS USU). Dalam penggunaaannya Mino Kit ini berguna untuk membantu dan mempermudah pengguna dalam merancang suatu inovasi dalam bidang robotik. Modul elektronika yang terdapat dalam Mino Kit menggunakan pasangan soket yang disertai warna dan huruf pada masing-masing modul sehingga terlihat lebih menarik, mudah dalam pemasangannya dan dapat meminimalisir kesalahan yang dapat terjadi ketika memasangnya.
+
+“Menggunakan Mino Kit ini semudah “plug and play”, sehingga untuk pengguna yang belum memiliki pengetahuan tentang elektronika sekalipun dapat melakukan dan mempelajarinya dengan mudah,” kata Dwi Budi Prasetyo, CEO Mandike Instruments.
+
+Dijelaskannya, ide untuk merancang Mino Kit timbul dari permasalahan-permasalahan yang selama ini muncul ketika pengguna merakit suatu proyek menggunakan kit robot lainnya. Produk tersebut menggunakan kabel-kabel penghubung antar komponen yang malah semakin menimbulkan kerumitan dalam proyek yang tengah dibuat.
+
+Mino Kit terdiri dari sebuah papan mikrokontroler dari pengembang Arduino yang dirancang dengan 7 soket agar dapat dipasang ke berbagai modul elektronik lainnya dengan mudah. Dari ke-7 buah soket tersebut, terdapat 6 buah soket yang digunakan untuk membaca sensor dan juga dapat mengendalikan keluaran baik secara digital maupun analog. Selain itu terdapat 1 soket yang dapat digunakan untuk menampilkan data di komputer, melalui komunikasi data serial yang mendukung akses melalui komunikasi data serial yang mendukung akses melalui kabel maupun nirkabel. Mino Kit juga disertai dengan modul-modul elektronik berupa sensor actuator, perangkat pengirim data dan display yang dapat digunakan untuk membuat berbagai keperluan proyek. Mino Kit diprogram melalui computer dengan menggunakan Bahasa pemrograman teks melalui software sktech Arduino dan Mino Kit juga dapat deprogram dengan menggunakan pemrograman blok melalui software Ardublock yang sangat menarik seperti menyusun sebuah puzzle.
+
+“Mino Kit ini disertai dengan buku panduan, video pelajaran dan terdapat contoh-contoh proyek inovasi teknologi serta terdapat juga forum diskusi yang dapat digunakan untuk berbagi informasi dengan pengguna lainnya. Produk ini akan mendorong bertambahnya minat generasi muda dalam mempelajari ilmu teknologi dan menambah minat pelajar untuk terlibat dalam kompetisi robotik serta pameran karya ilmiah,” ujar Budi.
+
+Budi lebih jauh memaparkan bahwa Mino Kit sudah dipatenkan pada tahun 2019 dan mulai diproduksi serta dipasarkan ke sekolah-sekolah. Pemasaran juga dilakukan melalui e-commerce. Penjualan Mino Kit dibandrol dengan harga Rp 499.000.
+
+“Untuk harga, kita berani katakan bahwa Mino Kit dijual dengan harga yang terjangkau jika disandingkan dengan kualitasnya. Jika di-compare dengan produk sejenis lainnya yang lebih bagus, seperti Lego misalnya, harganya sudah mencapai Rp 8 juta. Itu sudah pabrikasi besar. Sementara jika disejajarkan dengan produk buatan Tiongkok yang lebih murah, Mino Kit sudah lebih lengkap komponennya. Perangkat yang lebih murah itu kalau mau dirangkai banyak sekali kabel-kabelnya. Hal itu tentu bisa membuat pengguna jadi lebih males. Kalau Lego itu ya sudah sangat-sangat lengkap,” jelas Budi.
+
+Budi menyampaikan bahwa target yang ingin dicapai setelah pandemi adalah memproduksi Mino Kit secara massal. Saat ini hal itu belum bisa diwujudkan karena proses belajar tatap muka belum dimulai. Untuk pasaran Mino Kit, Budi menyebutkan bahwa permintaan dari sekolah-sekolah di Pulau Jawa jauh lebih banyak dari pada di Sumatera. Ini mengindikasikan bahwa minat kalangan siswa di sekolah-sekolah yang ada di Pulau Jawa dalam bidang robotik jauh lebih tinggi dari pada di Sumatera.
+
+“Kita akan mencoba turun ke sekolah-sekolah untuk mendorong lebih banyak minat siswa belajar robotik, khususnya di Kota Medan. Namun hal itu hanya bisa direalisasikan setelah kegiatan sekolah tatap muka dimulai,” tandasnya.
+
+Artikel
+Kegiatan Universitas
+Kegiatan Penelitian
+Temukan Kegiatan Lainnya
+Kegiatan Universitas
+Guru Besar USU Ubah Limbah Kulit Udang Jadi Bahan Face Serum
+Kegiatan Universitas
+Kolaborasi Riset USU Turunkan Angka Stunting di Sergai
+Kegiatan Universitas
+Oxalis Dehradunensis Raizada Krim Anti Penuaan
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

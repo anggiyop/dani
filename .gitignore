@@ -1,0 +1,40 @@
+# =====================================================================
+# Python
+# =====================================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# VS Code / editor
+.vscode/
+.idea/
+
+# =====================================================================
+# Project chatbot-va-usu
+# =====================================================================
+
+# Data Qdrant embedded
+qdrant_data/
+
+# Model GGUF / LLM besar (jangan masuk Git)
+*.gguf
+D:/ANGGI/models/
+models/
+
+# File sementara / cache
+*.tmp
+*.bak
+
+# Jupyter (kalau ada)
+.ipynb_checkpoints/
+
+# OS file (Windows)
+Thumbs.db
+Desktop.ini

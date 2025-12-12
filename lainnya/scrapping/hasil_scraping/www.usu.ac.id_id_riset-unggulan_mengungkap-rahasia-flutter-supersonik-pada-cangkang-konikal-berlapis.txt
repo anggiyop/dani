@@ -1,0 +1,126 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Mengungkap Rahasia Flutter Supersonik Pada Cangkang Konikal Berlapis
+Mengungkap Rahasia Flutter Supersonik pada Cangkang Konikal Berlapis
+Diterbitkan Pada
+16 Agustus 2024
+Diterbitkan Oleh
+Prof. Drs. Mahyuddin M.IT., Ph.D.
+Mengungkap Rahasia Flutter Supersonik pada Cangkang Konikal Berlapis
+ 
+
+Diterbitkan oleh
+
+Prof. Drs. Mahyuddin M.IT., Ph.D.
+
+Diterbitkan pada
+
+Jumat, 16 Agustus 2024
+
+Artikel ini membahas pentingnya struktur cangkang konikal dalam teknik modern, tantangan flutter pada kecepatan tinggi, dan penelitian terbaru yang memperluas pemahaman tentang stabilitas aeroelastik. Menyoroti penelitian oleh berbagai ahli, termasuk Prof. Mahyuddin K.M. Nasution, artikel ini mengeksplorasi dampak material komposit seperti serat dan nanopartikel grafen pada frekuensi alami dan stabilitas cangkang konikal. Temukan bagaimana pengetahuan ini membuka peluang baru dalam desain teknologi tinggi dan aplikasi industri.
+
+Dalam dunia teknik modern, struktur berbentuk cangkang dan panel konikal memainkan peran yang sangat penting. Struktur ini digunakan di berbagai industri, mulai dari dirgantara hingga sipil dan mekanik. Meskipun sering diandalkan, struktur ini menghadapi tantangan besar berupa fenomena dinamis yang dikenal sebagai flutter. Flutter adalah ketidakstabilan yang dapat mengancam integritas struktural saat struktur beroperasi pada kecepatan tinggi. Di antara berbagai jenis struktur, cangkang konikal merupakan area yang kurang diteliti dibandingkan dengan cangkang silindris, dan penelitian ini berupaya mengisi kekosongan pengetahuan tersebut.
+
+Penelitian tentang flutter pada cangkang konikal dimulai dengan upaya awal oleh Bismarck-Nasr dan Costa Savio pada tahun 1979, serta Sunder et al. pada tahun 1983. Karya-karya ini mengidentifikasi tantangan dan dasar-dasar fenomena flutter, meskipun pemahaman penuh mengenai stabilitas aeroelastik dari cangkang konikal belum sepenuhnya terungkap pada saat itu. Penelitian ini memberikan kerangka awal yang penting untuk studi lebih lanjut, tetapi tidak cukup mendalam untuk menjelaskan semua aspek flutter pada cangkang konikal, terutama dalam konteks penggunaan material komposit modern.
+
+Penelitian yang dilakukan oleh Mahmoudkhani et al. dan Sabri et al. pada tahun 2010 memperluas pemahaman tentang stabilitas aeroelastik dengan fokus pada berbagai parameter dan kondisi yang mempengaruhi flutter. Meskipun demikian, meskipun banyak studi telah dilakukan pada cangkang silindris, cangkang konikal, khususnya yang menggunakan material komposit canggih seperti serat dan nanopartikel grafen (GNP), masih memerlukan penelitian lebih mendalam untuk mengeksplorasi potensi dan tantangan yang ada.
+
+Berdasarkan penelitian terdahulu, beberapa peneliti dari berbagai latar belakang institusi berkolaborasi untuk meneliti rahasia flutter. Mereka terdiri dari Prof. Mahyuddin K.M. Nasution (Universitas Sumatera Utara, Indonesia), Rahmad Syah dan Dadan Ramdan (Universitas Medan Area, Indonesia), Hassan Afshari dan Hossein Amirabadi (Islamic Azad University, Iran), Mahmoud M. Selim (Prince Sattam bin Abdulaziz University, Arab Saudi), Afrasyab Khan (Suez University, Mesir), Md Lutfor Rahman dan Mohd Sani Sarjadi (Universiti Malaysia Sabah, Malaysia), dan Chia-Hung Su (University of Technology, Taiwan).
+
+Untuk menganalisis fenomena flutter pada cangkang konikal, Prof. Mahyuddin dan tim menggunakan teori deformasi geser orde pertama (FSDT) sebagai dasar pemodelan. Teori ini memungkinkan peneliti untuk memperhitungkan deformasi akibat gaya geser yang signifikan pada struktur tipis. Selanjutnya, tekanan aerodinamis dihitung menggunakan teori piston linear, yang mempertimbangkan interaksi antara aliran udara dan struktur cangkang. "Teori ini penting karena memberikan gambaran bagaimana aliran udara mempengaruhi cangkang, terutama pada kecepatan tinggi di mana efek aerodinamis menjadi lebih kompleks," kata Prof. Mahyuddin.
+
+Sifat mekanik efektif dari material komposit yang digunakan dalam cangkang konikal dihitung dengan menggunakan beberapa metode, termasuk aturan campuran, model Halpin-Tsai, dan hubungan mikromekanik. Aturan campuran membantu dalam menentukan sifat rata-rata dari material komposit berdasarkan proporsi masing-masing komponen, sementara model Halpin-Tsai digunakan untuk memperkirakan modulus elastisitas efektif. Hubungan mikromekanik digunakan untuk menghitung modulus geser dan densitas material yang terdiri dari berbagai fase. Pendekatan ini memungkinkan peneliti untuk memahami bagaimana berbagai komponen material berinteraksi dan mempengaruhi sifat keseluruhan dari cangkang konikal.
+
+"Dalam perhitungan sifat mekanik, rasio Poisson dan densitas dari matriks yang diperkuat GNP dihitung berdasarkan fraksi volume dari masing-masing komponen. Rasio Poisson adalah ukuran sejauh mana material meluas atau menyusut secara lateral ketika mengalami deformasi. Densitas, di sisi lain, mempengaruhi berat total dari struktur. Modulus elastisitas efektif untuk matriks polimer yang diperkuat GNP diperkirakan menggunakan model Halpin-Tsai, yang memungkinkan peneliti untuk menghitung kekuatan dan kekakuan material secara akurat," tambah Prof. Mahyuddin.
+
+Selain itu, modulus geser dan densitas material tiga fase dihitung menggunakan hubungan mikromekanik. Modulus geser adalah ukuran kekuatan material terhadap deformasi geser, sementara densitas mempengaruhi massa dan distribusi berat dari struktur. Perhitungan ini sangat penting untuk memahami bagaimana struktur cangkang berperilaku di bawah berbagai kondisi beban dan gaya aerodinamis.
+
+Untuk analisis flutter, frekuensi alami dan bentuk mode cangkang konikal diperoleh menggunakan metode diferensial kuadrat (DQM). Metode ini memungkinkan peneliti untuk menghitung bagaimana struktur bergetar pada berbagai frekuensi dan mode. Pengaruh berbagai parameter, termasuk karakteristik geometris, kondisi batas, jumlah gelombang sirkumferensial, serta fraksi berat GNP dan serat, dieksplorasi untuk menentukan batas flutter. Prof. Mahyuddin menekankan bahwa parameter-parameter ini mempengaruhi bagaimana cangkang konikal berperilaku dan seberapa stabil ia saat beroperasi pada kecepatan tinggi.
+
+Hasil dari penelitian ini menunjukkan bahwa peningkatan fraksi berat serat dan GNP secara signifikan meningkatkan stabilitas aeroelastik dan frekuensi alami dari cangkang konikal berlapis. Ini berarti bahwa dengan menambahkan lebih banyak serat dan nanopartikel grafen ke dalam struktur, cangkang konikal dapat menjadi lebih stabil dan dapat menahan getaran lebih baik pada kecepatan supersonik. Penelitian ini memberikan analisis mendalam tentang karakteristik flutter supersonik pada cangkang konikal berlapis yang terbuat dari komposit polimer, GNP, dan serat.
+
+Pemahaman yang lebih baik tentang perilaku struktur ini membuka peluang baru untuk aplikasi praktis dalam desain dan pengembangan teknologi tinggi. Misalnya, cangkang konikal yang lebih stabil dapat diterapkan dalam pesawat terbang berkecepatan tinggi, kendaraan luar angkasa, dan struktur lainnya yang memerlukan ketahanan terhadap getaran serta stabilitas pada kecepatan tinggi. Dengan penelitian ini, kita dapat merancang struktur yang lebih efektif dan andal, memanfaatkan material komposit modern untuk meningkatkan performa dan keselamatan.
+
+Penelitian ini juga menyoroti pentingnya pendekatan multidisiplin dalam memahami dan mengatasi masalah teknis yang kompleks. "Dengan menggabungkan teori matematis, eksperimen material, dan simulasi komputasi, peneliti dapat mengungkap wawasan baru yang meningkatkan desain dan kinerja struktur cangkang konikal. Ini tidak hanya meningkatkan pengetahuan teknis tetapi juga membuka jalan untuk inovasi dalam berbagai aplikasi industri," tutup Prof. Mahyuddin.
+
+SDGs
+SDGs 9
+Detail Paper
+Jurnal
+Arabian Journal of Chemistry
+Judul
+Modeling and computational simulation for supersonic flutter prediction of polymer/GNP/fiber laminated composite joined conical-conical shells
+Penulis
+Mahyuddin K.M. Nasution , Rahmad Syah , Dadan Ramdan , Hassan Afshari , Hossein Amirabadi , Mahmoud M. Selim , Afrasyab Khan, Md Lutfor Rahman , Mohd Sani Sarjadi , Chia-Hung Su
+Afiliasi Penulis
+Data Science & Computational Intelligence Research Group, Universitas Sumatera Utara, Medan, Indonesia
+DS & CI Research Group, Universitas Medan Area, Medan, Indonesia
+Faculty of Engineering, Universitas Medan Area, Medan, Indonesia
+Department of Mechanical Engineering, Khomeinishahr Branch, Islamic Azad University, Khomeinishahr/Isfahan, Iran
+Department of Mechanical Engineering, Abadeh Branch, Islamic Azad University, Abadeh, Iran
+Department of Mathematics, Al-Aflaj College of Science and Humanities Studies, Prince Sattam bin Abdulaziz University, Al-Aflaj 710-11912, Saudi Arabia
+Department of Mathematics, Suez Faculty of Science, Suez University, Egypt
+Research Institute of Mechanical Engineering, Department of Vibration Testing and Equipment Condition Monitoring, South Ural State University, Lenin Prospect 76, Chelyabinsk 454080, Russian Federation
+Faculty of Science and Natural Resources, Universiti Malaysia Sabah, 88400 Kota Kinabalu, Sabah, Malaysia
+Department of Chemical Engineering, Ming Chi University of Technology, New Taipei City, Taiwan
+DOI
+https://doi.org/10.1016/j.arabjc.2021.103460
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

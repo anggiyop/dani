@@ -1,0 +1,121 @@
+MBKM
+CALON MAHASISWA
+WELCOMING THE INTERNATIONALS
+ALUMNI & KARIR
+DOSEN & STAF
+MEDIA & MITRA
+AKREDITASI & PRESTASI
+IN ENGLISH
+Universitas
+Sumatera Utara
+TENTANG USU
+PENDIDIKAN
+PENERIMAAN
+PENELITIAN
+PENGABDIAN MASYARAKAT
+INOVASI
+search
+Riset Unggulan
+Perjalanan Sekam Padi Menjadi Silika Nanopartikel: Material Berharga Di Masa Depan
+Perjalanan Sekam Padi menjadi Silika Nanopartikel: Material Berharga di Masa Depan
+Diterbitkan Pada
+16 Agustus 2024
+Diterbitkan Oleh
+Dr. Irwana Nainggolan M.Sc
+Perjalanan Sekam Padi menjadi Silika Nanopartikel: Material Berharga di Masa Depan
+ 
+
+Diterbitkan oleh
+
+Dr. Irwana Nainggolan M.Sc
+
+Diterbitkan pada
+
+Jumat, 16 Agustus 2024
+
+Artikel ini mengungkapkan potensi luar biasa dari sekam padi sebagai bahan baku nanopartikel silika. Dari proses cuci, jemur, dan pemanasan, hingga konversi menjadi nanopartikel, temukan bagaimana penelitian oleh Supiyani dan tim mengubah limbah pertanian ini menjadi material berharga dengan aplikasi canggih seperti detoksifikasi metamfetamin dan teknologi penyimpanan energi. Pelajari bagaimana inovasi ini dapat memajukan pengelolaan limbah dan teknologi berkelanjutan.
+
+Bayangkan sekam padi, penutup pelindung biji padi yang sering kali dianggap sebagai limbah pertanian biasa. Banyak orang tidak menyadari bahwa di dalam sekam padi terdapat potensi besar yang bisa dimanfaatkan untuk berbagai keperluan teknologi tinggi. Sekam padi, penutup pelindung biji padi, sering kali dibuang begitu saja atau digunakan sebagai bahan bakar murah. Namun, kandungan silika yang tinggi dalam sekam padi memberikan potensi untuk aplikasi yang lebih bernilai. Proses mengubah sekam padi menjadi nanopartikel silika dimulai dengan memperoleh dan menyiapkan bahan baku ini.
+
+Hal ini dilakukan oleh Supiyani, Harry Agusnar, Irwana Nainggolan (Universitas Sumatera Utara, Indonesia), dan Purwantiningsih Sugita (Institut Pertanian Bogor, Indonesia) dalam penelitian mereka. Dari sawah di Deli Serdang, Indonesia, hingga laboratorium berteknologi canggih, sekam padi diolah menjadi nanopartikel silika (SiO2–NPs) yang berharga dengan aplikasi luas, termasuk pengiriman obat, bahan bangunan ringan, dan penyimpanan energi. Dalam artikel ini, kita akan menelusuri perjalanan sekam padi dari ladang hingga menjadi alat canggih untuk menangani metamfetamin, obat ilegal yang sangat adiktif.
+
+“Pertama-tama, sekam padi dicuci untuk menghilangkan kotoran dan kontaminan, kemudian dijemur di bawah sinar matahari selama 4 jam. Proses penjemuran ini penting untuk mengurangi kadar air dalam sekam padi. Setelah itu, sekam padi direndam dalam asam klorida (HCl) selama 3 jam untuk menghilangkan lebih banyak kontaminan. Proses perendaman ini memastikan bahwa bahan baku bersih dan siap untuk tahap berikutnya,” kata Supiyani.
+
+Setelah direndam dalam asam, sekam padi dikeringkan dalam oven pada suhu 80°C selama 24 jam. Pengeringan ini memastikan bahwa sekam padi benar-benar kering sebelum dipanaskan dalam tungku. Selanjutnya, sekam padi yang sudah kering ini dipanaskan dalam tungku pada suhu 700°C, mengubahnya menjadi abu sekam padi (RHA) yang kaya akan silika. Pemanasan pada suhu tinggi ini adalah langkah penting karena membantu memecah bahan organik dan meninggalkan silika yang murni.
+
+Supiyani menjelaskan bahwa transformasi abu sekam padi menjadi nanopartikel silika dilakukan menggunakan metode sol-gel, sebuah teknik yang sudah mapan dalam pembuatan material nanoteknologi. Abu sekam padi dicampur dengan larutan natrium hidroksida (NaOH) dalam berbagai konsentrasi—5%, 10%, dan 15%—dan diaduk selama 3 jam. Campuran ini kemudian disaring untuk memisahkan residu padat yang tersisa, dan larutan yang diperoleh dibilas dengan air suling untuk menghasilkan larutan natrium silikat. pH larutan ini kemudian disesuaikan menjadi netral (pH 7) dengan menambahkan HCl, mempersiapkan tahap akhir pembentukan nanopartikel silika.
+
+Untuk memastikan bahwa nanopartikel silika yang dihasilkan memiliki kualitas dan karakteristik yang diinginkan, berbagai teknik canggih digunakan untuk mengkarakterisasinya. Spektroskopi Fourier Transform Infrared (FTIR) mengungkapkan ikatan Si-O-Si, menunjukkan keberadaan silika. Analisis ini mengonfirmasi bahwa proses konversi dari abu sekam padi menjadi nanopartikel silika berhasil. Spektroskopi Raman menunjukkan puncak pada 470 cm−1, yang khas untuk fase kristobalit silika, lebih lanjut memvalidasi keberadaan silika dalam bentuk nanopartikel.
+
+“Salah satu aplikasi paling menarik dari nanopartikel silika adalah kemampuannya untuk menyerap metamfetamin, sebuah stimulan psikoaktif yang sangat adiktif dan ilegal. Untuk menguji efektivitas nanopartikel silika dalam menyerap metamfetamin, digunakan isoterm Langmuir dan Freundlich,” sebut Supiyani.
+
+Model isoterm Langmuir menunjukkan kapasitas adsorpsi maksimum sebesar 333,3 mg/g untuk metamfetamin pada nanopartikel silika, menunjukkan efisiensi yang sangat tinggi. Kinetika adsorpsi paling baik dijelaskan oleh model kinetika pseudo-orde kedua, yang menunjukkan bahwa laju adsorpsi lebih tergantung pada ketersediaan situs adsorpsi daripada konsentrasi metamfetamin itu sendiri.
+
+Penelitian Supiyani dan tim menunjukkan hasil karakterisasi dan studi adsorpsi, memberikan informasi berharga tentang sifat dan potensi aplikasi nanopartikel silika yang disintesis dari abu sekam padi. Spektrum FTIR tidak menunjukkan perbedaan signifikan dalam kelompok fungsional nanopartikel silika yang disintesis dengan konsentrasi NaOH yang berbeda (5%, 10%, dan 15%).
+
+Kesuksesan sintesis nanopartikel silika dari abu sekam padi menggunakan metode sol-gel menandai kemajuan signifikan dalam pengelolaan limbah dan nanoteknologi. Melalui penelitian ini, ditemukan bahwa nanopartikel ini menunjukkan kapasitas adsorpsi yang sangat baik untuk metamfetamin, menjadikannya kandidat yang menjanjikan untuk aplikasi dalam detoksifikasi obat dan pembersihan lingkungan. Penelitian ini tidak hanya menyoroti potensi mengubah limbah pertanian menjadi nanomaterial berharga, tetapi juga membuka jalan untuk penelitian lebih lanjut dalam berbagai aplikasinya.
+
+Dengan memanfaatkan potensi yang belum dimanfaatkan dari sekam padi, kita dapat menciptakan solusi berkelanjutan yang bermanfaat bagi lingkungan dan berbagai bidang teknologi. Transformasi dari limbah menjadi keajaiban ini mencerminkan semangat inovatif yang mendorong ilmu pengetahuan dan teknologi modern, membuka jalur baru untuk pembangunan berkelanjutan dan pemanfaatan sumber daya. “Bayangkan, dari sesuatu yang biasanya dibuang, kita bisa menciptakan produk teknologi canggih yang tidak hanya bermanfaat tetapi juga berkontribusi pada masa depan yang lebih bersih dan berkelanjutan,” jelas Supiyani.
+
+Seiring berjalannya waktu, pengelolaan limbah pertanian seperti sekam padi akan semakin penting dalam menghadapi tantangan lingkungan dan kebutuhan teknologi yang terus berkembang. Penelitian ini menunjukkan bahwa dengan inovasi dan pemanfaatan ilmu pengetahuan, kita dapat mengubah limbah menjadi sumber daya berharga yang dapat digunakan untuk kebaikan umat manusia. Transformasi ini tidak hanya bermanfaat bagi lingkungan tetapi juga memberikan nilai tambah ekonomi bagi sektor pertanian dan industri teknologi tinggi.
+
+Transformasi ini juga menginspirasi kita untuk terus mencari cara-cara baru dalam mengelola limbah dan memanfaatkan sumber daya alam secara lebih efektif. Dengan pendekatan yang tepat, kita bisa menciptakan dunia di mana limbah tidak lagi menjadi masalah, tetapi malah menjadi solusi bagi tantangan besar yang dihadapi oleh umat manusia. Melalui inovasi dan penelitian berkelanjutan, kita bisa mewujudkan visi ini dan menciptakan masa depan yang lebih baik bagi semua orang.
+
+SDGs
+SDGs 9
+Detail Paper
+Jurnal
+South African Journal of Chemical Engineering
+Judul
+Preparation sodium silicate from rice husk to synthesize silica nanoparticles by sol-gel method for adsorption water in analysis of methamphetamine
+Penulis
+Supiyani, Harry Agusnar, Purwantiningsih Sugita, Irwana Nainggolan
+Afiliasi Penulis
+Pascasarjana Kimia, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Sumatera Utara, Jl. Bioteknologi No.1, Medan, 20155, Indonesia
+Departemen Kimia, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Sumatera Utara, Jl. Bioteknologi No.1, Medan, 20155, Indonesia
+Departemen Kimia, Fakultas Matematika dan Ilmu Pengetahuan Alam, Institut Pertanian Bogor, Dramaga, Bogor, 16880, Indonesia
+DOI
+https://doi.org/10.1016/j.sajce.2022.02.001
+Temukan Artikel Lainnya
+Artikel Penelitian
+Jejak Modul Bergambar untuk Lawan Stunting di Pulau Nias
+Artikel Penelitian
+Inovasi Ramah Lingkungan di Tengah Kilang Sawit
+Artikel Penelitian
+Dalam Senyap Mereka Menjaga Dunia: Menyelami Dunia Para Interpreter PBB
+
+Mengobrol dengan
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+- Admin
+
+KIRIM
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Sistem Informasi
+Unit Layanan terpadu
+Pertanyaan yang Sering Diajukan
+Aturan Penggunaan
+Hak Cipta Website
+Peta Situs
+PPID
+Lapor
+Pengadaan Elektronik
+Survei
+Arsip
+Berkarir di USU
+
+Copyright 2025 - Universitas Sumatera Utara

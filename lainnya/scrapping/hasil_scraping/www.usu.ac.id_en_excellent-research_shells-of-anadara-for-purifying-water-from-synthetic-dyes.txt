@@ -1,0 +1,118 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Shells Of Anadara For Purifying Water From Synthetic Dyes
+Shells of Anadara for Purifying Water from Synthetic Dyes
+Published At
+05 March 2025
+Published By
+Ir. Erni Misran ST., MT., Ph.D
+Shells of Anadara for Purifying Water from Synthetic Dyes
+ 
+
+Published by
+
+Ir. Erni Misran ST., MT., Ph.D
+
+Published at
+
+Wednesday, 05 March 2025
+
+This study reveals the effectiveness of blood cockle shells as a natural adsorbent for removing methylene blue from industrial wastewater, achieving up to 98.614% efficiency. The use of ultrasonic waves enhances adsorption by 63.119%, providing an eco-friendly and sustainable solution for the textile industry.
+
+Among the many increasingly complex environmental issues, water pollution caused by industrial waste remains a persistent threat to ecosystems. Synthetic dyes such as methylene blue, widely used in the wood, linen, and silk industries, often contaminate water bodies at concentrations ranging from 10 to 200 mg/L. The presence of this substance not only alters the visual environment by changing water color but also poses potential threats to aquatic ecosystems and human health.
+
+This issue prompted research by faculty members from Universitas Sumatera Utara, namely Erni Misran, Viqry Pramananda, Aqnes Faulina Sihombing, and Dina Valianty Sitorus from the Department of Chemical Engineering, in collaboration with Muhammad Dani Supardan (Universitas Syiah Kuala) and Dewi Agustina Iryani (Universitas Lampung). The research team emphasized that in tackling this environmental challenge, effective and eco-friendly wastewater treatment technology is urgently needed. Among the various methods developed, adsorption has emerged as a promising technique for addressing methylene blue contamination. One natural material with significant potential in this process is blood cockle (Anadara granosa) shells.
+
+“These shells contain a high percentage of calcium carbonate (CaCO₃), reaching 98.7%, making them highly effective in dye adsorption. However, their efficiency can be further enhanced through technological innovations such as the use of ultrasonic waves, which accelerate the adsorption process,” explained Erni.
+
+In its implementation, blood cockle shells were processed into three types of adsorbents, each undergoing different treatments. Each type was thoroughly analyzed to understand its characteristics. Advanced technologies such as Scanning Electron Microscope-Energy Dispersive X-Ray (SEM-EDX) were used to examine morphological structures and elemental compositions, while Fourier Transform Infra-Red (FTIR) helped identify functional groups involved in adsorption. Additionally, Particle Size Analysis (PSA) was conducted to determine the distribution level of the adsorbent material.
+
+“To assess adsorption effectiveness, various parameters were tested, including pH levels, the amount of adsorbent used, contact time between the adsorbent and dye solution, and the initial methylene blue concentration,” said Erni.
+
+The results were analyzed using various adsorption isotherm models such as Langmuir, Freundlich, Redlich-Peterson, and Sips. Meanwhile, kinetic modeling helped understand the speed and mechanism of the adsorption process by comparing pseudo-first-order and pseudo-second-order models. The research findings revealed that the adsorbent undergoing the most complex treatment demonstrated the highest effectiveness in removing methylene blue. Under optimal conditions—pH 12, an adsorbent mass of 0.5 g, a contact time of 60 minutes, and an initial methylene blue concentration of 10 ppm—the removal efficiency reached 98.614%. More notably, the use of ultrasonic waves enhanced adsorption efficiency by up to 63.119% compared to conventional methods without ultrasonics. These waves accelerate dye diffusion to the adsorbent surface and increase the number of active sites available for interaction.
+
+Isotherm model analysis showed that the Sips model best described the adsorption mechanism, with an R² value of 0.9953. This indicates that adsorption occurs on a heterogeneous surface, with electrostatic interactions and chemisorption as dominant factors. In kinetic studies, the pseudo-second-order model demonstrated the highest fit, with an R² value of 0.939. These findings confirm that the primary mechanism is chemisorption, where electron exchange between the adsorbent and methylene blue creates stronger and more stable bonds than physical adsorption alone.
+
+Another key advantage that makes this adsorbent suitable for large-scale application is its high reusability. It can be used up to six times without significant efficiency loss. Even after the sixth cycle, more than 80% of methylene blue could still be removed from the solution. This demonstrates that the adsorbent can be reused without requiring complex regeneration processes, making it a cost-effective solution for industries facing dye wastewater issues.
+
+Furthermore, the study, published in the Science Direct journal, explains that the adsorption mechanism operates through three main factors. First, electrostatic interactions occur between the negatively charged adsorbent surface and the positively charged methylene blue ions at high pH levels. Second, chemisorption involves electron exchange between methylene blue molecules and the adsorbent surface, creating stronger and more durable bonds. Third, adsorption follows a monolayer pattern on the heterogeneous adsorbent surface, as described by the Sips isotherm model. These three mechanisms work synergistically to achieve optimal adsorption efficiency.
+
+“The implications of these findings are far-reaching. Utilizing blood cockle shells not only provides a solution for dye wastewater problems but also offers an innovative approach to organic waste management,” Erni added. Transforming shell waste into high-value adsorbent material is a tangible example of how sustainable approaches can be applied in environmental and industrial fields. If further developed and implemented on an industrial scale, this technology could significantly contribute to environmental conservation efforts.
+
+Methylene blue adsorption using blood cockle shells with ultrasonic assistance offers a solution that is not only effective but also economical and sustainable. The use of readily available natural materials, high efficiency in dye removal, and the ability to be reused without significant degradation make this approach highly relevant for the textile and manufacturing industries. The future of wastewater treatment technology does not always have to rely on expensive and complex solutions; sometimes, the best answers come directly from nature itself.
+
+SDGs
+SDGs 9
+SDGs 14
+Paper Details
+Journal
+Results in Engineering
+Title
+Ultrasonic assisted adsorption of methylene blue using blood clam shell as a low-cost adsorbent
+Authors
+Erni Misran (1), Muhammad Dani Supardan (2), Dewi Agustina Iryani (3), Viqry Pramananda (1), Aqnes Faulina Sihombing (1), Dina Valianty Sitorus (1)
+Author Affiliations
+Department of Chemical Engineering, Universitas Sumatera Utara, Jl. Almamater Kampus USU, Padang Bulan, Medan, 20155, Indonesia
+Department of Chemical Engineering, Universitas Syiah Kuala, Darussalam, Banda Aceh, 23111, Indonesia
+Department of Chemical Engineering, University of Lampung, Indonesia
+DOI
+https://doi.org/10.1016/j.rineng.2024.102715
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara

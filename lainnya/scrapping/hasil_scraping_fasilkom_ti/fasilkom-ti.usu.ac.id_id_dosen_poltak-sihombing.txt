@@ -1,0 +1,213 @@
+USU Official
+Calon Mahasiswa
+Mahasiswa
+Alumni & Karir
+Dosen & Staff
+International Visitors
+Media & Mitra
+Layanan
+Akreditasi & Prestasi
+Virtual Gallery
+ID
+expand_more
+Fakultas Ilmu Komputer dan Teknologi Informasi
+Universitas Sumatera Utara
+Tentang
+Pendidikan
+Penelitian
+Pengabdian
+Berita
+E-Magazine
+Berita Fakultas
+Agenda Fakultas
+Pengumuman Fakultas
+Artikel Fakultas
+PPID Pelaksana
+Prof. Drs.
+
+Poltak Sihombing
+
+M.Kom., Ph.D
+
+Prof. Drs. Poltak Sihombing, M.Kom., Ph.D
+
+NIP
+
+196203171991031001
+
+NIDN
+
+0017036205
+
+Program Studi
+Program Studi S3 Ilmu Komputer
+Program Studi S1 Ilmu Komputer
+Bidang Keilmuan
+Microcontroller dan IoT
+Sistem Kecerdasan
+Pengambilan Informasi
+Jabatan
+Lektor Kepala
+Media Penelitian
+Kontak:
+E-mail
+
+poltak@usu.ac.id
+
+Alamat Kantor
+
+Gedung B Fakultas Ilmu Komputer dan Teknologi Informasi
+
+Curriculum Vitae
+file_download
+Profil
+
+Poltak Sihombing, M.Kom, Ph.D., lahir di Sidikalang (Dairi), pada tanggal 17 Maret 1962. Beliau memperoleh gelar Sarjana dari jurusan Fisika (Konsentrasi Komputer), Universitas Sumatera Utara pada tahun 1988 dengan tesis berjudul "Penggunaan Micro-System Troubleshooter Pada Instrumen Yang Memakai Mikroprosesor", kemudian menyelesaikan studi Magister di Ilmu Komputer (Universitas Indonesia) pada tahun 1999 dengan tesis berjudul "Sistem Temu-Kembali Informasi Menggunakan Jaringan Syaraf Tiruan dengan Beberapa Ukuran Kemiripan". Beliau kemudian meraih gelar doktor di Ilmu Komputer Universitas Sains Malaysia pada tahun 2010 dengan disertasi berjudul, "Pendekatan Kompetisi Kata Kunci dalam Temu Kembali Dokumen Berperingkat".
+
+Poltak Sihombing, M.Kom, Ph.D. merupakan dosen di Fasilkom-TI hingga saat ini dan pernah menjabat sebagai ketua Program Studi S1 Ilmu Komputer pada tahun 2011-2016 dan 2016-2021. Beliau merupakan salah satu dosen yang aktif berkontribusi dan berpartisipasi dalam beberapa organisasi sebagai Sekretaris Jenderal, Assosiasi Pendidikan Tinggi Informatika Komputer Wilayah1 Sumut-Aceh (APTIKOMWIL1) SUMUT-Aceh (2014-2019), Anggota Himpunan Fisikawan Indonesia (HFI) Medan (2017-2022), Anggota Ikatan Profesi Komputer Informatika (IPKIN) (2018-2023), Ketua Asosiasi Pendidikan Tinggi Informatika Komputer Wilayah1 Sumut-Aceh (APTIKOMWIL1) Provinsi Sumatera Utara Medan (2019-2024), Anggota Ikatan Ahli Informatika Indonesia (IAII) Provinsi Sumatera Utara Medan (2019-2024). Beliau juga ditunjuk sebagai salah satu reviewer pada International Conference on Cyber Physical, Computer, and Automation Systems. CPCAS2019
+
+Saat ini, beliau menekuni beberapa bidang penelitian, antara lain mikrokontroler, sistem cerdas, sistem temu kembali informasi, dan internet of things. Beberapa penelitiannya yang sedang berjalan (tahun 2021) antara lain: Alat Pendeteksi dan Pengendali Gangguan Keamanan Gedung Dengan Sim900, Alat Pendeteksi dan Pengendali Aliran Nutrisi Tanaman Hidroponik Dengan Modul Rangkaian Esp8266, Alat Penyortir Buah Jeruk Menggunakan Sensor Tcs320 dan Mikrokontroler Arduino Uno, Rangkaian Esp8266 Alat Komunikasi Data Secara Real Time Untuk Mendeteksi dan Mengendalikan Detak Jantung. Selain itu, ia menerbitkan dua buku berjudul Visual Basic 6.0 (2017), A-Z MIKROKONTROLLER 8051, Perangkat Keras, Antarmuka, Pemrograman, dan Aplikasi (2018).
+
+JADILAH BERMIMPI SETINGGI MUNGKIN, DAN SETELAH BEMIMPI HARUS ADA KEPERCAYAAN UNTUK MEWUJUDKANNYA. PERCAYA BAHWA KAMU DAPAT MEWUJUDKANNYA (YOU CAN DO IT). DREAM, BELIEVE, MAKE IT HAPPEN.
+
+Publikasi
+Publikasi Lainnya 
+
+Publikasi Nasional
+
+Node-based versus Server-based Data Validations in Internet of Things
+
+POLTAK SIHOMBING
+
+Embedding the Operating System : A Case Study LMDE 3 on a USB Flash Drive
+
+POLTAK SIHOMBING
+
+Development of building security integration system using sensors, microcontroller and GPS (Global Positioning System) based android smartphone
+
+POLTAK SIHOMBING
+
+The Similarities Test of Thesis by Percentage of Similarity Formulation
+
+POLTAK SIHOMBING
+
+Analysis of Attribute Reduction Effectiveness on the Naive Bayes Classifier Method
+
+POLTAK SIHOMBING
+
+Publikasi Internasional
+
+Rancangan Miniatur Otomatisasi Bel Listrik Pada Gerbang Pintu Menggunakan Microkontroler Atmega8535
+
+POLTAK SIHOMBING
+
+COMPARISON OF FEATURE SELECTION TO PERFORMANCE IMPROVEMENT OF K-NEAREST NEIGHBOR ALGORITHM IN DATA CLASSIFICATION
+
+TULUS , POLTAK SIHOMBING
+
+Sentiment Analysis of Food Order Tweets to Find Out Customer Demographic Profile using SVM
+
+POLTAK SIHOMBING
+
+Sistem Temu-Kembali Informasi Menggunakan Jaringan Syaraf Tiruan Dengan Beberapa Ukuran Kemiripan
+
+POLTAK SIHOMBING
+
+The Development of Document Similarity Detector by Jaccard Formulation
+
+POLTAK SIHOMBING , EDWARD RAJAGUKGUK , DARWIS ROBINSON MANALU , RIMBUN SIRINGORINGO
+
+Researchs
+Penelitian Lainnya 
+PENGEMBANGAN SISTEM KONTROL OTOMATIS UNTUK MENGONTROL NUTRISI BERBASIS IoT (Internet of Things)
+
+POLTAK SIHOMBING
+
+SISTEM KEAMANAN GEDUNG DENGAN METODE RASPBERRY PI PADA MIKROKOMPUTER DENGAN MENGGUNAKAN KAMERA SENSOR PIR DAN SENSOR GETAR
+
+POLTAK SIHOMBING
+
+Integrasi Radio Frequency Identification (RFID) pada board Mikrokontroller Arduino Uno untuk sistem absensi mahasiswa di Fakultas Ilmu Komputer dan Teknologi Informasi (Fasilkom-TI) USU
+
+POLTAK SIHOMBING
+
+PENGEMBANGAN SISTEM KONTROL OTOMATIS UNTUK MENGONTROL Ph TANAH MENGGUNAKAN MIKROKONTROLLER
+
+POLTAK SIHOMBING
+
+DETEKSI DINI PENYAKIT KANKER OTAK MENGGUNAKAN RIDGE POLYNOMIAL NEURAL NETWORK DI RSUP HAJI ADAM MALIK MEDAN BERBASIS REVOLUSI INDUSTRI 4.0
+
+AMILA , SYAHRIL EFENDI , BURHANUDDIN DAMANIK , RIAH UKUR GINTING , POLTAK SIHOMBING
+
+Pengabdian Masyarakat
+Pengabdian Lainnya 
+
+PKM Pada SMA Negeri 1 Doloksanggul (Pelatihan Operasional Sistem Informasi Sekolah dan Kegunaan Internet dan Sistem Informasi sebagai media pembelajaran)
+
+Kabupaten Humbang Hasundutan. DARWIS ROBINSON MANALU , POLTAK SIHOMBING . 2010
+
+PENGABDIAN MASYARAKAT DI SMP NEGERI PANCURBATU-SUMBER DANA NON PNBP USU T.A. 2021
+
+PANCUR BATU. POLTAK SIHOMBING . 2021
+
+PENGEMBANGAN BAHAN AJAR GURU SEKOLAH DASAR ISLAM ASH-SHOLIHAH BERBASIS MULTIMEDIA DENGAN MENGGUNAKAN SOFTWARE ULEAD VIDEO STUDIO 11
+
+MEDAN. POLTAK SIHOMBING . 2015
+
+PELATIHAN TENTANG â€œPEMANFAATAN ICT DALAM PEMBELAJARANâ€� DI SMA NEGERI PARONGIL KEC. SILIMA PUNGGA-PUNGGA KAB. DAIRI
+
+DAIRI. POLTAK SIHOMBING . 2012
+
+PEMBINAAN DAN PENGKARYAAN ROBOTIKA SEDERHANA DI SMK MULTI KARYA MEDAN
+
+. POLTAK SIHOMBING . 2014
+
+Hak Kekayaan Intelektual
+Kekayaan Intelektual Lainnya 
+Pemrograman Visual Basic 6.0
+
+POLTAK SIHOMBING , DARWIS ROBINSON MANALU
+
+Deteksi dini kanker otak Menggunakan Ridge polynomial neural network di RSUP H. Adam Malik Medan berbasis revolusi industri 4.0
+
+RIAH UKUR GINTING , SYAHRIL EFENDI , POLTAK SIHOMBING , AMILA , BURHANUDDIN DAMANIK
+
+A-Z MIKROKONTROLLER 8051 (perangkat keras, antar muka, pemrograman dan aplikasi)
+
+POLTAK SIHOMBING
+
+Mata Kuliah Yang Diampu
+
+Tahun Ajaran
+
+All
+2025
+2024
+2023
+2022
+2021
+
+Semester
+
+Ganjil
+Genap
+
+Belum ada data yang tersedia
+
+FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI
+UNIVERSITAS SUMATERA UTARA
+
+Fakultas Ilmu Komputer dan Teknologi Informasi Universitas Sumatera Utara
+
+Jalan Universitas No. 9, Medan, Sumatera Utara, Indonesia 20155
+
+mail
+fasilkomti@usu.ac.id (Pertanyaan atau umpan balik umum)
+Peta Situs
+Lapor
+Pertanyaan yang sering diajukan
+Arsip
+Aturan Penggunaan Website
+Hak Cipta Website
+
+Copyright 2025 - Universitas Sumatera Utara

@@ -1,0 +1,118 @@
+MBKM
+PROSPECTIVE STUDENTS
+WELCOMING THE INTERNATIONALS
+ALUMNI & CAREER
+LECTURERS & STAFF
+MEDIA & PARTNERS
+ACCREDITATIONS & ACHIEVEMENTS
+BAHASA
+Universitas
+Sumatera Utara
+ABOUT USU
+EDUCATION
+ADMISSION
+RESEARCH
+COMMUNITY SERVICE
+INNOVATION
+search
+Excellent Research
+Conquering Sepsis With The Power Of Sweet Melon Fruit Extract
+Conquering Sepsis with the Power of Sweet Melon Fruit Extract
+Published At
+06 September 2024
+Published By
+Dr. dr. Cut Meliza Zainumi M.Ked(An)., Sp.An
+Conquering Sepsis with the Power of Sweet Melon Fruit Extract
+ 
+
+Published by
+
+Dr. dr. Cut Meliza Zainumi M.Ked(An)., Sp.An
+
+Published at
+
+Friday, 06 September 2024
+
+Research from the Universitas Sumatera Utara shows the potential of Cucumis melo L.C. (melon) extract combined with gliadin as an adjunctive therapy for sepsis. The study revealed increased SOD levels and decreased oxidative stress in sepsis-induced rat models.
+
+Sepsis is a challenging medical condition, often posing a serious threat in intensive care units. Behind the array of advanced medical devices and complex procedures, sepsis remains one of the primary enemies, responsible for high mortality rates in many intensive care units worldwide. Sepsis is not a standalone disease, but rather a complex syndrome triggered by the body’s overreaction to an infection, particularly those caused by Gram-negative bacteria through lipopolysaccharide (LPS) molecules. This excessive response leads to an imbalance between oxidative stress and the body's antioxidant defenses, worsening the condition of critically ill patients.
+
+Within the human body, there is a vital protective mechanism involving an enzyme known as Superoxide Dismutase (SOD). This enzyme is one of the primary endogenous antioxidants that counteract reactive oxygen species (ROS), highly reactive molecules that can cause cell and tissue damage. SOD works by converting superoxide radicals, one of the most dangerous forms of ROS, into water molecules that are less harmful. As such, SOD acts as a crucial protective shield in maintaining oxidative balance within the body. Unfortunately, in patients with sepsis, SOD levels tend to decrease, thereby increasing oxidative stress, which can lead to higher mortality rates.
+
+Recognizing the importance of SOD in reducing oxidative damage, researchers from Universitas Sumatera Utara, Indonesia, consisting of Cut Meliza Zainumi, Gontar Alamsyah Siregar, Dadik Wahyu Wijaya, and Muhammad Ichwan, have sought ways to increase SOD levels in the body, particularly in septic conditions. One potential source that has garnered attention is Cucumis melo L.C., commonly known as cantaloupe. This fruit is rich in SOD and has long been known for its strong antioxidant properties.
+
+However, the biggest challenge in using SOD as therapy is ensuring that it is well absorbed by the body, particularly in the digestive system. This is where gliadin plays a crucial role. Gliadin, a protein derived from wheat, can enhance the absorption of SOD in the digestive tract when used in combination with Cucumis melo L.C. extract, resulting in a product known as Glisodin.
+
+To test the effectiveness of Glisodin as an antioxidant agent in sepsis conditions, Cut Meliza Zainumi and her team conducted a thorough experimental study on male Wistar rats. The rats were divided into four groups: a negative control group, a positive control group, and two groups that were given SOD supplements from Cucumis melo L.C. extract combined with gliadin (CME-gliadin) at doses of 1 IU/day and 5 IU/day. Over 28 days, these rats were administered Glisodin, after which sepsis was induced using intraperitoneal LPS injections at a dose of 10 mg/kg.
+
+“The results of this study provide intriguing insights into the potential of CME-gliadin as an adjunct therapy in septic conditions. A significant increase in SOD levels was observed in both groups receiving CME-gliadin supplements, compared to the control group. This indicates that the supplement successfully enhanced the body’s antioxidant defenses in the rats induced with sepsis. Furthermore, the reduction in MDA (malondialdehyde) levels, a marker of lipid damage due to peroxidation, also showed that oxidative stress in these rats decreased significantly after being administered CME-gliadin,” explained Cut Meliza Zainumi.
+
+Interestingly, despite the difference in SOD doses administered (1 IU/day and 5 IU/day), there was no significant difference in the effectiveness of both doses in reducing oxidative stress and inflammation. However, there was a notable difference in MDA and TNF-α (tumor necrosis factor-alpha) results, where the higher dose (5 IU/day) showed slightly better outcomes, though not statistically significant. This suggests that higher doses may offer slight additional benefits, although further research is needed to confirm these findings.
+
+Additionally, while CME-gliadin supplements successfully reduced TNF-α levels, a significant inflammatory marker in sepsis, an interesting finding emerged regarding lactate levels in these rats. Lactate, often used as a prognostic indicator in sepsis, increased significantly in all groups after LPS injection.
+
+“What’s interesting is that the groups given CME-gliadin supplements actually showed higher lactate increases compared to the control group. Although this may seem counterintuitive, it is possible that this lactate increase reflects a complex metabolic response to SOD supplementation, warranting further investigation,” said Cut Meliza Zainumi.
+
+Cut Meliza Zainumi further explained that the overall findings of this study indicate that Glisodin, containing SOD from Cucumis melo L.C. combined with gliadin, has potential as an antioxidant and anti-inflammatory agent in LPS-induced sepsis models. Although both SOD doses (1 IU/day and 5 IU/day) showed similar effectiveness in reducing oxidative stress and inflammation, the higher dose appeared to provide slight additional benefits. The findings regarding lactate levels underscore the complexity of the body’s response to this antioxidant supplement, necessitating further research to understand the underlying mechanisms.
+
+In a clinical context, Cut Meliza Zainumi mentioned that these findings offer hope that SOD supplements, particularly those derived from natural sources such as Cucumis melo L.C., could be a beneficial adjunct therapy in managing sepsis. However, as is always the case in scientific research, more studies, particularly on human subjects, are needed to ensure the effectiveness and safety of using Glisodin in sepsis conditions. “If further research supports these findings, we may be on the verge of a revolution in our approach to sepsis, using natural resources to combat one of the world’s greatest medical challenges,” concluded Cut Meliza Zainumi.
+
+Sepsis, with all its complexities, is a battlefield where every small gain can mean the difference between life and death. In the quest to understand and control this condition, we not only rely on advanced technology and modern medicines, but also draw inspiration from nature, from a simple sweet melon that holds great power. This serves as a reminder that in the fight against disease, sometimes the best solutions come from the most unexpected places.
+
+SDGs
+SDGs 3
+Paper Details
+Journal
+Heliyon
+Title
+Comparison enteral superoxide dismutase 1 IU and 5 IU from Cucumis melo L.C extract combined with gliadin as an antioxidant and anti-inflammatory in LPS-Induced sepsis model rats
+Authors
+Cut Meliza Zainumi (1), Gontar Alamsyah Siregar (2), Dadik Wahyu Wijaya (1), Muhammad Ichwan (3)
+Author Affiliations
+Department of Anesthesiology and Intensive Care, Faculty of Medicine, Universitas Sumatera Utara, Medan, Indonesia
+Department of Internal Medicine, Faculty of Medicine, Universitas Sumatera Utara, Medan, Indonesia
+DOI
+https://doi.org/10.1016/j.heliyon.2022.e10236
+Find More Articles
+Research Articles
+The Impact of Illustrated Modules in Combating Stunting on Nias
+Research Articles
+Green Innovation Practices in Palm Oil Refineries
+Research Articles
+Guardians in Silence: A Deep Dive into the Work of UN Interpreters
+
+Chatting with
+
+Halo USU
+
+close
+
+Halo,
+Dengan Layanan Bantuan USU
+Ada yang bisa kami bantu hari ini?
+-Admin
+
+SEND
+
+UNIVERSITAS
+SUMATERA UTARA
+
+Jl. Dr. T. Mansur No. 9, Kampus Padang Bulan, Medan, 20155, Sumatera Utara
+call
+0821 6888 9060
+mail_outline
+info@usu.ac.id
+Information Systems
+Integrated Service Unit
+Frequently Asked Questions
+Usage Rules
+Website Copyright
+Sitemap
+PPID
+Lapor
+E-Procurement
+Surveys
+Archives
+Career at USU
+
+Copyright 2025 - Universitas Sumatera Utara
